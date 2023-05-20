@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+  {% include html-head.html %}
+
+  <body id="{{ page.id }}_page">
+    <header>
+      <a href="{{ '/' | absolute_url }}">
+        <img id="logo" src="{{ '/Logo_BI_00.gif' }}" />
+      </a>
+
+      <nav>
+        {% include menu.html %}
+      </nav>
+
+      <h1>{{ page.title }}</h1>
+    </header>
+    
+    <div>
+      <section id="main-content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>

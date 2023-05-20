@@ -1,4 +1,5 @@
 ---
+layout: mainpage
 ---
 # Wir fordern: Keine Erweiterung der Autobahn A5!
 
