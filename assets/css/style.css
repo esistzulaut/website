@@ -2,7 +2,7 @@ body {
   max-width: 1024px;
   margin: 0 auto;
   font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding: 5px;
+  padding: 10px;
 }
 
 img {
@@ -32,7 +32,7 @@ header {
 
 .mainpage header {
   padding-top: 3rem;
-  grid-template-columns: 1fr 2.5fr; 
+  grid-template-columns: 1fr 2.93fr; 
   gap: 5px 5px; 
   align-items: end;
 }

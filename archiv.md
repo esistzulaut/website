@@ -96,7 +96,7 @@ Protokoll: HCS
 
 2. Das Bundesverwaltungsgericht stoppt den Ausbau der A20
 
-   <https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/Bundesverwaltungsgericht-stoppt-A20-Ausbau,hallonds74144.html>
+   [Beitrag im NDR](https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/Bundesverwaltungsgericht-stoppt-A20-Ausbau,hallonds74144.html)
 
 3. Bundesverkehrswegeplan 2030
 
@@ -137,7 +137,7 @@ Protokoll: HCS
 
    Begründung:
 
-   Die Erweiterung bzw. der Ausbau ist im Bundesverkehrswegeplan mit &quot;vordringlichen Bedarf mit Engpassbeseitigung (VB-E9)&quot; eingestuft (Bundesverkehrswegeplan 2030 Projekt A5-G2-HE http://wwwbvwp-projekte.de/strasse/A5-G20-HE/A5-G2-HE.html).
+   Die Erweiterung bzw. der Ausbau ist im Bundesverkehrswegeplan mit &quot;vordringlichen Bedarf mit Engpassbeseitigung (VB-E9)&quot; eingestuft (Bundesverkehrswegeplan 2030 Projekt A5-G2-HE <http://wwwbvwp-projekte.de/strasse/A5-G20-HE/A5-G2-HE.html>).
   
    Der Ortsbeirat muss über solch grundlegende Einschnitte in das Leben der an den entsprechenden Autobahnabschnitten wohnenden Bürger:innen informiert sein. Den betroffenen Bürger:innen und Anwohner:innen muss das Ausmaß der Baumaßnahmen sowie die zu erwartenden Einschränkungen transparent gemacht werden.
   
