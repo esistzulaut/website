@@ -13,7 +13,9 @@ E-Mail: <hcstoodt@gmx.de>
 
 ### Streitschlichtung
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: http://ec.europa.eu/consumers/odr Unsere E-Mail-Adresse finden Sie oben im Impressum.
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <http://ec.europa.eu/consumers/odr>
+
+Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 

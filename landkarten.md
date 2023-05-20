@@ -11,6 +11,6 @@ Geben Sie als Suchbegriff oben rechts z. B. &quot;Europabrücke&quot; ein! Dann 
 
 ## Der Lärmviewer des HNLUG
 
-[![Lärm-Viewer](laermkarte.jpg) https://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de](https://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de){:target="_blank"}
+[![Lärm-Viewer](/assets/img/laermkarte.jpg) https://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de](https://laerm.hessen.de/mapapps/resources/apps/laerm/index.html?lang=de){:target="_blank"}
 
 Geben Sie im Suchfeld oben links Ihre Adresse, den Ort oder die betreffende Postleitzahl ein!

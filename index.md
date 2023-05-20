@@ -32,4 +32,4 @@ Diese Bäumchen werden nun in den vier betroffenen Bereichen Neufeld, Lindenhag,
 Die BI „Es ist zu laut“ freut sich über weitere Mitstreiterinnen und Mitstreiter.
 Frankfurt, 30. April 2023
 
-![nach der Bürger:innenversammlung](../Gruppenfoto_BI.jpg)
+![nach der Bürger:innenversammlung](/assets/img/Gruppenfoto_BI.jpg)
