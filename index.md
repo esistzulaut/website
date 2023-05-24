@@ -8,7 +8,7 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 
 **Schließen Sie sich uns an, verteidigen Sie Ihr Recht auf körperliche und seelische Unversehrtheit und lassen Sie uns gemeinsam dem verantwortungslosen Treiben der Politik und der Baulobby Grenzen setzen! Jetzt!**
 
-## Bericht von der Bürger:innenversammlung am Samstag, den 29. April 2023 um Fünf vor Zwölf im Gemeindehaus der kath. Kirche Mariä Himmerfahrt
+## Bericht von der Bürger:innenversammlung am Samstag, den 29. April 2023 um Fünf vor Zwölf im Gemeindehaus der kath. Kirche Mariä Himmelfahrt
 
 Etwa 90 Bürgerinnen und Bürger aus den Frankfurter Stadtteilen Griesheim, Goldstein, Rödelheim, Praunheim, Kalbach und Höchst folgten der Einladung der Bürgerinitiative gegen den zehnspurigen Autobahnausbau der A5 durch den Frankfurter Westen.
 
