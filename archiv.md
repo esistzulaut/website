@@ -3,116 +3,13 @@ title: Archiv
 layout: default
 id: archiv
 ---
-## Was wir bisher unternommen haben
+# Was wir bisher unternommen haben
 
-### Ortsbegehungen und 2. Treffen der BI, 14.7.2022, ab 16:15 / 20:00 Uhr
+[Bericht von der Bürger:innenversammlung am 29.04.2023](./archiv/treffen-2023-04-29.md)
 
-Liebe Aktive gegen den Verkehrslärm an der A5 / gegen den drohenden Ausbau der A5 in den Stadtteilen Griesheim und Goldstein, wir hatten am vergangenen Donnerstag das zweite Treffen unserer Initiative. Darüber folgt hier ein Bericht, ebenso über unsere Absprachen und den nächsten Termin unserer Gruppe.
+[Bericht von der Ortsbegehung und dem 2. Treffen der BI am 14.07.2022](./archiv/treffen-2022-07-14.md)
 
-#### Pad
-
-Alle Informationen über unsere Arbeit werden auf einem Pad gesammelt und sind dort öffentlich zugänglich. Dieses Pad hat den Link: <https://pad.riseup.net/p/Es_ist_zu_laut!-keep> <br>
-Dort findet man unsere Protokolle, Termine, Infomaterialien und so weiter.
-
-#### Homepage
-
-Der Bürgerverein Griesheim hat zugesagt, unsere Informationen auch auf seiner Homepage zu veröffentlichen. Insbesondere soll es dort ab demnächst möglich sein, unsere gemeinsamen Forderungen zu unterschreiben.
-
-#### Unsere Forderungen
-
-Bei unserem Treffen am vergangenen Donnerstag haben wir noch einmal festgehalten, was unsere Forderungen sind:
-
-- Einführung eines Tempolimits entlang unserer Stadtteile (grundsätzlich eigentlich: im gesamten Stadtgebiet) von 80 km/h
-- Ersetzung des aktuellen Straßenbelags durch lärmmindernde Fahrbahnbeläge
-- Prüfung einer Einhausung als Alternative, mindestens aber
-- Erneuerung der Lärmschutzwände
-- Ablehnung des Ausbaus der A5 von derzeit acht auf künftig zehn Fahrstreifen, wie er im Bundesverkehrsegeplan vorgesehen ist.
-
-Wir haben Konsens, daß unter den heutigen Bedingungen der aus Klimaschutzgründen dringend erforderlichen grundlegenden und umfassenden Verkehrswende der Ausbau einer Autobahn ie völlig &quot;aus der zeit gefallenb&quot; wirkt und von uns abgelehnt wird.
-
-In dem Zusammenhang ist erneut auf die Rechtsposition des BUND und anderer Verkehrswende- und Umweltschutzverbände hinzuweisen, die den derzeit geltenden Bundesverkehrswegeplan (BVWP) für verfassungswidrig halten (Näheres siehe auf unserem Pad unter Punkt III).
-
-## Bericht von der Bürger:innenversammlung am Samstag, den 29. April 2023 um Fünf vor Zwölf im Gemeindehaus der kath. Kirche Mariä Himmelfahrt
-
-Etwa 90 Bürgerinnen und Bürger aus den Frankfurter Stadtteilen Griesheim, Goldstein, Rödelheim, Praunheim, Kalbach und Höchst folgten der Einladung der Bürgerinitiative gegen den zehnspurigen Autobahnausbau der A5 durch den Frankfurter Westen.
-
-Die beiden Moderatorinnen Dr. Kerstin Mayer und Katja Rininsland, beide aus unmittelbar betroffenen Stadtteilen, begrüßten die Interessierten.
-
-Dr. Hans Christoph Stoodt, Griesheimer Mitglied der BI, referierte über die derzeitige politische Situation rund um den von der Bundesregierung geplanten Ausbau der A5 zwischen Friedberg und Frankfurter Kreuz. Er kritisierte diese Pläne sowohl wegen der tiefen Eingriffe in das Leben hunderter Anwohner:innen aufgrund noch höherer Lärmbelastung – schon jetzt liege diese nach amtlichen Zahlen weit über den zulässigen Grenzwerten, als auch wegen der schweren klimapolitischen Folgen, die ein Festhalten am unzeitgemäßen motorisierten Individualverkehr habe. Den Bundesverkehrswegeplan 2030, in dessen Rahmen dieser Ausbau vorgesehen sei, bezeichnete er unter Berufung auf drei Rechtsgutachten von Nichtregierungsorganisation als verfassungs- und völkerrechtswidrig und forderte den Stopp des gesamten Bauprogramms, bis ein neuer Mobilitätsplan unter Berücksichtigung der klimapolitischen Vorgaben des Bundesverfassungsgerichts-Urteils vom April 2021 erarbeitet sei. Er sprach sich auch gegen den Widersinn aus, eine Autobahn als Fernstraße auszubauen, die vornehmlich regional belastet werde, und forderte stattdessen einen raschen Ausbau des ÖPNV in der Region. Vom hessischen Verkehrsministerium forderte er zudem, sich gegenüber dem Bundesverkehrsminister eindeutig gegen den Ausbau der A5 auszusprechen. Die Aktiven der BI würden jeden Versuch zurückweisen, Lärmschutz- und Klimaschutz-Interessen gegeneinander auszuspielen. Von den Verantwortlichen der Politik in Bund, Land und Stadt forderte er, umgehend alle Ausbaupläne umfassend zu veröffentlichen. Man glaube den Aussagen, solche Pläne gebe es noch gar nicht, auf keinen Fall.
-
-Der Wiesbadener Intensivmediziner und Psychotherapeut Dr. Michael Wilk erläuterte, was dauerhafter Lärm-Stress im Rahmen kumulativer Belastung nicht nur durch den Lärm des Autobahnverkehrs gesundheitlich bedeute. Er zitierte die Empfehlungen der Weltgesundheitsorganisation zu Fragen des Schutzes vor Verkehrslärm. Die dort vorgelegten Grenzwerte von 57 dB tags und 45 dB nachts kontrastieren erheblich mit den nach Zahlen des Hessischen Umweltamts veröffentlichten Lärmbelastungen entlang der A5, wo es in den Schwerpunkten  Neufeld, Lindenhag und Goldstein schon aktuell zu einem 24-Stunden-Durchschnittswert von über 75dB kommt, was auch den Grenzwerten der Bundesimmissionsschutzverordnung widerspricht. Diese Art von Belastungen führten zu einer erheblichen Zunahme von Herz-Kreislauferkrankungen, Depressionen und anderen psychischen Problemen, Konzentrations- und Lernschwäche und ähnlichen Problemen. Der Mediziner foderte abschließend die Anwesenden auf, den Politiker:innen der aktuellen Regierungen „kein Wort zu glauben“, sondern selbst aktiv zu werden.  
-
-Aus den betroffenen Stadtteilen sprachen sich Axel Scheid (Siedlung Neufeld), Dr. Kerstin Mayer (Siedlung Lindenhag), Birgit Puttendörfer (Griesheim-Mitte) und Ulrich Storck (Goldstein) einhellig gegen jeden Ausbau und zugleich für einen dringend zu verbessernden Lärmschutz unter den heutigen Bedingungen durch Maßnahmen wie ein innerstädtisches Tempolimit auf der Autobahn und verbesserte Lärmschutzwände aus. Sie legten dar, daß jeglicher Ausbau ohne Enteignungen von Immobilien entlang der A5 nicht vorstellbar sei. Ulrich Storck legte aus seiner Sicht als Bauingenieur dar, welch gigantische Menge an Beton allein für die vier größeren und an die vierzig kleineren  Brückenbauten und ähnliche Einrichtungen kosten werde, die den Ausbau der A5 notwendigerweise begleiten müssten. Diese Art von Bauplanung sei völlig aus der Zeit gefallen und widerspreche dem Klimaschutz. Sie seien deshalb abzulehnen.
-
-Matthias Jakob, Ortsbeirat in Kalbach und Bewohner dieses Stadtteils berichtete von der Lärmsituation an der A5 dort. Viele Jahre alte Versprechungen, dort für Lärmschutz zu sorgen, seien immer wieder gebrochen worden und der Ortsteil bis heute schutzlos, ohne alle Lärmschutzwände, von drei Seiten dem Autobahnlärm ausgesetzt. Er legte dar, was ein Ausbau der A5 unter solchen Bedingungen bedeute und kündigte den Widerstand der betroffenen Bevölkerung an.
-
-Thomas Schlimme von den Frankfurter Grünen und Griesheimer erklärte zu der in der  Versammlung aufgekommenen Kritik an der Politik seiner Partei, diese habe sich in Frankfurt auf die Ablehnung des Ausbaus der A5 festgelegt. Er wurde in einer sich anschließenden Diskussion aufgefordert, dafür einzutreten, dass sich die hessischen Grünen (wie auch die SPD) noch vor den Landtagswahlen im Herbst unzweideutig auf eine Ablehnung des Autobahnausbaus festlegen sollten.
-
-Die Anwesenden erarbeiteten in Kleingruppen eine Fülle von Ideen und Forderungen, an denen sich die Bürger:innen-Initiative in ihrer weiteren Arbeit orientieren wird. 
-
-Zum Abschluss dokumentierten alle ihre Wünsche für die Zukunft ihrer Stadtteile: vier kleine Apfelbäumchen wurden mit Papierwolken behängt, auf denen zB. stand: „kein Autobahnausbau“, „Frieden mit der Natur“, „Klimaschutz statt Autostaus!“. 
-Diese Bäumchen werden nun in den vier betroffenen Bereichen Neufeld, Lindenhag, Griesheim und Goldstein gepflanzt mit dem Wunsch, sie mögen nie gefällt werden um einer Autobahn weichen zu müssen.
-
-Die BI „Es ist zu laut“ freut sich über weitere Mitstreiterinnen und Mitstreiter.
-Frankfurt, 30. April 2023
-
-![nach der Bürger:innenversammlung](/assets/img/Gruppenfoto_BI.jpg)
-
-#### Bericht von der Ortsbegehung am 14.7.2022
-
-Es fanden an fünf Stellen Ortsbegehungen statt, über deren wichtigste Ergebnisse hier kurz berichtet sei:</p>
-
-- Treffen in Griesheim Nord / Neufeld.
-
-  Axel Scheid berichtete den anwesenden sieben Personen von der Lage. Am Ende der Straße Neufeld (Griesheim Nord) verlaufen A648 und A5 parallel. Der Verkehrslärm wird weit über hundert Meter vor allem von der A648 nach Westen in die Siedlung verteilt.Es ist ein ständiges Rauschen von,  nach Aussage einer Anwohnerin, die seit 50 Jahren am Ort lebt, in den Spitzen bis zu über gemessenen 80dB wahrzunehmen - 24 Stunden an 7 Tagen pro Woche. Nachts ebbt der Verkehrslärm der A648 ab, dann wird er durch den der A5 &quot;ersetzt&quot;
-
-  Die Anwohner:innen vor Ort fordern vor allem, daß die Lärmschutzand der A648 Richtung Nordwesten verlängert wird. Sie berichten zudem von der widerrechtlichen, inzwischen gestoppten Aktion der Autobahn GmbH, die im Frühjahr 2022 einen Trupp geschickt hatte, der über 50 Bäume an der Böschung der A648 fällte, obwohl er für nur sieben kranke Bäume eine ensptsprechende Genehmigung hatte. Nur dank des Eingreifens der Anwohner:innen konnte das gestoppt werden. Man kann davon ausgehen, daß diese Maßnahme wahrscheinlich noch nicht im Zusammenhang der geplanten A%-Erweiterung steht. Jedoch berichtete Herr Wamser von einem nachbarn, dessen Gartengrundstück (Griesheim Mitte, nördlich der A5) bereits gekündigt (oder gar enteignet?) worden sei - mit Hinweis auf die geplante Erweiterung der Autobahn. Axel Scheid plant, in der gesamten Angelegenheit über die Fraktion der GRÜNEN im Hesssichen Landtag auf die Lage der Siedlung hinzuweisen.
-
-- Treffen am Lindenhag, Griesheim Nord
-
-  Hier trafen sich ca. 50 Anwohnerinnen. Frau Mayer berichtete von der Situation. Der Verkehrslärm an der Lärmschutzwand ist noch sehr viel lauter als am Neufeld zu hören. Die Siedlung reicht dicht an ihn heran. Sollte die A5 verbreitert werden, müsste dem nach Einschätzung der Anwohner:innen mindestens ein Wohnhaus weichen. In der Siedlung Lindenhag war eine hohe Bereitschaft der Anwohner:innen zu spüren, sich das nicht widerspruchslos gefallen zu lassen.
-
-- Treffen Espenstraße / A5
-
-  Im bereich der Siedlung Espenstraße / Kreuzung A5 ist die Mobilisierung sehr viel schwieriger. Hier aren (mit einer Ausnahme) &quot;nur&quot; Aktive unserer BI anwesend. Der Verkehrslärm wird hier weiter verteilt, weil die A5 in größerer Höhe über die Siedlung / an ihr vorüber verläuft, dafür wird er aber umso weiter verteilt. Zudem ist auch der Verkehrslärm im Bereich Espenstraße / Kleyerstraße so, daß auch hier Beruhigungsmaßnahmen sinnvoll wären. Wir müssen gemeinsam überlegen, wie wir es schaffen, die Anwohner:innen hier besser zu erreichen und zu mobilisieren.
-
-- Treffen Griesheimer Stadtweg / A5
-
-  Hier sieht es sowohl baulich als auch, was die Mobilisierung angeht, sehr ähnlich aus, wie an der Espenstraße. Durch eine Ortsbegehung an verschiedenen Stellen im Bereich des main-Nordufers / Europabrücke fällt auf, daß an einigen Bereichen Lärmschutzwände einfach fehlen.
-
-- Treffen Goldsteinsiedlung entlang der A5
-
-  Zehn Personen berichteten von der Lärmsituation. Durch die vor einigen Jahren erneuerte Lärmschutzwand ist nichts besser geworden. Der Lärm wird nur in einem weiteren Bereich &quot;verteilt&quot;.
-
-  Ein Anwohner der A5 berichtet, er sei bei Verhandlungen im Jahr 2018 über die Neubebauung seines Erbpacht-Grundstücks seitens eines städtischen Verhandlungspartners gefragt worden, ob sich diese Investition denn noch lohne - in zehn Jahren werde hier doch sowieso &quot;alles weg sein&quot;, was sich offenbar auf die im Bundesverkehrswegeplan festgelegte Erweiterung der A5 beziehe.
-  
-  Anschließendes Treffen im &quot;Mainglück&quot;
-
-  Bei unserem Treffen im Restaurant des Ruderclubs (Griesheim) besprechen wir die Ergebnisse dieser ersten heutigen gemeinsamen Begehung.
-  Wir halten die weitere gemeinsame Vernetzung für sehr sinnvoll und werden uns eine gemeinsame Position zur geplanten A5-Erweiterung und zum Lärmschutz erarbeiten und sie gemeinsam vertreten.
-
-  Frau Puttendörfer (SPD, Stellvertretende Vorsitzende des Ortsbeirats) plant, dort einen Antrag einzubringen mit dem Ziel, Magistrat und Autobahn-GmbH zu veranlassen, vor dem Ortsbeirat oder in einer Bürger:innenversammlung vor Ort ihre Pläne zu Lärmschutz und A5-Verbreiterung offenzulegen. Einen ähnlichen Antrag bereitet die LINKE Fraktion im Ortsbeirat vor.
-
-  In dem Zusammenhang wurde erneut an den Brief von Stadtrat Majer (GRÜNE) erinnert, der vor kurzem den Ausbauplan bestätigt hatte, für die Stadt jedoch keinerlei Eingriffsmöglichkeiten außer der Information der Bürger:innen und Diskussionen über Lärmschutz sah. Dazu passt die Haltung des SPD-Stadtverordneten Gregor Amann, der Frau Seifarth (Bürgerverein Griesheim)  von unserem Zusammenhangs im Gespräch erläuterte, die Ausbau sei beschlossene Sache und nicht zu verhindern. Finanziell zuständig für Lärmschutzmaßnahmen sei der Bund, womit die Stadt in jeder Hinsicht &quot;aus dem Spiel&quot; wäre.
-
-  In unserer Runde sind wir uns entsprechend unsere Forderungen (s.o.) aber einig, daß wir den Ausbau der A5 grundsätzlich ablehnen und das auch der Stadt, dem Land, dem Bund und der Autobahn-GmbH gegenüber deutlich machen wollen.
-
-  In diesem Zusammenhang könnten wir uns bei einem nächsten Treffen auch darüber verständigen, ob wir uns nicht regional und bundesweit mit den existierenden zahlreichen Initiativen gegen Autobahn-Ausbaupläne vernetzen. Einen Überblick dazu bietet die Homepage asphaltprotestkarte.de.
-  
-Nächstes Treffen: 25.8.2022
-
-Als nächsten Termin für unsere Initiative legen wir den 25.8., 19 Uhr fest.
-
-Der Ort wird rechtzeitig bekannt gegeben. Herr Euler bietet an, daß wir uns im Bürgerhaus Goldstein treffen und für die weitere Arbeit dort auch Büroraum nutzen können, was alle sehr gut finden.
-
-Hans Christoph Stoodt wir für das nächste Treffen die ev. Kirchengemeinde anfragen, ob für den 25.8. ein Raum in einem der Kirchen / Gemeindehäuser der Gemeinde zur Verfügung stehen könnte.
-
-Dieses Protokoll wird auf unserem Pad veröffentlicht. Es ist ausdrücklich erwünscht, im Kreis der betroffenen / interessierten Nachbar:innen der beiden Stadtteile für unser Anliegen zu werben, zB. auch durch Weiterleitung dieser Mail. Wer auf unseren Mailverteiler aufgenommen werden möchte, kann an die Adresse es.ist.zu.laut@gmx.de schreiben.
-
-16.7.2022,
-Protokoll: HCS
-
-### Infos, Aufrufe, Anträge, Ideen
+## Infos, Aufrufe, Anträge, Ideen
 
 1. &quot;Der Bundesverkehrswegeplan ist verfassungswidrig!&quot;
 
