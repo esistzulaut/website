@@ -9,37 +9,32 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 **Schließen Sie sich uns an, verteidigen Sie Ihr Recht auf körperliche und seelische Unversehrtheit und lassen Sie uns gemeinsam dem verantwortungslosen Treiben der Politik und der Baulobby Grenzen setzen! Jetzt!**
 
 ---
+**[Petition: Stoppt den Ausbau von Autobahnen, erhöht den Lärmschutz für Anwohner](https://www.change.org/p/stoppt-den-ausbau-von-autobahnen-erhöht-den-lärmschutz-für-anwohner**)**
 
-## Im Schatten der Autobahnbrücke
-### Bürger:innen und Politiker:innen diskutieren den drohenden zehnspurigen Ausbau der A5.
+---
 
-**Samstag, den 24.6.2023, 11:55 Uhr**\
-Griesheimer Stadtweg (A5-Unterführung) 65933 Frankfurt am Main
+## Im Schatten der Autobahn
 
-Am Samstag, 24.6.2023, 11:55, treffen sich Bürgerinnen und Bürger aus den Stadtteilen Griesheim, Goldstein, Rödelheim, Kalbach und anderen Teilen Frankfurts unter der Autobahnbrücke der A5 auf der Griesheimer Seite im Griesheimer Stadtweg mit Politiker:innen. 
+Erfolgreiche Veranstaltung der BI gegen den Ausbau der A5 und intensive Diskussionen mit Politiker:innen aus Frankfurt und Hessen
 
-Dort wollen wir mit Politikerinnen und Politikern ins Gespräch kommen, die auf kommunaler, Landes- und Bundesebene Mitverantwortung für die Entscheidung tragen, die Autobahn A5 durch den Frankfurter Westen vom Nordwestkreuz bis zum Frankfurter Kreuz zehnspurig auszubauen. So hat es Bundesverkehrsminister Wissing angekündigt und mit höchster Priorität versehen. Unsere BI fordert dagegen, die schon jetzt lärmüberlasteten Anwohnerinnen sofort besser gegen den bereits jetzt alle zulässigen Grenzen weit überschreitenden Lärm zu schützen und den geplanten Autobahnausbau sofort zu stoppen. Ebenso verlangen wir, alle Bau- und Zeitpläne dieser geplanten Erweiterung umgehend zu veröffentlichen.
-Zu unsere Forderungen gibt es unterschiedliche Positionen bei unseren Gesprächspartner:innen aus der Politik. Wir wollen sie im direkten Kontakt hören und unsere Meinung dazu sagen.
+![Veranstaltung der Bürgerinitiative unter der A5 in Frankfurt](assets/img/treffen-2023-06-24/120912_lowRes.jpg)
 
-Zugesagt haben bisher:
+Mehr als 150 Personen nahmen am Samstag, 24.6., um 11:55 Uhr an einer Veranstaltung an ungewöhnlichem Ort teil: die BI „Es ist zu laut“ hatte Medien und Verkehrs-Politiker:innen zu einem Meinungsaustausch unter die Brücke der A5 in Frankfurt Griesheim geladen. 
 
-- Martina Feldmayer, MdL, GRÜNE Frankfurt
-- Axel Gerntke, MdL, DIE LINKE, Frankfurt
-- Dr. Daniela Mehler-Würzbach, Stadtverordnete, DIE LINKE, Verkehrsausschuss
-- Frank Nagel, Stadtverordneter, Verkehrspolitischer Sprecher der CDU-Fraktion
-- Kolja Müller, Co-Vorsitzender, SPD Frankfurt
-- Birgit Puttendörfer, SPD
-- Tom Rausch, CDU, Ortsvorsteher Goldstein
-- Thomas Schlimme, Stadtverordneter, GRÜNE, Verkehrsausschuss
-- Katy Walter, MdL, GRÜNE, Hess. Verkehrsausschuss
-- Dr. Ulrich Wilken, DIE LINKE, Stellv. Landtagspräsident
-- Turgut Yüksel, MdL, SPD Frankfurt
+Diese Präsenz von vielen Anwohner:innen aus dem Stadtteil zeigt uns, dass wir ein gemeinsames Anliegen richtig formuliert haben. Das freut uns sehr. Vom Autobahnlärm schon heute betroffene Anwohner:innen kamen ebenso zu Wort wie kompetente Fachreferent:innen, die aus medizinischer und bautechnischer wie bauökologischer Sicht den unverantwortlichen Unsinn eines weiteren Ausbaus der A5 schilderten. 
 
-Weitere Zusagen stehen noch aus.
+![Treffen unter der A5](assets/img/treffen-2023-06-24/115827_lowRes.jpg)
 
-Wir sind gespannt auf den Dialog im Schatten der Autobahnbrücke und erwarten uns einen offenen und ertragreichen Beginn dieses Dialogs zwischen Betroffenen und politischen Entscheider:innen.
+Ebenso finden wir es gut, daß 11 Politiker:innen von CDU, SPD, GRÜNEN und LINKEN unserer Einladung gefolgt sind, sich unsere Forderungen anhörten und in kurzen Statements ihre Position zum von der Bundesregierung angekündigten zehnspurigen Ausbau der A5 darlegten.
 
-Vertreter:innen der Medien sind willkommen.
+![Parteienvertreter sind der Einladung der Bürgerinitiative gefolgt](assets/img/treffen-2023-06-24/122745_lowRes.jpg)
+
+Natürlich waren weder diese Positionierungen untereinander, noch die meisten mit den Forderungen der BI, die unter dem Titel „Vier Positionen und drei Forderungen“ vorgetragen wurden (Anlage), einfach deckungsgleich einer Ansicht. 
+Dennoch: kein/e einzige/r der anwesenden Politiker:innen aus den genannten Parteien sprach sich rückhaltlos für den von der Bundesregierung angekündigten zehnspurigen Ausbau aus. Alle äußerten Zweifel an der klimapolitischen Sinnhaftigkeit eines solchen Vorhabens. 
+
+Diesen Sachverhalt öffentlich hör- und sichtbar zu machen, wird unsere Aufgabe nicht zuletzt im kommenden Landtagswahlkampf sein.
+
+![Wir bleiben dran, auch nach dem Treffen unter der Autbahnbrücke](assets/img/treffen-2023-06-24/121008_lowRes.jpg)
 
 BI „Es ist zu laut“\
-11.6.2023
+24.6.2023
