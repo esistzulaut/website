@@ -13,28 +13,17 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 
 ---
 
-## Im Schatten der Autobahn
+## Der Ausbau der Autobahn A5, die CDU, die „Frankfurter Neue Presse und die Sache mit dem Nadelöhr
 
-Erfolgreiche Veranstaltung der BI gegen den Ausbau der A5 und intensive Diskussionen mit Politiker:innen aus Frankfurt und Hessen
+_Die Redaktion der Frankfurter Neuen Presse konnte sich nicht entschließen, den folgenden Leserbrief zu veröffentlichen. Zuvor hatte der FNP-Journalist Daniel Pfeiffer-Goldmann mit Berufung auf den verkehrspolitischen Sprecher der CDU-Fraktion im Frankfurter Stadtparlament, Frank Nagel, in einem Artikel seines Blattes behauptet, wenn es keinen A5-Ausbau gäbe, gäbe es weder Lärmschutz noch Sicherheit vor einem verkehrspolitischen „Nadelöhr“. 
+Das hatte Frank Nagel wie auch die Arbeitsgemeinschaft-West der CDU allerdings gar nicht behauptet, die CDU im Frankfurter Westen befürwortet sogar, genau wie die BI „Es ist zu laut“ ein Tempolimit von 100 km/h auf der A5 im Bereich der Stadt Frankfurt. Auf diesen Widerspruch sollte hingewiesen werden. Weil das die FNP offenbar nicht möchte, tun wir es eben selbst._
 
-![Veranstaltung der Bürgerinitiative unter der A5 in Frankfurt](assets/img/treffen-2023-06-24/120912_lowRes.jpg)
+„Eher geht ein Kamel durch ein Nadelöhr, als daß ein Reicher in den Himmel kommt!“, sagte Jesus nach dem Bericht des Markus-Evangeliums (10,25), und spielte damit vielleicht auf eine Stelle in Jerusalem an, an der die Häuser so eng beieinander standen, daß vollbepackte Kamele nicht zwischen ihnen hindurchpassten. Verkehrspolitik und Nadelöhre – man sieht: ein altes Thema.
 
-Mehr als 150 Personen nahmen am Samstag, 24.6., um 11:55 Uhr an einer Veranstaltung an ungewöhnlichem Ort teil: die BI „Es ist zu laut“ hatte Medien und Verkehrs-Politiker:innen zu einem Meinungsaustausch unter die Brücke der A5 in Frankfurt Griesheim geladen. 
+Zur Diskussion des zehnspurigen Ausbaus der A5 vom Bad Homburger bis zum Frankfurter Kreuz, den die Berliner Ampel-Koalition im März als vordringlich wichtig beschlossen hat, kamen am Samstag, 24.6., etwa 160 Menschen aus den von diesem Plan bedrohten Anwohnerinnen und Anwohner zusammen, um mit verantwortlichen Menschen aus der Politik zu diskutieren. Landtagsabgeordnete, Stadtverordnete und Menschen aus den Ortsbeiräten – insgesamt 14 Politikerinnen und Politiker aus CDU, SPD, GRÜNE, LINKE, unter ihnen auch Frank Nagel und Tom Rausch von der CDU. Menschen aus der FDP blieben der Veranstaltung, obwohl eingeladen, fern. Den Grund dafür kennen wir nicht. 
+Leider hat Frank Nagel, als die Gelegenheit bestand, uns nicht das gesagt, was wir nun in der FNP als seine Äußerungen lesen. Von einem drohenden Nadelöhr sagte er kein Wort. Das passte auch gut zu einem Schreiben der Arbeitsgemeinschaft West der Frankfurter CDU, die unserer Bürgerinnen- und Bürgerinitiative „Es ist zu laut“ am 22.6. geschrieben und die Position des Magistrats und des Landes Hessen in dieser Frage guthieß: achtspuriger Ausbau der A5 nördlich des Nordwestkreuzes, verbunden mit geeigneten Lärmschutzmaßnahmen, von denen bis zur Stunde nichts vorhanden ist.  Zudem fordert die CDU-ArGe im selben Schreiben ein Tempolimit von 100 km/h im innerstädtischen Autobahnverkehr. Davon distanzierte sich Frank Nagel nicht – sagt aber offenbar der FNP nun etwas völlig anderes? Das würde uns wundern. 
 
-Diese Präsenz von vielen Anwohner:innen aus dem Stadtteil zeigt uns, dass wir ein gemeinsames Anliegen richtig formuliert haben. Das freut uns sehr. Vom Autobahnlärm schon heute betroffene Anwohner:innen kamen ebenso zu Wort wie kompetente Fachreferent:innen, die aus medizinischer und bautechnischer wie bauökologischer Sicht den unverantwortlichen Unsinn eines weiteren Ausbaus der A5 schilderten. 
+Wir wollen weder den geplanten zehnspurigen Ausbau der A5, noch einen achtspurigen als Vorbedingung für Lärmschutz im Frankfurter Nordosten. Der dortige und hiesige Lärm ist in seiner Belastungshöhe nachweislich dauerhaft illegal, verletzt Menschen an Körper und Seele seit langem und bis heute. Diesen Zustand zu beenden ist selbstverständliche staatliche Pflicht. Sie zu erfüllen darf weder am Geld scheitern, noch Teil eines Kuhhandels um die Erweiterung der Autobahn um wieviele Spuren und wo auch immer sein. Ganz abgesehen davon, daß der bundesweit erstmalige zehnspurige Ausbau, für den bisher nach Auskunft des Hessischen Verkehrsministers noch nicht einmal ein Regelwerk existiert, klimapolitisch Ausdruck eines tief irrationalen und in seinen Auswirkungen für die unmittelbar Betroffenen gewaltförmigen „Weiter so!“ ist, dem wir entgegentreten werden. 
 
-![Treffen unter der A5](assets/img/treffen-2023-06-24/115827_lowRes.jpg)
-
-Ebenso finden wir es gut, daß 11 Politiker:innen von CDU, SPD, GRÜNEN und LINKEN unserer Einladung gefolgt sind, sich unsere Forderungen anhörten und in kurzen Statements ihre Position zum von der Bundesregierung angekündigten zehnspurigen Ausbau der A5 darlegten.
-
-![Parteienvertreter sind der Einladung der Bürgerinitiative gefolgt](assets/img/treffen-2023-06-24/122745_lowRes.jpg)
-
-Natürlich waren weder diese Positionierungen untereinander, noch die meisten mit den Forderungen der BI, die unter dem Titel „Vier Positionen und drei Forderungen“ vorgetragen wurden (Anlage), einfach deckungsgleich einer Ansicht. 
-Dennoch: kein/e einzige/r der anwesenden Politiker:innen aus den genannten Parteien sprach sich rückhaltlos für den von der Bundesregierung angekündigten zehnspurigen Ausbau aus. Alle äußerten Zweifel an der klimapolitischen Sinnhaftigkeit eines solchen Vorhabens. 
-
-Diesen Sachverhalt öffentlich hör- und sichtbar zu machen, wird unsere Aufgabe nicht zuletzt im kommenden Landtagswahlkampf sein.
-
-![Wir bleiben dran, auch nach dem Treffen unter der Autbahnbrücke](assets/img/treffen-2023-06-24/121008_lowRes.jpg)
-
-BI „Es ist zu laut“\
-24.6.2023
+Dr. Hans Christoph Stoodt\
+BI „Es ist zu laut“
