@@ -19,11 +19,13 @@ Eine dieser Aktivitäten ist unser Spaziergang entlang der A5 im Bereich Kalbach
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2455.452193403036!2d8.604245775573569!3d50.09143437977152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd0a3560c32ad3%3A0x2423249f2d971a3f!2sAlte%20Falterstra%C3%9Fe%206%2C%2065933%20Frankfurt%20am%20Main!5e0!3m2!1sde!2sde!4v1688227412544!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
-## Sonntag, 23.7., Spaziergang entlang der A5 im Bereich Kalbach-Niederursel
+## Sonntag, 23.7. um 15:00, Spaziergang entlang der A5 im Bereich Kalbach-Niederursel
 
-Treffen is am 15 Uhr an der U-Bahnstation Campus Riedberg / Kalbach, wo Matthias Jakob vom Ortsbeirat 12 uns erwartet und einen Rundgang entlang der A5 in diesem Teil von Frankfurt vorbereitet hat. Es wäre schön, wenn viele von uns dabei wären – je besser wir uns miteinander vernetzen, desto leichter können wir Einfluss gewinnen.
+Treffen ist an der U-Bahnstation Campus Riedberg / Kalbach, wo Matthias Jakob vom Ortsbeirat 12 uns erwartet und einen Rundgang entlang der A5 in diesem Teil von Frankfurt vorbereitet hat. Es wäre schön, wenn viele von uns dabei wären – je besser wir uns miteinander vernetzen, desto leichter können wir Einfluss gewinnen.
 
 ---
 ## Samstag, 7.10., BI-Spaziergang im Frankfurter Stadtwald
 
 Das ist diesmal ein Samstag, und wir werden von einem der Förster im Frankfurter Stadtwald geführt, um die die aktuellen Belastungen des Stadtwalds durch die A5 besser kennen zu lernen.
+
+Ort und Zeitpunkt werden noch bekannt gegeben.
