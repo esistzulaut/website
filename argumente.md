@@ -1,6 +1,6 @@
 ---
 title: Argumente für den Autobahnausbau
-layout: default
+layout: tiles
 markdown: kramdown
 id: argumente
 ---

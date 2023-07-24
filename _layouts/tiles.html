@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de">
+  {% include html-head.html %}
+
+  <body id="{{ page.id }}_page">
+    <header>
+      <a href="{{ '/' | absolute_url }}">
+        <img id="logo" src="{{ '/assets/img/Logo_BI_00.gif' }}" />
+      </a>
+
+      <nav>
+        {% include menu.html %}
+      </nav>
+
+      <h1>{{ page.title }}</h1>
+    </header>
+    
+    <div>
+      <dl id="main-content">
+        {% assign tiles = content | split: "<h3" | where_exp: "entry", "entry != ''" %}
+        {% for entry in tiles %}
+          {% assign parts = entry | split: "</h3>" %}
+          {% assign parts2 = parts[0] | split: ">" %}
+          {% assign id = parts2[0] %}
+          <label{{ parts2[0] }}>
+            <input type="radio" name="tile">
+            <dt>{{ parts2[1] }}</dt>
+            <dd>
+              <h3>{{ parts2[1] }}</h3>
+              {{ parts[1] }}
+            </dd>
+          </label>
+        {% endfor %}
+      </section>
+    </div>
+
+    <script type="application/javascript">
+      document.querySelectorAll("dl dd").forEach(dd => {
+        dd.addEventListener("click", (event) => {
+          const checkedInputs = document.querySelectorAll("input[type='radio']:checked")
+          checkedInputs.forEach(radio => (radio.checked = false))
+          event.preventDefault()
+        })
+      })
+    </script>
+  </body>
+</html>
