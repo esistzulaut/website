@@ -37,9 +37,11 @@
     <script type="application/javascript">
       document.querySelectorAll("dl dd").forEach(dd => {
         dd.addEventListener("click", (event) => {
-          const checkedInputs = document.querySelectorAll("input[type='radio']:checked")
-          checkedInputs.forEach(radio => (radio.checked = false))
-          event.preventDefault()
+          if (event.target.tagName !== "A") {
+            const checkedInputs = document.querySelectorAll("input[type='radio']:checked")
+            checkedInputs.forEach(radio => (radio.checked = false))
+            event.preventDefault()
+          }
         })
       })
     </script>
