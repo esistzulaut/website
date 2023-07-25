@@ -3,7 +3,7 @@ title: Archiv
 layout: default
 id: archiv
 ---
-# Was wir bisher unternommen haben
+## Was wir bisher unternommen haben
 
 [Bericht von der Veranstaltung am 24.06.2023 mit Politiker:innen aus Frankfurt und Hessen](./archiv/treffen-2023-06-24.md)
 
@@ -11,7 +11,7 @@ id: archiv
 
 [Bericht von der Ortsbegehung und dem 2. Treffen der BI am 14.07.2022](./archiv/treffen-2022-07-14.md)
 
-## Infos, Aufrufe, Anträge, Ideen
+### Infos, Aufrufe, Anträge, Ideen
 
 1. &quot;Der Bundesverkehrswegeplan ist verfassungswidrig!&quot;
 
