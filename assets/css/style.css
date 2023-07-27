@@ -111,16 +111,37 @@ dd {
   background: white;
 }
 
+.socialmedia {
+  width: 24px;
+  text-align: right;
+}
+
+.socialmedia img {
+  width: 24px;
+}
+
 header {
   margin-top: 1rem;
   display: grid;
-  grid-template-columns: 80px auto; 
+  grid-template-columns: 80px auto 24px; 
   gap: 5px 5px; 
-  justify-content: flex-start;
   align-items: flex-start;
   grid-template-areas: 
-    "logo menu"
-    "title title";
+    "logo menu socialmedia"
+    "title title title";
+}
+
+
+#header-2 {
+  display: grid;
+  grid-template-columns: 1fr 24px;
+  grid-template-areas: "menu socialmedia";
+  align-items: flex-start;
+}
+
+footer {
+  border-top: 1px solid grey;
+    padding: 1rem 0;
 }
 
 iframe {
@@ -130,7 +151,8 @@ iframe {
 .mainpage header {
   padding-top: 3rem;
   grid-template-columns: 1fr 2.93fr; 
-  gap: 5px 5px; 
+  gap: 5px 5px;
+  margin-right: -5px;
   align-items: end;
 }
 
@@ -154,27 +176,26 @@ header h1 { grid-area: title; }
 nav { grid-area: menu; }
 
 nav {
-  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   row-gap: 5px;
   column-gap: 8px;
 }
 
-nav a {
+nav > a {
   display: inline-block;
   padding: 0.8rem 1.5rem;
   margin-bottom: 5px;
   text-decoration: none;
 }
 
-nav a:nth-child(1) { background-color: #8DF98D; }
-nav a:nth-child(2) { background-color: #F7D452; }
-nav a:nth-child(3) { background-color: #7FF8FA; }
-nav a:nth-child(4) { background-color: #FFF65C; }
-nav a:nth-child(5) { background-color: #F7A8A9; }
-nav a:nth-child(6) { background-color: #D4C7FB; }
-nav a:nth-child(7) { background-color: #7EFFEA; }
+nav > a:nth-child(1) { background-color: #8DF98D; }
+nav > a:nth-child(2) { background-color: #F7D452; }
+nav > a:nth-child(3) { background-color: #7FF8FA; }
+nav > a:nth-child(4) { background-color: #FFF65C; }
+nav > a:nth-child(5) { background-color: #F7A8A9; }
+nav > a:nth-child(6) { background-color: #D4C7FB; }
+nav > a:nth-child(7) { background-color: #7EFFEA; }
 
 .mainpage nav {
   margin-top: 1rem;
@@ -197,7 +218,7 @@ nav a:nth-child(7) { background-color: #7EFFEA; }
   h2 {
     font-size: 1.2rem;
   }
-  nav a {
+  nav > a {
     padding: 0.5rem 0.95rem;
   }
   .mainpage header {
@@ -205,6 +226,12 @@ nav a:nth-child(7) { background-color: #7EFFEA; }
   }
   .mainpage nav {
     margin-top: 0.2rem;
+  }
+  #header-2 {
+    grid-template-columns: 1fr 16px;
+  }
+  .socialmedia {
+    width: 16px;
   }
 }
 
@@ -218,16 +245,6 @@ nav a:nth-child(7) { background-color: #7EFFEA; }
 
 #download_page #main-content em {
   margin: 1rem;
-}
-
-#socialmedia_page #main-content a {
-  line-height: 32px;
-}
-
-#socialmedia_page #main-content img {
-  width: 32px;
-  float: left;
-  margin: 0 5px 0 0;
 }
 
 #archiv_page blockquote {
