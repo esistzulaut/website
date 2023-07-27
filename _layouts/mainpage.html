@@ -15,13 +15,20 @@
       </div>
     </header>
 
-    <div>
+    <div id="header-2">
       <nav>
         {% include menu.html %}
       </nav>
-      <section id="main-content">
-        {{ content }}
-      </section>
+
+      <div class="socialmedia">
+        {% include socialmedia.html %}
+      </div>
     </div>
+
+    <section id="main-content">
+      {{ content }}
+    </section>
+
+    {% include footer.html %}
   </body>
 </html>
