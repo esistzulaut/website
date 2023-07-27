@@ -25,5 +25,5 @@ Leider hat Frank Nagel, als die Gelegenheit bestand, uns nicht das gesagt, was w
 
 Wir wollen weder den geplanten zehnspurigen Ausbau der A5, noch einen achtspurigen als Vorbedingung für Lärmschutz im Frankfurter Nordosten. Der dortige und hiesige Lärm ist in seiner Belastungshöhe nachweislich dauerhaft illegal, verletzt Menschen an Körper und Seele seit langem und bis heute. Diesen Zustand zu beenden ist selbstverständliche staatliche Pflicht. Sie zu erfüllen darf weder am Geld scheitern, noch Teil eines Kuhhandels um die Erweiterung der Autobahn um wieviele Spuren und wo auch immer sein. Ganz abgesehen davon, daß der bundesweit erstmalige zehnspurige Ausbau, für den bisher nach Auskunft des Hessischen Verkehrsministers noch nicht einmal ein Regelwerk existiert, klimapolitisch Ausdruck eines tief irrationalen und in seinen Auswirkungen für die unmittelbar Betroffenen gewaltförmigen „Weiter so!“ ist, dem wir entgegentreten werden. 
 
-Dr. Hans Christoph Stoodt\
+Dr. Hans Christoph Stoodt<br />
 BI „Es ist zu laut“
