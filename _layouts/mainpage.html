@@ -3,32 +3,34 @@
   {% include html-head.html %}
 
   <body class="mainpage">
-    <header>
-      <a href="{{ '/' | absolute_url }}">
-        <img src="{{ '/assets/img/Logo_BI_00.gif' }}" />
-      </a>
+    <div class="page-wrapper">
+      <header>
+        <a href="{{ '/' | absolute_url }}">
+          <img src="{{ '/assets/img/Logo_BI_00.gif' }}" />
+        </a>
 
-      <div>
-        <img src="/assets/img/IMG_4574.jpg" alt="Bürger:innen der Initiative bei der Ortsbegehung" />
-        <img src="/assets/img/IMG_4550.jpg" alt="Die Häuser direkt neben der Autobahn A5" />  
-        <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative" />
+        <div>
+          <img src="/assets/img/IMG_4574.jpg" alt="Bürger:innen der Initiative bei der Ortsbegehung" />
+          <img src="/assets/img/IMG_4550.jpg" alt="Die Häuser direkt neben der Autobahn A5" />  
+          <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative" />
+        </div>
+      </header>
+
+      <div id="header-2">
+        <nav>
+          {% include menu.html %}
+        </nav>
+
+        <div class="socialmedia">
+          {% include socialmedia.html %}
+        </div>
       </div>
-    </header>
 
-    <div id="header-2">
-      <nav>
-        {% include menu.html %}
-      </nav>
+      <section id="main-content">
+        {{ content }}
+      </section>
 
-      <div class="socialmedia">
-        {% include socialmedia.html %}
-      </div>
+      {% include footer.html %}
     </div>
-
-    <section id="main-content">
-      {{ content }}
-    </section>
-
-    {% include footer.html %}
   </body>
 </html>

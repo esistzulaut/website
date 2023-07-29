@@ -1,14 +1,17 @@
 html, body {
-  max-width: 1024px;
-  margin: 0 auto;
   font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding: 10px;
+  padding: 0;
+  margin: 0;
   width: 100%;
   height: 100%;
   overflow: hidden auto;
   overflow-wrap: anywhere;
-  box-sizing: border-box;
-  padding: 2px;
+}
+
+.page-wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 img {
@@ -47,6 +50,10 @@ dl > label {
 }
 
 @media screen and (max-width: 500px) {
+  .page-wrapper {
+    padding: 10px;
+  }
+
   dl > label {
     width: 100%;
   }
@@ -112,7 +119,6 @@ dd {
 }
 
 .socialmedia {
-  width: 24px;
   text-align: right;
 }
 
@@ -123,7 +129,7 @@ dd {
 header {
   margin-top: 1rem;
   display: grid;
-  grid-template-columns: 80px auto 24px; 
+  grid-template-columns: 80px auto auto; 
   gap: 5px 5px; 
   align-items: flex-start;
   grid-template-areas: 
@@ -131,10 +137,9 @@ header {
     "title title title";
 }
 
-
 #header-2 {
   display: grid;
-  grid-template-columns: 1fr 24px;
+  grid-template-columns: 1fr auto;
   grid-template-areas: "menu socialmedia";
   align-items: flex-start;
 }
