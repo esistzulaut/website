@@ -118,6 +118,12 @@ dd {
   background: white;
 }
 
+video {
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+}
+
 .socialmedia {
   text-align: right;
 }

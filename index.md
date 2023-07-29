@@ -13,17 +13,15 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 
 ---
 
-## Der Ausbau der Autobahn A5, die CDU, die „Frankfurter Neue Presse und die Sache mit dem Nadelöhr
+## Spaziergang entlang der A5 im Bereich Kalbach-Niederursel am 23.07.2023
 
-_Die Redaktion der Frankfurter Neuen Presse konnte sich nicht entschließen, den folgenden Leserbrief zu veröffentlichen. Zuvor hatte der FNP-Journalist Dennis Pfeiffer-Goldmann mit Berufung auf den verkehrspolitischen Sprecher der CDU-Fraktion im Frankfurter Stadtparlament, Frank Nagel, in einem Artikel seines Blattes behauptet, wenn es keinen A5-Ausbau gäbe, gäbe es weder Lärmschutz noch Sicherheit vor einem verkehrspolitischen „Nadelöhr“. 
-Das hatte Frank Nagel wie auch die Arbeitsgemeinschaft-West der CDU allerdings gar nicht behauptet, die CDU im Frankfurter Westen befürwortet sogar, genau wie die BI „Es ist zu laut“ ein Tempolimit von 100 km/h auf der A5 im Bereich der Stadt Frankfurt. Auf diesen Widerspruch sollte hingewiesen werden. Weil das die FNP offenbar nicht möchte, tun wir es eben selbst._
+Am vergangenen Sonntag trafen sich ca. 35 Bürgerinnen und Bürger an der U-Bahnstation Campus Riedberg / Kalbach, wo Matthias Jakob vom Ortsbeirat 12 uns erwartet und einen Rundgang entlang der A5 in diesem Teil von Frankfurt vorbereitet hat.
 
-„Eher geht ein Kamel durch ein Nadelöhr, als daß ein Reicher in den Himmel kommt!“, sagte Jesus nach dem Bericht des Markus-Evangeliums (10,25), und spielte damit vielleicht auf eine Stelle in Jerusalem an, an der die Häuser so eng beieinander standen, daß vollbepackte Kamele nicht zwischen ihnen hindurchpassten. Verkehrspolitik und Nadelöhre – man sieht: ein altes Thema.
+<video controls width="100%">
+  <source src="/assets/clip-2023-07-23.mp4" type="video/mp4">
+  <a href="/assets/clip-2023-07-23.mp4">Video herunterladen</a>
+</video>
 
-Zur Diskussion des zehnspurigen Ausbaus der A5 vom Bad Homburger bis zum Frankfurter Kreuz, den die Berliner Ampel-Koalition im März als vordringlich wichtig beschlossen hat, kamen am Samstag, 24.6., etwa 160 Menschen aus den von diesem Plan bedrohten Anwohnerinnen und Anwohner zusammen, um mit verantwortlichen Menschen aus der Politik zu diskutieren. Landtagsabgeordnete, Stadtverordnete und Menschen aus den Ortsbeiräten – insgesamt 14 Politikerinnen und Politiker aus CDU, SPD, GRÜNE, LINKE, unter ihnen auch Frank Nagel und Tom Rausch von der CDU. Menschen aus der FDP blieben der Veranstaltung, obwohl eingeladen, fern. Den Grund dafür kennen wir nicht. 
-Leider hat Frank Nagel, als die Gelegenheit bestand, uns nicht das gesagt, was wir nun in der FNP als seine Äußerungen lesen. Von einem drohenden Nadelöhr sagte er kein Wort. Das passte auch gut zu einem Schreiben der Arbeitsgemeinschaft West der Frankfurter CDU, die unserer Bürgerinnen- und Bürgerinitiative „Es ist zu laut“ am 22.6. geschrieben und die Position des Magistrats und des Landes Hessen in dieser Frage guthieß: achtspuriger Ausbau der A5 nördlich des Nordwestkreuzes, verbunden mit geeigneten Lärmschutzmaßnahmen, von denen bis zur Stunde nichts vorhanden ist.  Zudem fordert die CDU-ArGe im selben Schreiben ein Tempolimit von 100 km/h im innerstädtischen Autobahnverkehr. Davon distanzierte sich Frank Nagel nicht – sagt aber offenbar der FNP nun etwas völlig anderes? Das würde uns wundern. 
+Zusammen mit Susanne Kassold, ebenfalls aus dem Ortsbeirat, zeigten sie den Mitgliedern der Bürgerinitiative und weiteren Interessierten, wie laut es trotz der dort immerhin installierten Lärmschutzmaßnahmen schon ohne den weiteren Ausbau der A5 in Kalbach Riedberg ist.
 
-Wir wollen weder den geplanten zehnspurigen Ausbau der A5, noch einen achtspurigen als Vorbedingung für Lärmschutz im Frankfurter Nordosten. Der dortige und hiesige Lärm ist in seiner Belastungshöhe nachweislich dauerhaft illegal, verletzt Menschen an Körper und Seele seit langem und bis heute. Diesen Zustand zu beenden ist selbstverständliche staatliche Pflicht. Sie zu erfüllen darf weder am Geld scheitern, noch Teil eines Kuhhandels um die Erweiterung der Autobahn um wieviele Spuren und wo auch immer sein. Ganz abgesehen davon, daß der bundesweit erstmalige zehnspurige Ausbau, für den bisher nach Auskunft des Hessischen Verkehrsministers noch nicht einmal ein Regelwerk existiert, klimapolitisch Ausdruck eines tief irrationalen und in seinen Auswirkungen für die unmittelbar Betroffenen gewaltförmigen „Weiter so!“ ist, dem wir entgegentreten werden. 
-
-Dr. Hans Christoph Stoodt<br />
-BI „Es ist zu laut“
+Mit den künftigen 8 bis 10 Spuren der Autobahn würde diese dann noch weiter an die Bebauung heran rücken und die Belastung der Anwohner steigern. Im alten Ortsteil von Kalbach, an der bisher gar kein Lärmschutz angebracht ist und ein im Rahmen des Ausbaus durch die Tallage der Autobahn auch kein praktisch hilfreicher Lärmschutz möglich wäre, ist durch das weitere Ansteigen des Verkehrsaufkommens sogar mit einer noch höheren Belastung zu rechnen.
