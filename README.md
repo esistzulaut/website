@@ -7,7 +7,7 @@ Das Miniserium für Verkehr will die Autobahn A5 vom Frankfurter Kreuz bis zum F
 - Der Individualverkehr wird weiter ansteigen -> mehr CO2 wird freigesetzt
 - Die Anwohner werden durch noch mehr Verkehrslärm belästigt
 
-In diesem GitHub Repository sind die Dateien für die Website zu finden, mit der wir auf das Problem aufmerksam machen. Du findest die fertige Website auf https://www.esistzulaut.de
+In diesem GitHub Repository sind die Dateien für die Website zu finden, mit der wir auf das Problem aufmerksam machen. Du findest die fertige Website auf https://www.esistzulaut.org
 
 ## Mitmachen
 
