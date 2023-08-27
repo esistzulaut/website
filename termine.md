@@ -3,6 +3,10 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
+## Mittwoch, 20.9.2023, Informationsveranstaltung mit Blick auf die Landtagswahl
+
+Um 19 Uhr, in Bickenbach, Bürgerhaus
+
 ## Donnerstagabend, 28.09.2023, Reguläres Treffen der Bürgerinitiative
 
 Der Ort und die genaue Zeit werden noch bekannt gegeben.
