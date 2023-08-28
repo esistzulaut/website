@@ -13,7 +13,7 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 
 ---
 
-##Den geplanten Ausbau der A5 / A60 / A67 in Frankfurt und Südhessen verhindern - die Verkehrswende durchsetzen - Klima, Wasser und Wald schützen.
+## Den geplanten Ausbau der A5 / A60 / A67 in Frankfurt und Südhessen verhindern - die Verkehrswende durchsetzen - Klima, Wasser und Wald schützen.
 
 ### Informationsveranstaltung mit Blick auf die Landtagswahl
 am Mittwoch, den 20.9.2023, um 19 Uhr, in Bickenbach, Bürgerhaus
