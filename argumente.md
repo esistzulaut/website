@@ -1,5 +1,5 @@
 ---
-title: Argumente für den Autobahnausbau
+title: Argumente für und gegen den Autobahnausbau
 layout: tiles
 markdown: kramdown
 id: argumente
