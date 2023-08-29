@@ -1,5 +1,6 @@
 ---
 layout: mainpage
+markdown: kramdown
 ---
 # Wir fordern: Keine Erweiterung der Autobahn A5!
 
@@ -9,7 +10,7 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 **Schließen Sie sich uns an, verteidigen Sie Ihr Recht auf körperliche und seelische Unversehrtheit und lassen Sie uns gemeinsam dem verantwortungslosen Treiben der Politik und der Baulobby Grenzen setzen! Jetzt!**
 
 ---
-**[Petition: Stoppt den Ausbau von Autobahnen, erhöht den Lärmschutz für Anwohner](https://www.change.org/p/stoppt-den-ausbau-von-autobahnen-erhöht-den-lärmschutz-für-anwohner)**
+**[Petition: Stoppt den Ausbau von Autobahnen, erhöht den Lärmschutz für Anwohner](https://www.change.org/p/stoppt-den-ausbau-von-autobahnen-erhöht-den-lärmschutz-für-anwohner){:target="_blank"}**
 
 ---
 
