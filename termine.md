@@ -15,4 +15,4 @@ Der Ort und die genaue Zeit werden noch bekannt gegeben.
 
 Das ist diesmal ein Samstag, und wir werden von einem der Förster im Frankfurter Stadtwald geführt, um die die aktuellen Belastungen des Stadtwalds durch die A5 besser kennen zu lernen.
 
-Ort und Zeitpunkt werden noch bekannt gegeben.
+Wir treffen uns um 14:00 in Goldstein an der Straßenbahnhaltestelle "Waldfriedhof".
