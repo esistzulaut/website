@@ -3,9 +3,13 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Mittwoch, 20.9.2023, Informationsveranstaltung mit Blick auf die Landtagswahl
+## Freitag, 15.9.2023 Globaler Klimastreik von Fridays for Future, 15:00, Alte Oper Frankfurt
 
-Um 19 Uhr, in Bickenbach, Bürgerhaus
+<https://www.klima-streik.org/>
+
+## Mittwoch, 20.9.2023, A5/60/67 stoppen - Informationsveranstaltung mit Blick auf die Landtagswahl
+
+Um 19 Uhr, in Bürgerhaus Bickenbach
 
 ## Donnerstagabend, 28.09.2023, Reguläres Treffen der Bürgerinitiative
 
