@@ -1,0 +1,53 @@
+<div id="registration" style="display: none">
+  <div>
+    <div class="title">Immer auf dem Laufenden bleiben?</div>
+    <label>
+      <input id="register-email" type="email" placeholder="Hier die e-Mail Adresse eingeben"/>
+    </label>
+
+    <button id="register">Bin dabei!</button>
+    <button id="decline">Kein Interesse</button>
+
+    <div class="disclaimer">
+      Wir speichern die E-Mail-Adresse ausschließlich für die Versendung von Informationen zu unseren Aktionen,
+      geben diese keinesfalls an Dritte weiter und werden sie auf Anforderung jederzeit wieder löschen,
+      oder spätestens sobald der Ausbau gestoppt wurde.
+    </div>
+  </div>
+</div>
+
+<script>
+  var registrationDialog = document.querySelector("#registration")
+  registrationDialog.querySelector("#register").addEventListener("click", register)
+  registrationDialog.querySelector("#decline").addEventListener("click", decline)
+  var emailField = registrationDialog.querySelector("input#register-email")
+
+  function openRegistrationDialog() {
+    registrationDialog.setAttribute("style", "")
+
+  }
+  
+  function close() {
+    registrationDialog.setAttribute("style", "display: none")
+  }
+
+  async function register() {
+    var headers = { "Content-Type": "application.json" }
+    var data = { email: emailField.value, dest: "esistzulaut" }
+    await fetch("https://func.justso.de/subscriptions", { headers, method: "post", body: JSON.stringify(data) })
+    localStorage.setItem("registration", "registered")
+    close()
+  }
+  
+  function decline() {
+    localStorage.setItem("registration", "declined")
+    close()
+  }
+
+  var registration = localStorage.getItem("registration")
+  if (!registration) {
+    setTimeout(() => openRegistrationDialog, 5000)
+  }
+
+  document.getElementById("open-registration").addEventListener("click", openRegistrationDialog)
+</script>

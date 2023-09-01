@@ -1,0 +1,55 @@
+#registration {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgb(0 0 0 / 10%);
+}
+
+#registration > div {
+  display: block;
+  position: absolute;
+  border: 1px solid grey;
+  background: white;
+  box-shadow: 5px 5px 10px grey;
+  padding: 20px;
+  margin: 40% 5% 0;
+  font-size: 120%;
+}
+
+#registration .title {
+  font-weight: bold;
+}
+
+#registration label {
+  display: block;
+  padding: 0.5rem 0;
+}
+
+#registration input {
+  width: 100%;
+  padding: 4px;
+  font-size: 110%;
+  border: 1px solid darkblue;
+  box-sizing: border-box;
+}
+
+#registration button {
+  padding: 5px 20px;
+  border: 2px solid grey;
+  border-radius: 4px;
+  background: white;
+  font-size: 100%;
+  cursor: pointer;
+}
+
+#registration button:hover {
+  background: #eeeeee;
+}
+
+#registration .disclaimer {
+  font-size: 70%;
+  margin: 1rem 0;
+}
