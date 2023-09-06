@@ -34,6 +34,8 @@ Für eine zukunftsfähige Verkehrspolitik ist daher eine soziale und klimagerech
 
 Auf der Veranstaltung werden kompetente Referentinnen und Referenten wissenschaftlich fundiert die Auswirkungen des Straßenbaus auf Klima, Wasser und Wald und die zukünftigen Lebensbedingungen der Menschen aufzeigen. Beleuchtet werden zudem die rechtlichen Schieflagen politischer Entscheidungen in der Klima- und Verkehrspolitik. Mit Erfahrungs- und Sachbeiträgen, auch zum Bau der A49 in Mittelhessen, wird der Problemzusammenhang (Straßenbau - Wald – Wasser - Klima) umfassend und konkret belegt. Die Teilnehmerinnen und Teilnehmer erhalten ausreichend Gelegenheit, Fragen zu stellen und Position zu beziehen.
 
+<object style="width: 100%; height: 100vw;" type="application/pdf" data="/assets/2023-09-20-infoveranstaltung.pdf?#navpanes=0&toolbar=0#view=FitH"></object>
+
 ---
 
 **Initiative Verkehrswende Jetzt – Südhessen**
