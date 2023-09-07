@@ -5,8 +5,8 @@
   <body id="{{ page.id }}_page">
     <div class="page-wrapper">
       <header>
-        <a href="{{ '/' | absolute_url }}">
-          <img id="logo" src="{{ '/assets/img/Logo_BI_00.gif' }}" />
+        <a href="{{ '/' | absolute_url }}" id="logo">
+          <img src="{{ '/assets/img/Logo_BI_00.gif' }}" />
         </a>
   
         <nav>
@@ -20,8 +20,8 @@
         <h1>{{ page.title }}</h1>
       </header>
       
-      <div>
-        <dl id="main-content">
+      <section>
+        <dl>
           {% assign tiles = content | split: "<h3" | where_exp: "entry", "entry != ''" %}
           {% for entry in tiles %}
             {% assign parts = entry | split: "</h3>" %}
@@ -36,8 +36,8 @@
               </dd>
             </label>
           {% endfor %}
-        </section>
-      </div>
+        </dl>
+      </section>
 
       {% include footer.html %}
     </div>
