@@ -3,8 +3,7 @@
   <div class="post-teaser">
     <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url }}">
       {% if post.thumbnail %}
-      <div class="post-img">
-        <img alt="{{ post.title }}" src="{{ post.thumbnail }}">
+      <div class="post-img" style="background-image: url(/{{ post.thumbnail }})">
       </div>
       {% endif %}
 
