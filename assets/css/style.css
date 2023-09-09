@@ -137,7 +137,7 @@ video {
 }
 
 .socialmedia img {
-  width: 24px;
+  width: 30px;
 }
 
 header.top {
@@ -250,6 +250,10 @@ nav > span a::before {
   padding-bottom: 1rem;
 }
 
+.posts .post-teaser:hover {
+  background-color: #eeeeee;
+}
+
 .posts .post-teaser .post-img {
   text-align: center;
 }
@@ -262,10 +266,11 @@ nav > span a::before {
 
 .posts .post-teaser h2 {
   font-weight: bold;
+  margin-top: 0.5rem;
 }
 
 .posts .post-teaser .excerpt, .posts .post-teaser h2 {
-  padding: 0 1rem;
+  padding: 0 0.5rem;
 }
 
 .posts .post-teaser a {
@@ -278,6 +283,10 @@ nav > span a::before {
     grid-template-columns: 1fr 1fr;
   }
 
+  .posts .post-teaser h2 {
+    margin-top: 1rem;
+  }
+      
   img.left {
     max-width: 60%;
     float: left;
@@ -295,6 +304,10 @@ nav > span a::before {
     clear: both;
     display: table;
   }
+
+  .posts .post-teaser .excerpt, .posts .post-teaser h2 {
+    padding: 0 1rem;
+  }  
 }
 
 .mainpage nav {
@@ -337,7 +350,7 @@ nav > span a::before {
     grid-template-columns: 1fr 16px;
   }
   .socialmedia {
-    width: 16px;
+    width: 20px;
   }
 }
 
