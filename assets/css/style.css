@@ -140,7 +140,7 @@ video {
   width: 24px;
 }
 
-header {
+header.top {
   display: grid;
   grid-template-columns: 80px auto auto; 
   gap: 5px 10px; 
@@ -170,7 +170,7 @@ iframe {
   max-width: 100%;
 }
 
-.mainpage header {
+.mainpage header.top {
   padding-top: 2rem;
   grid-template-columns: 1fr 2.93fr; 
   gap: 5px 5px;
@@ -178,11 +178,11 @@ iframe {
   align-items: end;
 }
 
-.mainpage header a {
+.mainpage header.top a {
   line-height: 0;
 }
 
-.mainpage header > div {
+.mainpage header.top > div {
   display: grid;
   grid-template-columns: 1fr 1fr; 
   grid-template-rows: 2fr 1fr; 
@@ -193,7 +193,7 @@ iframe {
   align-items: end;
 }
 
-header h1 {
+header.top h1 {
   grid-area: title; 
   margin: 0;
   align-self: end;
@@ -239,6 +239,56 @@ nav > span a::before {
   transform: rotate(-45deg);
 }
 
+.posts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 0.5rem 0 1rem;
+}
+
+.posts .post-teaser {
+  box-shadow: 2px 2px 10px #cccccc;
+}
+
+.posts .post-teaser .post-img {
+  text-align: center;
+}
+
+.posts .post-teaser img {
+  max-width: 100%;
+  max-height: 300px;
+  margin: 0 auto;
+}
+
+.posts .post-teaser header {
+  padding: 0.5rem 1rem;
+}
+
+.posts .post-teaser header a {
+  text-decoration: none;
+  color: black;
+}
+
+@media (min-width: 640px) {
+  img.left {
+    max-width: 60%;
+    float: left;
+    margin: 0 15px 15px 0;
+  }
+
+  img.right {
+    max-width: 60%;
+    float: right;
+    margin: 0 0 15px 15px;
+  }
+
+  img.left::before, img.right::before {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
+
 .mainpage nav {
   margin-top: 0.1rem;
 }
@@ -254,13 +304,13 @@ nav > span a::before {
 }
 
 @media (max-width: 640px) {
-  header {
+  header.top {
     grid-template-areas: 
     "logo menu socialmedia"
     "title title title";
   }
 
-  header h1 {
+  header.top h1 {
     font-size: 1.5rem;
   }
   h2 {
@@ -269,7 +319,7 @@ nav > span a::before {
   nav > a {
     padding: 0.5rem 0.95rem;
   }
-  .mainpage header {
+  .mainpage header.top {
     padding-top: 0;
   }
   .mainpage nav {
