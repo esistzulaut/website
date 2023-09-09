@@ -269,7 +269,14 @@ nav > span a::before {
   margin-top: 0.5rem;
 }
 
-.posts .post-teaser .excerpt, .posts .post-teaser h2 {
+.posts .post-teaser .continue-read {
+  margin-top: 1rem;
+  text-align: right;
+}
+
+.posts .post-teaser h2,
+.posts .post-teaser .excerpt,
+.posts .post-teaser .continue-read {
   padding: 0 0.5rem;
 }
 
@@ -305,7 +312,9 @@ nav > span a::before {
     display: table;
   }
 
-  .posts .post-teaser .excerpt, .posts .post-teaser h2 {
+  .posts .post-teaser h2,
+  .posts .post-teaser .excerpt,
+  .posts .post-teaser .continue-read {
     padding: 0 1rem;
   }  
 }
