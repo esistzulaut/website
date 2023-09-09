@@ -241,13 +241,13 @@ nav > span a::before {
 
 .posts {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
+  gap: 1rem;
   margin: 0.5rem 0 1rem;
 }
 
 .posts .post-teaser {
   box-shadow: 2px 2px 10px #cccccc;
+  padding-bottom: 1rem;
 }
 
 .posts .post-teaser .post-img {
@@ -260,16 +260,24 @@ nav > span a::before {
   margin: 0 auto;
 }
 
-.posts .post-teaser header {
-  padding: 0.5rem 1rem;
+.posts .post-teaser h2 {
+  font-weight: bold;
 }
 
-.posts .post-teaser header a {
+.posts .post-teaser .excerpt, .posts .post-teaser h2 {
+  padding: 0 1rem;
+}
+
+.posts .post-teaser a {
   text-decoration: none;
   color: black;
 }
 
 @media (min-width: 640px) {
+  .posts {
+    grid-template-columns: 1fr 1fr;
+  }
+
   img.left {
     max-width: 60%;
     float: left;
