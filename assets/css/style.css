@@ -49,6 +49,7 @@ dl > label {
   border-radius: 4px;
   padding: 10px;
   box-shadow: 4px 4px 4px rgb(0 0 0 / 15%);
+  cursor: pointer;
 }
 
 @media screen and (max-width: 800px) {
@@ -77,6 +78,17 @@ dl > label > input {
 
 dl > label > dd {
   transform: scale(0);
+}
+
+dl > label > dt {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+dl > label > dt > .open {
+  text-align: right;
 }
 
 dd::after {
@@ -239,6 +251,11 @@ nav > span a::before {
   transform: rotate(-45deg);
 }
 
+nav > span:hover a,
+nav > span:hover a::before {
+  color: orangered;
+}
+
 .posts {
   display: grid;
   gap: 1rem;
@@ -385,4 +402,8 @@ nav > span a::before {
   margin-inline-start: 1rem;
   margin-inline-end: 1rem;
   color: #333;
+}
+
+#argumente_page {
+  height: 100vh;
 }

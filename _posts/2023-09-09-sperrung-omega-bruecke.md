@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sperrung der Omega Brücke und des S-Bahn-Verkers in Griesheim
+title: Sperrung der Omega Brücke und des S-Bahn-Verkehrs in Griesheim
 thumbnail: assets/img/2023-09-09-sperrung-omega-bruecke/IMG_6214.jpg
 excerpt: Die Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ in Frankfurt Griesheim kommentiert die aktuelle Sperrung der Griesheimer Omega-Brücke über die Gleise der S-Bahn nahe des Griesheimer S-Bahnhofs
 markdown: kramdown
