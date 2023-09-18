@@ -1,10 +1,12 @@
 ---
-title: Argumente für und gegen den Autobahnausbau
+title: Argumente für den Autobahnausbau
 layout: tiles
 markdown: kramdown
 id: argumente
 ---
+Solche Argumente FÜR die Autobahnerweiterung hören wir manchmal. Hier sind unsere Antworten darauf:
 
+<!--break-->
 ### Mit dem Ausbau der Autobahn kommen auch Schallschutzwände - damit wird es sogar leiser als bisher
 
 Leider nicht. Zunächst geht mit dem Autobahnausbau eine gigantische Baustelle einher, die zum Autobahnlärm auch noch Baustellenverkehr, Abbrucharbeiten und ähnliches mit sich bringt.

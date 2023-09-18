@@ -21,8 +21,10 @@
       </header>
       
       <section>
+        {% assign blocks = content | split: '<!--break-->' %}
+        {{ blocks[0] }}
         <dl>
-          {% assign tiles = content | split: "<h3" | where_exp: "entry", "entry != ''" %}
+          {% assign tiles = blocks[1] | strip_newlines | split: "<h3" | where_exp: "entry", "entry != ''" %}
           {% for entry in tiles %}
             {% assign parts = entry | split: "</h3>" %}
             {% assign parts2 = parts[0] | split: ">" %}
