@@ -16,7 +16,7 @@ Um 19 Uhr, im Bürgerhaus Bickenbach
 Wir sind jeweils zwischen 11 und 13 Uhr an folgenden Stationen:
 
 - Griesheim, Alte Falterstraße / Ecke Hartmannsweiler-Straße 65933 Frankfurt, vor Supermarkt REWE
-- Rödelheim, genauer Ort folgt
+- Rödelheim, Arthur-Stern-Platz (Bahnhof), 60489 Frankfurt
 - Praunheim, Eugen-Hartmann-Straße 60488 Frankfurt, ebenfalls vor dem REWE-Center
 
 ## Donnerstagabend, 28.09.2023, Reguläres Treffen der Bürgerinitiative
