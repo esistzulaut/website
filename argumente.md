@@ -54,7 +54,7 @@ Bisher ist die A5 6spurig, 3 Spuren pro Fahrtrichtung. Die eigentlich vorhandene
 
 Allein der Flächenverbrauch ist gigantisch. Autobahn-Fahrspuren werden derzeit in Deutschland mit einer Breite von 3,75m ausgelegt. die Verbreiterung beträgt damit 15 Meter. Hinzu kommt jedoch noch der Platz für Lärmschutzwände, die ihrerseits dann noch mal bis zu je 3 Meter Breite benötigen. Insgesamt ist also auf der geplanten Länge von 6km mit einem Platzbedarf von ca. 108.000m<sup>2</sup> zusätzlich versiegelter Fläche zu rechnen. Das entspricht ungefähr dem Platz von **15 Fußballfeldern**.
 
-Sollte auch noch - entsprechende Gerüchte existieren bereits - die Strecke bis zum Bad Homburger Kreuz ebenfalls ausgebaut werden, wird es **ein Vielfaches** davon.
+Wenn nicht nur den Frankfurter Teil der A5 sondern die ganze Strecke, die erweitert werden soll, in Betracht zieht, wird es ein Vielfaches davon.
 
 ### Ich wohne zu weit von der A5 entfernt - mich geht das nichts an
 
@@ -67,3 +67,9 @@ Und ein Teil des Verkehrs wird sicherlich auch auf die **Innenstadt** ausweichen
 Wie alt sind Sie in 10 Jahren, wenn dann tatsächlich die Bauarbeiten abgeschlossen sein werden? Wie lange werden Sie dann noch von den "Vorteilen" des Ausbaus profitieren?
 
 Und überhaupt: die Erzeugung von Unmengen von CO<sub>2</sub> durch den Bau und den erhöhten Fahrzeugverkehr betrifft **uns alle**. Er verändert schon jetzt spürbar unser Klima. Vertrocknete Wälder, Hitzetote, Überflutungen, Sturmschäden an unseren Häusern - ganz rückgängig machen können wir den Klimawandel schon nicht mehr, jetzt geht es um Schadensbegrenzung.
+
+### Das Land Hessen hat den Ausbau doch schon abgelehnt. Es wird ihn also nicht geben.
+
+Das stimmt leider nicht. Das Land Hessen hat der Beschleunigung von manchen der Projekte nicht zugestimmt. Andere – wie der Ausbau der Kreuze und der Ausbau des Abschnitts zwischen Nordwestkreuz und Bad Homburger Kreuz – will das Land Hessen beschleunigt umsetzen lassen, wenn auch nicht 10- so doch 8-spurig.
+
+Unabhängig von den Beschleunigungsplänen des Bundesverkehrsministerims aus dem Frühjahr 2023: Der Bundesverkehrswegeplan von 2015 ist beschlossene Sache, was das Land Hessen dazu sagt, ist zwar interessant, aber rechtlich nicht bindend. Das steht so wortwörtlich auch in der Stellungnahme von Hessens Verkehrsminister al-Wazir im April 2023 zum Ausbau der A5 an Bundesminister Wissing: zuständig und verantwortlich für den gesamten Ausbau sei nicht er, sondern die Bundesregierung.
