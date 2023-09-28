@@ -81,3 +81,11 @@ Tatsächlich kann eine gute Infrastruktur dafür sorgen, dass ländliche Regione
 Gerade rund um Ballungsgebiete ist das Ergebnis in der Regel meist ein anderes: Sie degradieren zu reinen Wohngemeinden. Eingekauft wird eher in der Stadt oder online, kleinere Läden verschwinden, auch Cafés und Restaurants können sich auf Dauer nicht mehr halten. Mit den hohen Investitionen in das Straßennetz werden neben dem Individualverkehr strukturelle Veränderungen zu Gunsten von Lieferdiensten gefördert und die Entfaltung sozialer Beziehungen unter den Bürgern eher behindert. 
 
 Dagegen hilft nur ein kürzerer ÖPNV-Takt und eine lebenswertere Gestaltung des Zentrums um die Bahnhöfe herum. Das lädt Bürgerinnen und Bürger dazu ein, nach der Rückkehr aus der Großstadt noch einen Kaffee zu trinken, und führt dann ggf. auch dazu, die Einkäufe direkt vor Ort zu erledigen und nicht noch mal nach Außerhalb in den größeren Markt zu fahren.
+
+### Für die Bahn wird doch auch viel ausgegeben, jetzt sind mal die Autofahrer dran
+
+Ja, es sind schon erstaunliche Summen, von denen man immer mal wieder hört, mit denen die Bahn finanziert wird. Da ist von Milliarden die Rede. So wird allein der Bahnverkehr mit 112,3 Mrd € bezuschusst (Quelle: [Bundesverkehrswegeplan 2030](https://bmdv.bund.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html)).
+
+Straßen werden hierzulande sogar noch höher bezuschusst, allein vom Bund im gleichen Zeitraum mit 132,8 Mrd €. Länder und Kommunen finanzieren zusätzlich. Außerdem sollte man daran denken, dass beim Straßenbau der Staat das Risiko trägt: kostet ein Projekt mehr als geplant, wird eben mehr ausgegeben, die Bahn hingegen muss solche Risiken selbst tragen.
+
+Im Vergleich zu anderen Ländern steht Deutschland damit ebenfalls nicht gut da: pro Kopf investiert die Bundesrepublik nämlich nur nur ca. 114€ pro Jahr. Das ist nur ca. ein Viertel dessen, was z.B. die Schweiz investiert (450€), Luxemburg ist mit 575€ sogar noch spendabler. Laut [Allianz pro Schiene](https://www.allianz-pro-schiene.de/themen/infrastruktur/investitionen/) rangieren wir auf dem drittletzten Platz in Europa.
