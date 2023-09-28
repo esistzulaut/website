@@ -73,3 +73,11 @@ Und überhaupt: die Erzeugung von Unmengen von CO<sub>2</sub> durch den Bau und 
 Das stimmt leider nicht. Das Land Hessen hat der Beschleunigung von manchen der Projekte nicht zugestimmt. Andere – wie der Ausbau der Kreuze und der Ausbau des Abschnitts zwischen Nordwestkreuz und Bad Homburger Kreuz – will das Land Hessen beschleunigt umsetzen lassen, wenn auch nicht 10- so doch 8-spurig.
 
 Unabhängig von den Beschleunigungsplänen des Bundesverkehrsministerims aus dem Frühjahr 2023: Der Bundesverkehrswegeplan von 2015 ist beschlossene Sache, was das Land Hessen dazu sagt, ist zwar interessant, aber rechtlich nicht bindend. Das steht so wortwörtlich auch in der Stellungnahme von Hessens Verkehrsminister al-Wazir im April 2023 zum Ausbau der A5 an Bundesminister Wissing: zuständig und verantwortlich für den gesamten Ausbau sei nicht er, sondern die Bundesregierung.
+
+### Durch die Autobahn werden die ländlicheren Gebiete besser angebunden und dadurch gestärkt
+
+Tatsächlich kann eine gute Infrastruktur dafür sorgen, dass ländliche Regionen gestärkt werden. Durch günstigere Immobilienpreise kann Industrie angesiedelt werden, die darauf angewiesen ist, ihre Waren über Straßen und Bahnlinien zu transportieren.
+
+Gerade rund um Ballungsgebiete ist das Ergebnis in der Regel meist ein anderes: Sie degradieren zu reinen Wohngemeinden. Eingekauft wird eher in der Stadt oder online, kleinere Läden verschwinden, auch Cafés und Restaurants können sich auf Dauer nicht mehr halten. Mit den hohen Investitionen in das Straßennetz werden neben dem Individualverkehr strukturelle Veränderungen zu Gunsten von Lieferdiensten gefördert und die Entfaltung sozialer Beziehungen unter den Bürgern eher behindert. 
+
+Dagegen hilft nur ein kürzerer ÖPNV-Takt und eine lebenswertere Gestaltung des Zentrums um die Bahnhöfe herum. Das lädt Bürgerinnen und Bürger dazu ein, nach der Rückkehr aus der Großstadt noch einen Kaffee zu trinken, und führt dann ggf. auch dazu, die Einkäufe direkt vor Ort zu erledigen und nicht noch mal nach Außerhalb in den größeren Markt zu fahren.
