@@ -1,6 +1,6 @@
 ---
-title: Archiv - Die A5, CDU, die FNP und das Nadelöhr
-layout: default
+title: Die A5, CDU, die FNP und das Nadelöhr
+layout: post
 ---
 ## Der Ausbau der Autobahn A5, die CDU, die Frankfurter Neue Presse und die Sache mit dem Nadelöhr
 

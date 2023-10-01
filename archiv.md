@@ -3,17 +3,15 @@ title: Archiv
 layout: default
 id: archiv
 ---
-## Archivierte Artikel
+## Weitere Artikel
 
-[Spaziergang an der A5 in Kalbach am 23.07.2023](./archiv/begehung-2023-07-23.md)
-
-[Der Ausbau der Autobahn A5, die CDU, die Frankfurter Neue Presse und die Sache mit dem Nadelöhr](./archiv/kommentar-fnp-nadelöhr.md)
-
-[Bericht von der Veranstaltung am 24.06.2023 mit Politiker:innen aus Frankfurt und Hessen](./archiv/treffen-2023-06-24.md)
-
-[Bericht von der Bürger:innenversammlung am 29.04.2023](./archiv/treffen-2023-04-29.md)
-
-[Bericht von der Ortsbegehung und dem 2. Treffen der BI am 14.07.2022](./archiv/treffen-2022-07-14.md)
+<div class="posts">
+  {% for post in site.posts %}
+    {% unless post.category == "homepage" %}
+      {% include teaser.html post=post %}
+    {% endunless %}
+  {% endfor %}
+</div>
 
 ### Infos, Aufrufe, Anträge, Ideen
 

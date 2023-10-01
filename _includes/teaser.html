@@ -1,0 +1,21 @@
+<div class="post-teaser" onclick="location.href='{{ post.url }}'">
+  {% if post.thumbnail %}
+  {% assign style = "background-image: url('" | append: post.thumbnail | append: "')" %}
+  <div class="post-img" style="{{ style }}">
+  </div>
+  {% endif %}
+
+  <h2>{{ include.post.title }}</h2>
+  
+  {% if include.post.excerpt %}
+  <div class="excerpt">
+    {% if post.excerpt == "truncate" %}
+    {{ post.content | strip_html | truncate: '250' | escape }}
+    {% else %}
+    {{ post.excerpt | strip_html | escape }}
+    {% endif %}
+  </div>
+  {% endif %}
+  
+  <div class="continue-read">Weiter...</div>
+</div>

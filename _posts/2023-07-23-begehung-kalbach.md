@@ -1,6 +1,6 @@
 ---
-title: Archiv - Spaziergang Kalbach am 23.07.2023
-layout: default
+title: Spaziergang Kalbach am 23.07.2023
+layout: post
 ---
 ## Spaziergang entlang der A5 im Bereich Kalbach-Niederursel am 23.07.2023
 

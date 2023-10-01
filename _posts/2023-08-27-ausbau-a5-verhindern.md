@@ -30,6 +30,5 @@ Auf der Veranstaltung werden kompetente Referentinnen und Referenten wissenschaf
 ---
 **Initiative Verkehrswende Jetzt – Südhessen**
 
-Menschen aus der Mobilitätswendebewegung, Aktive beim BUND und NABU
-
+Menschen aus der Mobilitätswendebewegung, Aktive beim BUND und NABU<br />
 Kontakt: Helmut Weick | a49stoppen@gmx.de

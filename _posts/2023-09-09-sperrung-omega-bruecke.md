@@ -1,4 +1,5 @@
 ---
+category: homepage
 layout: post
 title: Sperrung der Omega Brücke und des S-Bahn-Verkehrs in Griesheim
 thumbnail: assets/img/2023-09-09-sperrung-omega-bruecke/IMG_6214.jpg
@@ -20,5 +21,5 @@ Die Omega-Brücke war erst 2015 mit einem Aufwand von über 1,5 Millionen renovi
 
 Wir fordern, die Prioritäten vom Kopf auf die Füße zu stellen und endlich für einen funktionierenden ÖPNV und eine zuverlässige Verkehrsanbindung des Frankfurter Westens zu sorgen - mit deutlichem Vorrang vor dem motorisierten Individualverkehr!
 
-BI „Es ist zu laut“
+BI „Es ist zu laut“<br/>
 9.9.2023
