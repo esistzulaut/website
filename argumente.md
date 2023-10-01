@@ -89,3 +89,11 @@ Ja, es sind schon erstaunliche Summen, von denen man immer mal wieder hört, mit
 Straßen werden hierzulande sogar noch höher bezuschusst, allein vom Bund im gleichen Zeitraum mit 132,8 Mrd €. Länder und Kommunen finanzieren zusätzlich. Außerdem sollte man daran denken, dass beim Straßenbau der Staat das Risiko trägt: kostet ein Projekt mehr als geplant, wird eben mehr ausgegeben, die Bahn hingegen muss solche Risiken selbst tragen.
 
 Im Vergleich zu anderen Ländern steht Deutschland damit ebenfalls nicht gut da: pro Kopf investiert die Bundesrepublik nämlich nur nur ca. 114€ pro Jahr. Das ist nur ca. ein Viertel dessen, was z.B. die Schweiz investiert (450€), Luxemburg ist mit 575€ sogar noch spendabler. Laut [Allianz pro Schiene](https://www.allianz-pro-schiene.de/themen/infrastruktur/investitionen/) rangieren wir auf dem drittletzten Platz in Europa.
+
+### Das dauert doch noch ewig, bis das fertig ist, da brauche ich noch nichts zu machen
+
+Der [Bundesverkehrswegeplan 2030](https://bmdv.bund.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html) liegt bereits vor und der Bundesverkehrsministers Volker Wissing hat versucht, den Ausbau in das "beschleunigte Verfahren" der Bundesregierung zu hieven.
+
+Geplant wurde bereits einiges, auch eine Machbarkeitsstudie scheint zu existieren, die will uns das Verkehrsministerium aber bisher nicht zeigen, auch Anträge der Stadtverordneten wurden bisher nicht erfüllt. Ob bereits Vorbereitungen laufen, um Tatsachen zu schaffen, bevor die Bürger eingebunden werden konnten, können wir nicht sagen. Beobachten kann man aber, dass Bäume am Westkreuz direkt neben der Autobahn gefällt wurden und aktuell der Steinbacher Übergang gesperrt ist, weil eine Brücke umgebaut werden soll.
+
+Wann sollte man also beginnen, für weniger Lärm und CO<sup>2</sup>, für besseren ÖPNV im Frankfurter Umland und eine lebenswerte Umgebung einzutreten wenn nicht jetzt? Sicherlich nicht erst, wenn alle Aufträge vergeben sind und die Bauarbeiten bereits begonnen haben.
