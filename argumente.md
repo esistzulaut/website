@@ -50,7 +50,7 @@ Die Aufgabe von verantwortungsbewusster Verkehrspolitik sehen wir darin, dass im
 
 Für den 85jährigen, der sein Eigenheim dafür her geben muss oder für den [als stark gefährdet eingestuften Gartenschläfer](https://de.wikipedia.org/wiki/Gartenschl%C3%A4fer){:target="_blank"} ist das durchaus schlimm.
 
-Bisher ist die A5 6spurig, 3 Spuren pro Fahrtrichtung. Die eigentlich vorhandene Standspur wird allerdings seit einiger Zeit zusätzlich als Fahrspur genutzt. Mit dem 10spurigen Ausbau kommen also tatsächlich **4 weitere Spuren** hinzu, denn auch die künftige A5 wird dann sicherlich wieder eine Standspur haben sollen, so wie es die Normen eigentlich vorsehen.
+Bisher ist die A5 vom Frankfer Kreuz bis zum Westkreuz 8spurig, im weiteren Verlauf 6spurig, 3 Spuren pro Fahrtrichtung. Die eigentlich vorhandene Standspur wird allerdings seit einiger Zeit zusätzlich als Fahrspur genutzt. Mit dem 10spurigen Ausbau kommen also tatsächlich **4 weitere Spuren** hinzu, denn auch die künftige A5 wird dann sicherlich wieder eine Standspur haben sollen, so wie es die Normen eigentlich vorsehen.
 
 Allein der Flächenverbrauch ist gigantisch. Autobahn-Fahrspuren werden derzeit in Deutschland mit einer Breite von 3,75m ausgelegt. die Verbreiterung beträgt damit 15 Meter. Hinzu kommt jedoch noch der Platz für Lärmschutzwände, die ihrerseits dann noch mal bis zu je 3 Meter Breite benötigen. Insgesamt ist also auf der geplanten Länge von 6km mit einem Platzbedarf von ca. 108.000m<sup>2</sup> zusätzlich versiegelter Fläche zu rechnen. Das entspricht ungefähr dem Platz von **15 Fußballfeldern**.
 
