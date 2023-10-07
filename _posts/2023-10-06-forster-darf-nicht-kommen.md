@@ -6,7 +6,7 @@ excerpt: Der Revierförster darf nicht zum geplanten Spaziergang der BI kommen, 
 ---
 ## Die Frankfurter Stadtverwaltung wirft der BI "Es ist zu laut" Knüppel zwischen die Beine
 
-![Einladung Waldspaziergang](/assets/img/2023-10-06-172728_002.jpeg)
+![Einladung Waldspaziergang](/assets/img/2023-10-06-172728_002.jpeg){:class="left"}
 
 Die BI "Es ist zu laut - Gegen den Ausbau der Autobahn A5 durch Frankfurt" lädt für den morgigen Samstag, 14 Uhr zu einem Spaziergang entlang der Trasse ein, die durch den Stadtwald geschlagen werden soll, um die Autobahn zehnspurig auszubauen. Die BI hatte dafür die Zusage des zuständigen Revierförsters für seine fachliche Begleitung.
 
