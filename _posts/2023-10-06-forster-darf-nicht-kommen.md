@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/img/2023-10-06-172728_002.jpeg
 title: Die Frankfurter Stadtverwaltung wirft der BI "Es ist zu laut" Knüppel zwischen die Beine
@@ -13,7 +12,7 @@ Die BI "Es ist zu laut - Gegen den Ausbau der Autobahn A5 durch Frankfurt" lädt
 
 Knapp 24 Stunden vor Beginn pfeift ihn seine zuständige Vorgesetzte in der Stadtverwaltung zurück:
 
-"Leider hatten wir aufgrund der Kurzfristigkeit Ihrer Anfrage keine Möglichkeit, die Themen und den Exkursionsablauf allumfassend abzustimmen. Grundsätzlich befürworten wir die Durchführung von Fachexkursionen und den Austausch mit interessierten Bürgerinnen und Bürgern. Einer Teilnahme von Herrn Saamer kann in diesem Fall aus oben genannten Gründen jedoch nicht zugestimmt werden".
+> Leider hatten wir aufgrund der Kurzfristigkeit Ihrer Anfrage keine Möglichkeit, die Themen und den Exkursionsablauf allumfassend abzustimmen. Grundsätzlich befürworten wir die Durchführung von Fachexkursionen und den Austausch mit interessierten Bürgerinnen und Bürgern. Einer Teilnahme von Herrn Saamer kann in diesem Fall aus oben genannten Gründen jedoch nicht zugestimmt werden.
 
 Diese Begründung ist nicht nachvollziehbar. Abgesehen davon, daß die Anfrage an eine Genehmigung der Vorgesetzten für diese Exkursionsbegleitung am 26.9. bei ihr vorlag, verstehen wir grundsätzlich nicht, weshalb eine solche Aktivität nicht ohnehin dankbar unterstützt wird. Der Zustand des Stadtwalds und die zusätzliche Bedrohung, die durch den Ausbau des Betonmonsters der Autobahn A5 zusätzlich für ihn geschaffen wird, sollte jede und jeden, der / dem der Wald am Herzen liegt, sowieso zum sofortigen Handeln verpflichten.
 
