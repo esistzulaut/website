@@ -7,7 +7,7 @@ excerpt: Knapp 24 Stunden vor dem geplanten Spaziergang sollte der Revierförste
 ---
 ## Nach hin- und her darf der Revierförster uns nun doch durch den Stadtwald führen
 
-![Einladung Waldspaziergang](/assets/img/2023-10-07-112028_002.png){:class="left"}
+![Einladung Waldspaziergang](/assets/img/2023-10-07-112028_002.png){:class="left small"}
 
 Die BI "Es ist zu laut - Gegen den Ausbau der Autobahn A5 durch Frankfurt" lädt für den morgigen Samstag, 14 Uhr zu einem Spaziergang entlang der Trasse ein, die durch den Stadtwald geschlagen werden soll, um die Autobahn zehnspurig auszubauen. Die BI hatte dafür die Zusage des zuständigen Revierförsters für seine fachliche Begleitung.
 

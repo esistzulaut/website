@@ -330,6 +330,10 @@ nav > span:hover a::before {
     display: table;
   }
 
+  img.small {
+    max-width: 40%;
+  }
+
   .post-teaser h2,
   .post-teaser .excerpt,
   .post-teaser .continue-read {
