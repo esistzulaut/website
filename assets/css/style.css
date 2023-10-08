@@ -256,6 +256,23 @@ nav > span:hover a::before {
   color: orangered;
 }
 
+table {
+  background: #eeeeee;
+}
+
+td, th {
+  padding: 2px;
+  white-space: nowrap;
+}
+
+td:last-child {
+  white-space: normal;
+}
+
+td {
+  background: white;
+}
+
 .posts {
   display: grid;
   gap: 1rem;
