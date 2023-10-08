@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/img/2023-10-07-112028_002.png
 title: Nach hin- und her darf der Revierförster uns nun doch durch den Stadtwald führen
