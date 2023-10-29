@@ -2,8 +2,8 @@
 title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
-## Donnerstagabend, 19.10.2023, 19:00 Uhr, Reguläres Treffen der Bürgerinitiative
+## Donnerstagabend, 16.11.2023, 19:00 Uhr, Reguläres Treffen der Bürgerinitiative
 
-Das nächste Treffen findet in der Gaststätte "Mainglück" im Ruderclub Griesheim, Stadtweg 77a statt.
+Das nächste Treffen ist im Gemeindehaus der Ev. Dankeskirche, Am Goldsteinpark 1a, 60529 Frankfurt
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.6961414091593!2d8.605519777201884!3d50.091975671526065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd0bca7fc802ed%3A0xf3af6809c3854b6!2sRuderclub%20Griesheim!5e0!3m2!1sde!2sde!4v1696619691126!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.165859136906!2d8.60626057681389!3d50.08318147152423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd0bb2e041680d%3A0x32a09860ec50e2f7!2sEvangelische%20Dankeskirche%20Frankfurt%20-%20Evangelische%20Dankeskirchengemeinde%20Frankfurt%2FMain!5e0!3m2!1sde!2sde!4v1698586884383!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
