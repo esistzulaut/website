@@ -14,6 +14,11 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 
 ---
 
+<div class="posts" style="grid-template-columns: 1fr 1fr;">
+  <img src="/assets/img/2023-11-25-Kaweh-Mansoori-2.png" alt="Kaweh Mansoori: &quot;Beschleunigter Ausbau der A5 gestoppt&quot;">
+  <img src="/assets/img/2023-11-25-Kaweh-Mansoori.png" alt="Kaweh Mansoori: &quot;Die Pläne für den 10spurigen Ausbau der A5 sind völlig aus er Zeit gefallen&quot;">
+</div>
+
 <div class="posts">
 {% for post in site.categories.homepage %}
   {% include teaser.html post=post %}
