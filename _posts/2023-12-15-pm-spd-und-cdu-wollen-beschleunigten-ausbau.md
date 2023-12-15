@@ -8,7 +8,7 @@ excerpt: Vorliegender Koalitionsvertrag bestätigt unsere Befürchtungen für ei
 
 Der nun vorliegende Koalitionsvertrag bestätigt das schon vor einigen Wochen von uns kritisierte Eckpunktepapier der Sondierungsgespräche von SPD  und CDU.
 
-Die neue Landesregierung will den beschleunigten Ausbau der A5 auf 10 Spuren: "Gegenüber dem Bund werden wir die Annahme seines Angebotes zum beschleunigten Autobahnausbau für alle hessischen Projekte bestätigen". Das "Angebot" des Bundes im Mai 2023 war die Beschleunigung der im Bundesverkehrswegeplan und im Fernstraßenausbaugesetz genannten hessischen Projekte – zu diesen zählt auch der 10-spurige Ausbau der A5 zwischen Flughafen und Westkreuz, dessen Beschleunigung wenige Tage vor den hessischen Landtagswahlen vom Bund zurückgenommen worden war. Das soll nun zurückgenommen werden.
+Die neue Landesregierung will den beschleunigten Ausbau der A5 auf 10 Spuren: "Gegenüber dem Bund werden wir die Annahme seines Angebotes zum beschleunigten Autobahnausbau für alle hessischen Projekte bestätigen". Das "Angebot" des Bundes im April 2023 war die Beschleunigung der im Bundesverkehrswegeplan und im Fernstraßenausbaugesetz genannten hessischen Projekte – zu diesen zählt auch der 10-spurige Ausbau der A5 zwischen Flughafen und Westkreuz, dessen Beschleunigung wenige Tage vor den hessischen Landtagswahlen vom Bund zurückgenommen worden war. Das soll nun zurückgenommen werden.
 
 Weiter heißt es:  "Außerdem setzen wir uns für einen effektiven Lärmschutz von Anwohnerinnen und Anwohnern auch an Bestandsstrecken ein."
 Die gleichzeitige Absage an ein Tempolimit lässt uns an der Ernsthaftigkeit der Aussage zweifeln.
