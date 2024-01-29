@@ -87,12 +87,6 @@ dl > label > dt {
   height: 100%;
 }
 
-@media print {
-  dl > label > dt {
-    display: none;
-  }
-}
-
 dl > label > dt > .open {
   text-align: right;
 }
@@ -442,4 +436,30 @@ td {
 
 #argumente_page {
   height: 100vh;
+}
+
+@media print {
+  #logo img {
+    max-width: 100px;
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+
+  nav, .socialmedia {
+    display: none;
+  }
+
+  section::before {
+    clear: both;
+  }
+
+  dd {
+    margin-inline-start: 0;
+  }
+
+  dl > label > input,
+  dl > label > dt {
+    display: none;
+  }
 }
