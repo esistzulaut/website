@@ -87,6 +87,12 @@ dl > label > dt {
   height: 100%;
 }
 
+@media print {
+  dl > label > dt {
+    display: none;
+  }
+}
+
 dl > label > dt > .open {
   text-align: right;
 }
