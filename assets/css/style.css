@@ -68,74 +68,76 @@ dl > label {
   }
 }
 
-dl > label:hover {
-  background: #f7f7f7;
-}
+@media screen {
+  dl > label:hover {
+    background: #f7f7f7;
+  }
 
-dl > label > input {
-  display: none;
-}
+  dl > label > input {
+    display: none;
+  }
 
-dl > label > dd {
-  transform: scale(0);
-}
+  dl > label > dd {
+    transform: scale(0);
+  }
 
-dl > label > dt {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
-}
+  dl > label > dt {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
 
-dl > label > dt > .open {
-  text-align: right;
-}
+  dl > label > dt > .open {
+    text-align: right;
+  }
 
-dd::after {
-  content: "×";
-  font-size: 180%;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  width: 30px;
-  height: 30px;
-  line-height: 0.8em;
-  text-align: center;
-  border-radius: 50%;
-  cursor: pointer;
-}
+  dd::after {
+    content: "×";
+    font-size: 180%;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    line-height: 0.8em;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+  }
 
-dl > label > dd, dl > label > dd > * {
-  opacity: 0;
-}
+  dl > label > dd, dl > label > dd > * {
+    opacity: 0;
+  }
 
-dl > label > input:checked + dt + dd {
-  transition: opacity,transform 1s;
-  transform: scale(1);
-  opacity: 1;
-  z-index: 1;
-  max-width: 80vw;
-  margin: 0 auto;
-  padding: 20px 10px 10px;
-}
+  dl > label > input:checked + dt + dd {
+    transition: opacity,transform 1s;
+    transform: scale(1);
+    opacity: 1;
+    z-index: 1;
+    max-width: 80vw;
+    margin: 0 auto;
+    padding: 20px 10px 10px;
+  }
 
-dl > label > input:checked + dt + dd > * {
-  transition: opacity 1s;
-  opacity: 1;
-}
+  dl > label > input:checked + dt + dd > * {
+    transition: opacity 1s;
+    opacity: 1;
+  }
 
-dd {
-  margin: 0;
-  position: absolute;
-  top: -30px;
-  left: 0;
-  right: 0;
-  z-index: -1;
-  background: white;
-  box-shadow: 0px 0px 40px rgb(0 0 0 / 15%);
-  padding: 0 10px;
-  border: 1px solid lightgrey;
-  background: white;
+  dd {
+    margin: 0;
+    position: absolute;
+    top: -30px;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background: white;
+    box-shadow: 0px 0px 40px rgb(0 0 0 / 15%);
+    padding: 0 10px;
+    border: 1px solid lightgrey;
+    background: white;
+  }
 }
 
 video {
@@ -439,13 +441,6 @@ td {
 }
 
 @media print {
-  #logo img {
-    max-width: 100px;
-    float: left;
-    padding-right: 10px;
-    padding-bottom: 10px;
-  }
-
   nav, .socialmedia {
     display: none;
   }
