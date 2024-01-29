@@ -35,21 +35,23 @@ li {
   margin-bottom: 0.5em;
 }
 
-dl {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  position:relative;
-}
+@media screen {
+  dl {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    position:relative;
+  }
 
-dl > label {
-  width: calc((100% / 3) - 3 * 10px);
-  margin: 0;
-  border: 1px solid lightgrey;
-  border-radius: 4px;
-  padding: 10px;
-  box-shadow: 4px 4px 4px rgb(0 0 0 / 15%);
-  cursor: pointer;
+  dl > label {
+    width: calc((100% / 3) - 3 * 10px);
+    margin: 0;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 4px 4px 4px rgb(0 0 0 / 15%);
+    cursor: pointer;
+  }
 }
 
 @media screen and (max-width: 800px) {
