@@ -447,6 +447,10 @@ td {
     display: none;
   }
 
+  html, body, .page-wrapper, #argumente_page, section {
+    height: auto;
+  }
+
   section::before {
     clear: both;
   }
