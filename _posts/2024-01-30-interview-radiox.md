@@ -1,6 +1,7 @@
 ---
 category: homepage
 layout: post
+thumbnail: assets/2024-01-30/radiowinnie.jpg
 title: Interview beim "Gallusfenster" in Radio X
 excerpt: Nikolaus Nessler und Joachim Schirrmacher im Interview bei Winfried Becker im Radio X Gallusfenster zu den Aktivitäten der Bürgerinitiative
 ---
