@@ -13,4 +13,4 @@ Denn noch immer wissen viele Frankfurter:innen noch immer nichts von den Ausbaup
 
 Dennoch will die neue Landesregierung den beschleunigten Ausbau der A5 auf 10 Spuren: “Gegenüber dem Bund werden wir die Annahme seines Angebotes zum beschleunigten Autobahnausbau für alle hessischen Projekte bestätigen”, wie es im Koalitionsvertrag heißt.
 
-Das Interview ist voraussichtlich bis zum 5. Februar online nachzuhören unter http://www.radiox.de/sendungen/gallusfenster
+Das Interview ist voraussichtlich bis zum 5. Februar online nachzuhören unter <http://www.radiox.de/sendungen/gallusfenster>
