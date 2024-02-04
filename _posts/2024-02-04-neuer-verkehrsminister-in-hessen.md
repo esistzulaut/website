@@ -12,13 +12,11 @@ In der neuen hessischen Landesregierung sitzt nun mit der CDU die SPD. Den neuen
 Dieser Ausbau schien ja auch bereits vom Tisch zu sein: im Frühjahr 2023 hatte sich Mansooris Amtsvorgänger Tarek al-Wazir (GRÜNE) gegen ein solches Wahnsinnsprojekt gestellt und der zuständige Bundesverkehrsminister Wissing (FDP) dies akzeptiert. 
 Viele dachten damals – jetzt wird alles gut, der Ausbau ist vom Tisch. Wir waren skeptisch. 
 
-![Beschleunigter Ausbau der A5 gestoppt? So sicher ist das nicht!](/assets/img/2023-11-25-Kaweh-Mansoori.png){:class="left"}
+![Beschleunigter Ausbau der A5 gestoppt? So sicher ist das nicht!](/assets/img/2023-11-25-Kaweh-Mansoori.png){:class="left small"}
 
 Dann kamen die Wahlen. In den anschließenden Sondierungs- und Koalitionsverhandlungen von CDU und SPD wurde bald deutlich: nichts ist klar, was den A5-Ausbau angeht. Gut versteckt im Abschnitt über die „Stärkung des ländlichen Raums“ steht, dass „alle“ geplanten hessischen Autobahnprojekte jetzt schnell umgesetzt werden sollen. 
 
-In der [Frankfurter Rundschau vom 1. Februar]((https://www.fr.de/rhein-main/landespolitik/hessens-wirtschaftsminister-kaweh-mansoori-es-gibt-eine-grosse-erwartungshaltung-92807090.html)) schafft es Minister Mansoori, beide Positionen – für und gegen den Ausbau -  erneut im vollen Widerspruch nebeneinander zu stellen.
-
-Er wurde gefragt:
+In der [Frankfurter Rundschau vom 1. Februar]((https://www.fr.de/rhein-main/landespolitik/hessens-wirtschaftsminister-kaweh-mansoori-es-gibt-eine-grosse-erwartungshaltung-92807090.html)) schafft es Minister Mansoori, beide Positionen – für und gegen den Ausbau -  erneut im vollen Widerspruch nebeneinander zu stellen. Er wurde gefragt:
 
 > „Im Koalitionsvertrag heißt es, Hessen wolle allen Autobahnprojekten zustimmen, die der Bund beschleunigt realisieren will. Betrifft das auch den zehnspurigen Ausbau der A5?“
 

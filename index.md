@@ -24,3 +24,7 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
   {% include teaser.html post=post %}
 {% endfor %}
 </div>
+
+<p>
+  Mehr Artikel sind in unserem <span><a href="/archiv.html">Archiv</a> zu finden</span>
+</p>

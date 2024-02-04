@@ -166,6 +166,23 @@ header.top {
     "logo title title";
 }
 
+
+blockquote {
+  display: flex;
+  background: #eeeeee;
+  margin: 0 0 0 1em;
+  border-left: 10px solid rgba(0, 0, 255, 0.8);
+  padding: 0.5em 0 0.5em 0.5em;
+}
+
+blockquote p:last-of-type {
+  margin-bottom: 0;
+}
+
+blockquote p:first-of-type {
+  margin-top: 0;
+}
+
 #logo {
   grid-area: logo;
 }
@@ -339,6 +356,10 @@ td {
     margin: 0 15px 15px 0;
   }
 
+  img.left.small {
+    max-width: 40%;
+  }
+
   img.right {
     max-width: 60%;
     float: right;
@@ -422,20 +443,6 @@ td {
 
 #download_page #main-content em {
   margin: 1rem;
-}
-
-#archiv_page blockquote {
-  margin: 0 1em;
-  background: #eeeeee;
-  padding: 0.5em;
-}
-
-#archiv_page blockquote p {
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 1rem;
-  margin-inline-end: 1rem;
-  color: #333;
 }
 
 #argumente_page {
