@@ -16,7 +16,7 @@ Viele dachten damals – jetzt wird alles gut, der Ausbau ist vom Tisch. Wir war
 
 Dann kamen die Wahlen. In den anschließenden Sondierungs- und Koalitionsverhandlungen von CDU und SPD wurde bald deutlich: nichts ist klar, was den A5-Ausbau angeht. Gut versteckt im Abschnitt über die „Stärkung des ländlichen Raums“ steht, dass „alle“ geplanten hessischen Autobahnprojekte jetzt schnell umgesetzt werden sollen. 
 
-In der [Frankfurter Rundschau vom 1. Februar](https://www.fr.de/rhein-main/landespolitik/hessens-wirtschaftsminister-kaweh-mansoori-es-gibt-eine-grosse-erwartungshaltung-92807090.html) schafft es Minister Mansoori, beide Positionen – für und gegen den Ausbau -  erneut im vollen Widerspruch nebeneinander zu stellen. Er wurde gefragt:
+In der [Frankfurter Rundschau vom 1. Februar](https://www.fr.de/rhein-main/landespolitik/hessens-wirtschaftsminister-kaweh-mansoori-es-gibt-eine-grosse-erwartungshaltung-92807090.html){:target="_blank"} schafft es Minister Mansoori, beide Positionen – für und gegen den Ausbau -  erneut im vollen Widerspruch nebeneinander zu stellen. Er wurde gefragt:
 
 > „Im Koalitionsvertrag heißt es, Hessen wolle allen Autobahnprojekten zustimmen, die der Bund beschleunigt realisieren will. Betrifft das auch den zehnspurigen Ausbau der A5?“
 

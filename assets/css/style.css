@@ -356,10 +356,6 @@ td {
     margin: 0 15px 15px 0;
   }
 
-  img.left.small {
-    max-width: 40%;
-  }
-
   img.right {
     max-width: 60%;
     float: right;
