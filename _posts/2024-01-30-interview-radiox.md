@@ -16,4 +16,7 @@ Dennoch will die neue Landesregierung den beschleunigten Ausbau der A5 auf 10 Sp
 
 Das Interview kann man hier online nachhören:
 
-<audio controls src="/assets/2024-01-30/InterviewRadioX.mp3"></audio>
+<audio controls style="display: block;">
+  <source src="/assets/2024-01-30/InterviewRadioX.mp3" type="audio/mp3" />
+  <a href="/assets/2024-01-30/InterviewRadioX.mp3">Download</a>
+</audio>
