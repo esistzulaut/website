@@ -1,9 +1,13 @@
 ---
 category: homepage
 layout: post
+thumbnail: /assets/2024-02-09/640px-Stadtschloss_Wiesbaden.jpg
 title: Debatte zum A5 Ausbau im neuen Hessischen Landtag
 excerpt: Aktuelle Stunde der Grünen zum Thema Autobahnausbau und der unklaren Aussagen des neuen Verkehrsministers
 ---
+
+![Hessischer landtag](/assets/2024-02-09/640px-Stadtschloss_Wiesbaden.jpg){:class="left small"}
+<small>Bild von <a href="//commons.wikimedia.org/wiki/User:Martin_Kraft" title="User:Martin Kraft">Martin Kraft</a> // <a rel="nofollow" class="external text" href="http://photo.martinkraft.com">photo.martinkraft.com</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21806618">Link</a></small>
 
 Der neue Verkehrsminister Mansoori windet sich im Landtag und in der Zeitung:
 Er sei gegen den 10-spurigen Ausbau der A5 und es sollen nur "ohnehin geplante" Projekte zur Beschleunigung nachgemeldet werden.
