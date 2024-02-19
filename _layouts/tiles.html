@@ -48,14 +48,13 @@
     </div>
 
     <script type="application/javascript">
-      const backdrop = document.getElementById("backdrop")
-      document.querySelectorAll("dl dt").forEach(dt => dt.addEventListener("click", () => backdrop.setAttribute("style", "display: block")))
+      document.querySelectorAll("dl dt").forEach(dt => dt.addEventListener("click", () => document.body.classList.toggle("backdrop", true)))
       document.querySelectorAll("dl dd").forEach(dd => {
         dd.addEventListener("click", (event) => {
           if (event.target.tagName !== "A") {
             const checkedInputs = document.querySelectorAll("input[type='radio']:checked")
             checkedInputs.forEach(radio => (radio.checked = false))
-            backdrop.setAttribute("style", "display: none")
+            document.body.classList.toggle("backdrop", false)
             event.preventDefault()
           }
         })

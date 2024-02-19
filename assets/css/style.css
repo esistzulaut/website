@@ -9,13 +9,17 @@ html, body {
 }
 
 #backdrop {
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   width: 100vw;
   height: 100vh;
   background: rgb(0 0 0 / 25%);
   display: none;
+}
+
+body.backdrop #backdrop {
+  display: block;
 }
 
 .page-wrapper {
@@ -81,7 +85,7 @@ li {
 }
 
 @media screen {
-  dl > label:hover {
+  body:not(.backdrop) dl > label:hover {
     background: #f7f7f7;
   }
 
