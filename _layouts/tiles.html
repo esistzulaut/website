@@ -3,6 +3,7 @@
   {% include html-head.html %}
 
   <body id="{{ page.id }}_page">
+    <div id="backdrop"></div>
     <div class="page-wrapper">
       <header class="top">
         <a href="{{ '/' | absolute_url }}" id="logo">
@@ -47,11 +48,14 @@
     </div>
 
     <script type="application/javascript">
+      const backdrop = document.getElementById("backdrop")
+      document.querySelectorAll("dl dt").forEach(dt => dt.addEventListener("click", () => backdrop.setAttribute("style", "display: block")))
       document.querySelectorAll("dl dd").forEach(dd => {
         dd.addEventListener("click", (event) => {
           if (event.target.tagName !== "A") {
             const checkedInputs = document.querySelectorAll("input[type='radio']:checked")
             checkedInputs.forEach(radio => (radio.checked = false))
+            backdrop.setAttribute("style", "display: none")
             event.preventDefault()
           }
         })

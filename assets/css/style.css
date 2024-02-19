@@ -8,6 +8,16 @@ html, body {
   overflow-wrap: anywhere;
 }
 
+#backdrop {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(0 0 0 / 25%);
+  display: none;
+}
+
 .page-wrapper {
   max-width: 1024px;
   margin: 0 auto;
