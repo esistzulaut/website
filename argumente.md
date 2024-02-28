@@ -9,9 +9,13 @@ Solche Argumente FÜR die Autobahnerweiterung hören wir manchmal. Hier sind uns
 
 <!--break-->
 
-### Mehr Spuren heißt weniger Stau
+### Mehr Spuren auf der Autobahn bedeutet weniger im Stau stehen
 
 Das ist leider ein Trugschluss. Es ist inzwischen [erwiesen](https://basicthinking.digidip.net/visit?url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F315534829_Closing_the_Induced_Vehicle_Travel_Gap_Between_Research_and_Practice&ppref=https%3A%2F%2Fwww.ecosia.org%2F&currurl=https%3A%2F%2Fwww.basicthinking.de%2Fblog%2F2019%2F03%2F20%2Ffuehren-mehr-spuren-zu-weniger-stau-induced-demand%2F), dass mehr und breitere Straßen langfristig meist zu mehr Stau führen. Das klingt erst mal seltsam. Aber die "bessere" Anbindung führt dazu, dass mehr Menschen das Auto nutzen, um noch weitere Strecken zurück zu legen. In der Fachsprache heißt das ["induzierte Nachfrage"](https://de.wikipedia.org/wiki/Induzierte_Nachfrage).
+
+Mit besserer Anbindung ziehen mehr Menschen weiter aus der Stadt hinaus und nehmen längere Strecken in Kauf. Da dort der ÖPNV meist schlechter ausgebaut ist, machen sich die Menschen vom Auto abhängig. Man lockt sie durch breitere Straßen sozusagen in die Sackgasse. Nach kurzer Zeit ist die breitere Straße wieder so voll wie zuvor, es stehen insgesamt noch mehr Menschen im Stau als zuvor.
+
+Hinzu kommt, dass man auch von einer breiteren Autobahn in das Nadelöhr der Innenstadt nicht schneller hinein kommt. Es ist dann nur mehr Platz auf der Autobahn - für noch mehr stehende Autos.
 
 > Wer mehr Straßen sät, erntet mehr Verkehr
 
