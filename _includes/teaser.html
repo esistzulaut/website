@@ -1,6 +1,6 @@
 <div class="post-teaser" onclick="location.href='{{ post.url }}'">
   {% if post.thumbnail %}
-  {% assign style = "background: center / contain no-repeat url('" | append: post.thumbnail | append: "')" %}
+  {% assign style = "background: left center / cover no-repeat url('" | append: post.thumbnail | append: "')" %}
   <div class="post-img" style="{{ style }}">
   </div>
   {% endif %}
