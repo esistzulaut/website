@@ -4,9 +4,17 @@ layout: tiles
 markdown: kramdown
 id: argumente
 ---
+
 Solche Argumente FÜR die Autobahnerweiterung hören wir manchmal. Hier sind unsere Antworten darauf:
 
 <!--break-->
+
+### Mehr Spuren heißt weniger Stau
+
+Das ist leider ein Trugschluss. Es ist inzwischen [erwiesen](https://basicthinking.digidip.net/visit?url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F315534829_Closing_the_Induced_Vehicle_Travel_Gap_Between_Research_and_Practice&ppref=https%3A%2F%2Fwww.ecosia.org%2F&currurl=https%3A%2F%2Fwww.basicthinking.de%2Fblog%2F2019%2F03%2F20%2Ffuehren-mehr-spuren-zu-weniger-stau-induced-demand%2F), dass mehr und breitere Straßen langfristig meist zu mehr Stau führen. Das klingt erst mal seltsam. Aber die "bessere" Anbindung führt dazu, dass mehr Menschen das Auto nutzen, um noch weitere Strecken zurück zu legen. In der Fachsprache heißt das ["induzierte Nachfrage"](https://de.wikipedia.org/wiki/Induzierte_Nachfrage).
+
+> Wer mehr Straßen sät, erntet mehr Verkehr
+
 ### Mit dem Ausbau der Autobahn kommen auch Schallschutzwände - damit wird es sogar leiser als bisher
 
 Leider nicht. Zunächst geht mit dem Autobahnausbau eine gigantische Baustelle einher, die zum Autobahnlärm auch noch Baustellenverkehr, Abbrucharbeiten und ähnliches mit sich bringt.
@@ -34,7 +42,7 @@ Ja, Elektromotoren sind leiser als Verbrenner. Mit steigender Geschwindigkeit is
 
 Vor allem durch ihr in der Regel höheres Gewicht können die Rollgeräusche von Elektroautos sogar größer sein als bei Verbrennern. Das Kraftfahrzeugbundesamt hat zum Beispiel in einer Messung von 2022 festgestellt, dass Autos der Marke Tesla mit 68,8 Dezibel lauter sind als ein durchschnittlicher BMW (67,7 Dezibel) oder VW (68,1 Dezibel). Das liegt vor allem an ihrem durch die Batterien vergleichsweise hohen Gewicht.
 
-Außerdem wird es noch recht lange dauern, bis dann auch LKW auf Elektrobetrieb umgestellt sein werden. Auch der gerne für LKW vorgeschlagene Antrieb mit eFuels wird nicht für Entspannung sorgen, denn auch diese werden verbrannt und sind damit im Kern nichts anderes als Verbrennungsmotoren. [Nur mit mehr Energieverlusten](https://www.quarks.de/podcast/quarks-science-cops-e-fuels-statt-e-auto/){:target="_blank"}.
+Außerdem wird es noch recht lange dauern, bis dann auch LKW auf Elektrobetrieb umgestellt sein werden. Auch der gerne für LKW vorgeschlagene Antrieb mit eFuels wird nicht für Entspannung sorgen, denn auch diese werden verbrannt und sind damit im Kern nichts anderes als Verbrennungsmotoren. [Nur mit mehr Energieverlusten](https://www.quarks.de/podcast/quarks-science-cops-e-fuels-statt-e-auto/){:target="\_blank"}.
 
 ### Es gibt nun mal immer mehr Straßenverkehr - irgendwo muss der hin
 
@@ -42,19 +50,19 @@ Das ist noch nicht ausgemacht. Im Gegenteil: eigentlich muss immer mehr Verkehr 
 
 Und nur mit Energieeinsparung sind die von uns selbst politisch gesetzen und vereinbarten Ziele einzuhalten. Und nur, wenn wir diese Ziele einhalten, können wir die diversen Auswirkungen der Klimakrise auch hier bei uns in Deutschland noch halbwegs begrenzen.
 
-Der [Ausbau der Bahnstrecke zwischen Frankfurt und Friedberg](https://www.s6-frankfurt-friedberg.de/home.html){:target="_blank"} wird hingegen ab Ende 2023 ein gutes Stück Verkehrsaufkommen reduzieren, weil die S-Bahn dann künftig deutlich pünktlicher und häufiger die vielen Pendler aus dem Norden Frankfurts in die Stadt transportieren kann.
+Der [Ausbau der Bahnstrecke zwischen Frankfurt und Friedberg](https://www.s6-frankfurt-friedberg.de/home.html){:target="\_blank"} wird hingegen ab Anfang 2024 einen guten Teil des Verkehrsaufkommen reduzieren, weil die S-Bahn dann künftig deutlich pünktlicher und häufiger die vielen Pendler aus dem Norden Frankfurts in die Stadt transportieren kann. Und auch die lange geplante sogenannte "Westtangente", deren Bau dieses Jahr endlich beginnt, entspannt die Lage weiter.
 
 Die Aufgabe von verantwortungsbewusster Verkehrspolitik sehen wir darin, dass im Sinne von mehr Bahn-, Bus- und Radverkehr steuernd eingegriffen wird, statt einfach nur neue Autobahnen zu bauen.
 
 ### Es ist nur eine weitere Spur pro Richtung - so schlimm ist das doch nicht
 
-Für den 85jährigen, der sein Eigenheim dafür her geben muss oder für den [als stark gefährdet eingestuften Gartenschläfer](https://de.wikipedia.org/wiki/Gartenschl%C3%A4fer){:target="_blank"} ist das durchaus schlimm.
+Für den 85jährigen, der sein Eigenheim dafür her geben muss oder für den [als stark gefährdet eingestuften Gartenschläfer](https://de.wikipedia.org/wiki/Gartenschl%C3%A4fer){:target="\_blank"} ist das durchaus schlimm.
 
-Bisher ist die A5 vom Frankfer Kreuz bis zum Westkreuz 8spurig, im weiteren Verlauf 6spurig, 3 Spuren pro Fahrtrichtung. Die eigentlich vorhandene Standspur wird allerdings seit einiger Zeit zusätzlich als Fahrspur genutzt. Mit dem 10spurigen Ausbau kommen also tatsächlich **4 weitere Spuren** hinzu, denn auch die künftige A5 wird dann sicherlich wieder eine Standspur haben sollen, so wie es die Normen eigentlich vorsehen.
+Bisher ist die A5 vom Frankfurter Kreuz bis zum Westkreuz 8spurig, im weiteren Verlauf 6spurig, 3 Spuren pro Fahrtrichtung. Die eigentlich vorhandene Standspur wird allerdings seit einiger Zeit zusätzlich als Fahrspur genutzt. Mit dem 10spurigen Ausbau kommen also tatsächlich **4 weitere Spuren** hinzu, denn auch die künftige A5 wird dann sicherlich wieder eine Standspur haben sollen, so wie es die Normen eigentlich vorsehen.
 
 Allein der Flächenverbrauch ist gigantisch. Autobahn-Fahrspuren werden derzeit in Deutschland mit einer Breite von 3,75m ausgelegt. die Verbreiterung beträgt damit 15 Meter. Hinzu kommt jedoch noch der Platz für Lärmschutzwände, die ihrerseits dann noch mal bis zu je 3 Meter Breite benötigen. Insgesamt ist also auf der geplanten Länge von 6km mit einem Platzbedarf von ca. 108.000m<sup>2</sup> zusätzlich versiegelter Fläche zu rechnen. Das entspricht ungefähr dem Platz von **15 Fußballfeldern**.
 
-Wenn nicht nur den Frankfurter Teil der A5 sondern die ganze Strecke, die erweitert werden soll, in Betracht zieht, wird es ein Vielfaches davon.
+Wenn man nicht nur den Frankfurter Teil der A5 sondern die ganze Strecke, die erweitert werden soll, in Betracht zieht, wird es ein Vielfaches davon.
 
 ### Ich wohne zu weit von der A5 entfernt - mich geht das nichts an
 
@@ -74,11 +82,13 @@ Das stimmt leider nicht. Das Land Hessen hat der Beschleunigung von manchen der 
 
 Unabhängig von den Beschleunigungsplänen des Bundesverkehrsministerims aus dem Frühjahr 2023: Der Bundesverkehrswegeplan von 2015 ist beschlossene Sache, was das Land Hessen dazu sagt, ist zwar interessant, aber rechtlich nicht bindend. Das steht so wortwörtlich auch in der Stellungnahme von Hessens Verkehrsminister al-Wazir im April 2023 zum Ausbau der A5 an Bundesminister Wissing: zuständig und verantwortlich für den gesamten Ausbau sei nicht er, sondern die Bundesregierung.
 
+Die in 2023 gewählte, neue hessische Landesregierung hat inzwischen die zuvor zurückgewiesene Beschleunigung des 10spurigen Ausbaus zurück genommen und wünscht sich nun sogar wieder die Beschleunigung - entgegen gegenteiliger Versprechungen vor der Wahl.
+
 ### Durch die Autobahn werden die ländlicheren Gebiete besser angebunden und dadurch gestärkt
 
 Tatsächlich kann eine gute Infrastruktur dafür sorgen, dass ländliche Regionen gestärkt werden. Durch günstigere Immobilienpreise kann Industrie angesiedelt werden, die darauf angewiesen ist, ihre Waren über Straßen und Bahnlinien zu transportieren.
 
-Gerade rund um Ballungsgebiete ist das Ergebnis in der Regel meist ein anderes: Sie degradieren zu reinen Wohngemeinden. Eingekauft wird eher in der Stadt oder online, kleinere Läden verschwinden, auch Cafés und Restaurants können sich auf Dauer nicht mehr halten. Mit den hohen Investitionen in das Straßennetz werden neben dem Individualverkehr strukturelle Veränderungen zu Gunsten von Lieferdiensten gefördert und die Entfaltung sozialer Beziehungen unter den Bürgern eher behindert. 
+Gerade rund um Ballungsgebiete ist das Ergebnis in der Regel meist ein anderes: Sie degradieren zu reinen Wohngemeinden. Eingekauft wird eher in der Stadt oder online, kleinere Läden verschwinden, auch Cafés und Restaurants können sich auf Dauer nicht mehr halten. Mit den hohen Investitionen in das Straßennetz werden neben dem Individualverkehr strukturelle Veränderungen zu Gunsten von Lieferdiensten gefördert und die Entfaltung sozialer Beziehungen unter den Bürgern eher behindert.
 
 Dagegen hilft nur ein kürzerer ÖPNV-Takt und eine lebenswertere Gestaltung des Zentrums um die Bahnhöfe herum. Das lädt Bürgerinnen und Bürger dazu ein, nach der Rückkehr aus der Großstadt noch einen Kaffee zu trinken, und führt dann ggf. auch dazu, die Einkäufe direkt vor Ort zu erledigen und nicht noch mal nach Außerhalb in den größeren Markt zu fahren.
 
@@ -86,13 +96,13 @@ Dagegen hilft nur ein kürzerer ÖPNV-Takt und eine lebenswertere Gestaltung des
 
 Ja, es sind schon erstaunliche Summen, von denen man immer mal wieder hört, mit denen die Bahn finanziert wird. Da ist von Milliarden die Rede. So wird allein der Bahnverkehr mit 112,3 Mrd € bezuschusst (Quelle: [Bundesverkehrswegeplan 2030](https://bmdv.bund.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html)).
 
-Straßen werden hierzulande sogar noch höher bezuschusst, allein vom Bund im gleichen Zeitraum mit 132,8 Mrd €. Länder und Kommunen finanzieren zusätzlich. Außerdem sollte man daran denken, dass beim Straßenbau der Staat das Risiko trägt: kostet ein Projekt mehr als geplant, wird eben mehr ausgegeben, die Bahn hingegen muss solche Risiken selbst tragen.
+Straßen werden hierzulande aber sogar noch höher bezuschusst, allein vom Bund im gleichen Zeitraum mit 132,8 Mrd €. Länder und Kommunen finanzieren zusätzlich. Außerdem sollte man daran denken, dass beim Straßenbau der Staat das Risiko trägt: kostet ein Projekt mehr als geplant, wird eben mehr ausgegeben, die Bahn hingegen muss solche Risiken selbst tragen.
 
 Im Vergleich zu anderen Ländern steht Deutschland damit ebenfalls nicht gut da: pro Kopf investiert die Bundesrepublik nämlich nur nur ca. 114€ pro Jahr. Das ist nur ca. ein Viertel dessen, was z.B. die Schweiz investiert (450€), Luxemburg ist mit 575€ sogar noch spendabler. Laut [Allianz pro Schiene](https://www.allianz-pro-schiene.de/themen/infrastruktur/investitionen/) rangieren wir auf dem drittletzten Platz in Europa.
 
 ### Das dauert doch noch ewig, bis das fertig ist, da brauche ich noch nichts zu machen
 
-Der [Bundesverkehrswegeplan 2030](https://bmdv.bund.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html) liegt bereits vor und der Bundesverkehrsministers Volker Wissing hat versucht, den Ausbau in das "beschleunigte Verfahren" der Bundesregierung zu hieven.
+Der [Bundesverkehrswegeplan 2030](https://bmdv.bund.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html) liegt bereits vor und Bundesverkehrsministers Volker Wissing hat versucht, den Ausbau in das "beschleunigte Verfahren" der Bundesregierung zu hieven.
 
 Geplant wurde bereits einiges, auch eine Machbarkeitsstudie scheint zu existieren, die will uns das Verkehrsministerium aber bisher nicht zeigen, auch Anträge der Stadtverordneten wurden bisher nicht erfüllt. Ob bereits Vorbereitungen laufen, um Tatsachen zu schaffen, bevor die Bürger eingebunden werden konnten, können wir nicht sagen. Beobachten kann man aber, dass Bäume am Westkreuz direkt neben der Autobahn gefällt wurden und aktuell der Steinbacher Übergang gesperrt ist, weil eine Brücke umgebaut werden soll.
 
