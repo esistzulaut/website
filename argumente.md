@@ -11,6 +11,8 @@ Solche Argumente FÜR die Autobahnerweiterung hören wir manchmal. Hier sind uns
 
 ### Mehr Spuren auf der Autobahn bedeutet weniger im Stau stehen
 
+![Superhighway](/assets/argumente/superhighway.jpeg){:class="left small"}
+
 Das ist leider ein Trugschluss. Es ist inzwischen [erwiesen](https://basicthinking.digidip.net/visit?url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F315534829_Closing_the_Induced_Vehicle_Travel_Gap_Between_Research_and_Practice&ppref=https%3A%2F%2Fwww.ecosia.org%2F&currurl=https%3A%2F%2Fwww.basicthinking.de%2Fblog%2F2019%2F03%2F20%2Ffuehren-mehr-spuren-zu-weniger-stau-induced-demand%2F), dass mehr und breitere Straßen langfristig meist zu mehr Stau führen. Das klingt erst mal seltsam. Aber die "bessere" Anbindung führt dazu, dass mehr Menschen das Auto nutzen, um noch weitere Strecken zurück zu legen. In der Fachsprache heißt das ["induzierte Nachfrage"](https://de.wikipedia.org/wiki/Induzierte_Nachfrage).
 
 Mit besserer Anbindung ziehen mehr Menschen weiter aus der Stadt hinaus und nehmen längere Strecken in Kauf. Da dort der ÖPNV meist schlechter ausgebaut ist, machen sich die Menschen vom Auto abhängig. Man lockt sie durch breitere Straßen sozusagen in die Sackgasse. Nach kurzer Zeit ist die breitere Straße wieder so voll wie zuvor, es stehen insgesamt noch mehr Menschen im Stau als zuvor.
@@ -21,6 +23,8 @@ Hinzu kommt, dass man auch von einer breiteren Autobahn in das Nadelöhr der Inn
 
 ### Mit dem Ausbau der Autobahn kommen auch Schallschutzwände - damit wird es sogar leiser als bisher
 
+![Jahrelang Baustelle](/assets/argumente/baustelle.jpeg){:class="right small"}
+
 Leider nicht. Zunächst geht mit dem Autobahnausbau eine gigantische Baustelle einher, die zum Autobahnlärm auch noch Baustellenverkehr, Abbrucharbeiten und ähnliches mit sich bringt.
 
 In dieser Zeit werden dann auch bereits vorhandene Lärmschutzmaßwände, die bisher noch die Autobahn begrenzen abgebaut werden müssen.
@@ -30,6 +34,8 @@ Die Baumaßnahmen benötigen vermutlich ein Jahrzehnt, wenn nicht länger. Aber 
 Als Bürgerinitiative lassen wir uns im Übrigen auch nicht damit erpressen, dass es nur dann Lärmschutz für uns gibt, wenn wir dem weiteren Ausbau zustimmen.
 
 ### Auf den neuen Lärmschutzwänden und -wällen wird es Photovoltaik geben
+
+![PV Anlage auf Lärmschutzwall](/assets/argumente/photovoltaik_lärmschutzwall.jpeg){:class="left small"}
 
 Es ist sicherlich eine gute Idee, Lärmschutzwände und -wälle mit Photovoltaik auszustatten und damit saubere Energie zu erzeugen. Hier geht es aber nicht darum, Energie zu erzeugen, sondern zu verschwenden:
 
@@ -42,6 +48,8 @@ Das Versprechen auf Photovoltaik ist für uns ein Ablenkungsmanöver der verfehl
 
 ### Mit immer mehr Elektroautos wird es eher leiser als lauter
 
+![Lärm durch Rollgeräusch](/assets/argumente/laermbelastung.png){:class="right small"}
+
 Ja, Elektromotoren sind leiser als Verbrenner. Mit steigender Geschwindigkeit ist aber nicht mehr der Motor für den Lärm entscheidend, sondern eher die Rollgeräusche, das Gewicht und der Luftwiderstand.
 
 Vor allem durch ihr in der Regel höheres Gewicht können die Rollgeräusche von Elektroautos sogar größer sein als bei Verbrennern. Das Kraftfahrzeugbundesamt hat zum Beispiel in einer Messung von 2022 festgestellt, dass Autos der Marke Tesla mit 68,8 Dezibel lauter sind als ein durchschnittlicher BMW (67,7 Dezibel) oder VW (68,1 Dezibel). Das liegt vor allem an ihrem durch die Batterien vergleichsweise hohen Gewicht.
@@ -49,6 +57,8 @@ Vor allem durch ihr in der Regel höheres Gewicht können die Rollgeräusche von
 Außerdem wird es noch recht lange dauern, bis dann auch LKW auf Elektrobetrieb umgestellt sein werden. Auch der gerne für LKW vorgeschlagene Antrieb mit eFuels wird nicht für Entspannung sorgen, denn auch diese werden verbrannt und sind damit im Kern nichts anderes als Verbrennungsmotoren. [Nur mit mehr Energieverlusten](https://www.quarks.de/podcast/quarks-science-cops-e-fuels-statt-e-auto/){:target="\_blank"}.
 
 ### Es gibt nun mal immer mehr Straßenverkehr - irgendwo muss der hin
+
+![S-Bahnen für bessere ÖPNV Anbindung](/assets/argumente/sbahn.jpeg){:class="left small"}
 
 Das ist noch nicht ausgemacht. Im Gegenteil: eigentlich muss immer mehr Verkehr auf die Schiene gebracht werden, damit wir unseren Anteil an der weltweit vereinbarten Reduktion von CO<sub>2</sub> schaffen. Denn nur dann sparen wir tatsächlich Energie ein, sowohl in der Produktion der Fahrzeuge als auch im Betrieb.
 
@@ -59,6 +69,8 @@ Der [Ausbau der Bahnstrecke zwischen Frankfurt und Friedberg](https://www.s6-fra
 Die Aufgabe von verantwortungsbewusster Verkehrspolitik sehen wir darin, dass im Sinne von mehr Bahn-, Bus- und Radverkehr steuernd eingegriffen wird, statt einfach nur neue Autobahnen zu bauen.
 
 ### Es ist nur eine weitere Spur pro Richtung - so schlimm ist das doch nicht
+
+![Autobahn Querschnitt](/assets/argumente/querschnitt-autobahn.svg)
 
 Für den 85jährigen, der sein Eigenheim dafür her geben muss oder für den [als stark gefährdet eingestuften Gartenschläfer](https://de.wikipedia.org/wiki/Gartenschl%C3%A4fer){:target="\_blank"} ist das durchaus schlimm.
 
