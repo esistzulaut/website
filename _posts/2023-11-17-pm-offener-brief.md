@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 title: Presse-Erklärung zur Koalitionsverhandlung von CDU und SPD nach der Hessen-Wahl
 excerpt: Nach der Wahl in Hessen wollen CDU und SPD nun doch einen beschleunigten 10spurigen Ausbau der A5 durch Frankfurt erwirken

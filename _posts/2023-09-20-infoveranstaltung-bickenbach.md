@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/img/2023-08-27-ausbau-a5-verhindern/ausbau-a5.png
 title: "Vor uns der Abgrund: der „Rechtsstaat“ in rasender Fahrt vom Autoland in die Klimakatastrophe"

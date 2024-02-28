@@ -1,9 +1,9 @@
 ---
-category: homepage
 layout: post
 title: Presse-Erklärung zu den Medienberichten vom Stopp des zehnstreifigen Ausbaus der A5
 excerpt: Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ erläutert ihre Einschätzung zu den Medienberichten und ordnet ein, was davon als Erfolg zu werten ist, und was hinter den schönen Worten dennoch unsere Arbeit weiterhin wichtig macht
 ---
+
 ## Presse-Erklärung der Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ zu den Medienberichten vom Stopp des zehnstreifigen Ausbaus der Autobahn A5 durch Frankfurt
 
 Die Ampel-Koalition hat nach Berichten in der Presse beschlossen, den Ausbau der A5 in der bisher vorgesehenen Weise nicht weiter zu verfolgen.<br />
@@ -18,11 +18,11 @@ Diese Machbarkeitsstudie, aus der bereits im Juni presseöffentlich von einem ih
 
 Die drei Forderungen unserer BI lauteten und lauten:
 
-- keinerlei Ausbau der A5 
+- keinerlei Ausbau der A5
 - Lärmschutz jetzt: Tempolimit im innerstädtischen Autobahnverkehr, bessere Lärmschutzwände, Flüsterasphalt entlang der gesamten A5 durch Frankfurt
 - Offenlegung der Pläne und der Machbarkeitsstudie des Bundesverkehrsministeriums und der Autobahn GmbH.
 
-Von diesen Forderungen ist keine einzige erfüllt. Das betrifft vor allem auch den achtspurigen Ausbau im Norden Frankfurts, der laut Medienberichten erneut mit verbessertem Lärmschutz „verzuckert“ wurde. Dazu stellen wir fest: Lärmschutz im Sinn zB. der in Frankfurt entlang der A5 vielfach dauerhaft gebrochenen Bundesimmissionsschutzverordnung ist ein gesetzlich vorgeschriebenes Recht Aller – unabhängig vom weiteren Ausbau der Lärmquelle! Seit Jahrzehnten kämpfen die dem Lärm der A5 schutzlos ausgelieferten Menschen in Kalbach um Lärmschutzwände an der Autobahn. Das muss jetzt endlich sofort passieren! Den Betroffenen vor Ort ist es völlig egal, aus welchem Etat dafür ihr Steuergeld ausgegeben wird. 
+Von diesen Forderungen ist keine einzige erfüllt. Das betrifft vor allem auch den achtspurigen Ausbau im Norden Frankfurts, der laut Medienberichten erneut mit verbessertem Lärmschutz „verzuckert“ wurde. Dazu stellen wir fest: Lärmschutz im Sinn zB. der in Frankfurt entlang der A5 vielfach dauerhaft gebrochenen Bundesimmissionsschutzverordnung ist ein gesetzlich vorgeschriebenes Recht Aller – unabhängig vom weiteren Ausbau der Lärmquelle! Seit Jahrzehnten kämpfen die dem Lärm der A5 schutzlos ausgelieferten Menschen in Kalbach um Lärmschutzwände an der Autobahn. Das muss jetzt endlich sofort passieren! Den Betroffenen vor Ort ist es völlig egal, aus welchem Etat dafür ihr Steuergeld ausgegeben wird.
 
 Darüber hinaus stellen wir fest: 23 weitere mit Zustimmung der Landesregierung vorgesehenen Autobahn-Ausbaustellen in Hessen (zB. A661 in Frankfurt und die Ausbauteilstücke im südhessischen Ried, die A49 in Mittelhessen, zahlreicher Autobahnkreuze) sind aus Sicht der Mobilitätswende als notwendiger integraler Bestandteil im Kampf gegen die Klimakatastrophe nicht zu verantworten. Weitere Probleme (Stichwort Wälder, Naturschutzgebiete, Biodiversität, Trinkwasser) kommen hinzu.
 

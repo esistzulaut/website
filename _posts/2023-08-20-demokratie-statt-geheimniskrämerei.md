@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 title: Demokratie statt Geheimniskrämerei
 excerpt: Sofortige Offenlegung aller Ausbau-Pläne und -Studien, die den  A5-Ausbau betreffen!
