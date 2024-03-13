@@ -7,7 +7,9 @@ layout: default
 
 Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
 
-Es findet jeweils am dritten Samstag eines Monats, von 14 - 16 Uhr auf der Europabrücke über den Main, Fußgänger- und Fahrradweg statt. Für alle nicht so Ortskundigen - das ist hier: https://maps.app.goo.gl/QcbMDn7Da5iY6Wan7.
+Es findet jeweils am dritten Samstag eines Monats, von 14 - 16 Uhr auf der Europabrücke über den Main, Fußgänger- und Fahrradweg statt. Für alle nicht so Ortskundigen - das ist hier:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2559.8371384544007!2d8.617371!3d50.089335999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDA1JzIxLjYiTiA4wrAzNycwMi41IkU!5e0!3m2!1sde!2sde!4v1710307283210!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!-- ## Donnerstagabend, 29.02.2024 19:00 Reguläres Treffen der Bürgerinitiative
 
