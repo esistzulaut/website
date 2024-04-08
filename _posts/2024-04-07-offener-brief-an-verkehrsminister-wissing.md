@@ -7,9 +7,9 @@ excerpt: Siedlergemeinschaft fordert Herausgabe der Machbarkeitsstudie
 ---
 
 ![Verkehrsminister Volker Wissing (FDP)](/assets/2024-04-07/MKr32663_Volker_Wissing.jpg){:class="left small"}
-<small>Von Martin Kraft - Eigenes Werk, CC BY-SA 4.0, <https://commons.wikimedia.org/w/index.php?curid=135896185></small>
+<small><a href="https://commons.wikimedia.org/w/index.php?curid=135896185">Bild von Martin Kraft - Eigenes Werk, CC BY-SA 4.0</a></small>
 
-ein Anwohner der angedrohten zehnspurigen Erweiterung der Autobahn A5 setzt dem Verkehrsminister und der Autobahn gmbH eine Frist zur Herausgabe der ominösen Machbarkeitsstudie.
+Ein Anwohner der angedrohten zehnspurigen Erweiterung der Autobahn A5 setzt dem Verkehrsminister und der Autobahn gmbH eine Frist zur Herausgabe der ominösen Machbarkeitsstudie.
 
 Stefan G. ist Anwohner der Autobahn A5 im Frankfurter Stadtteil Goldstein. Wird die Autobahn auf zehn Spuren erweitert, muss er damit rechnen, schlimmstenfalls enteignet zu werden – dann fallen Haus und Garten der Erweiterung der Autobahn zum Opfer.
 
@@ -19,7 +19,9 @@ Aber wie soll eigentlich dieser Ausbau genau aussehen? Und warum ist er angeblic
 
 Seit zwei Monaten machen immer wieder Gerüchte die Runde, die Autobahn GmbH werde die Studie nun demnächst veröffentlichen. Geschehen ist nichts.
 
-Nun hat Stefan G. dem Bundesverkehrsminister und der Autobahn GmbH geschrieben. Mit Unterstützung der Siedlergemeinschaft Goldstein und der Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ (esistzulaut.org) fordert er die Herausgabe der Machbarkeitsstudie bis zum 21. April, andernfalls werde er sie unter Verweis auf das Umwelt-Informations-Gesetz „auf dem Klageweg erzwingen“. Der Text des Schreibens ist auf der Seite [www.esistzulaut.org](/assets/2024-04-07/Schreiben_2024-04-06_Herausgabe_MachbarkeitsStudie_Einschreiben.pdf) dokumentiert. Wir sind gespannt, wie es weitergeht und bleiben bei unseren Forderungen:
+Nun hat Stefan G. dem Bundesverkehrsminister und der Autobahn GmbH geschrieben. Mit Unterstützung der Siedlergemeinschaft Goldstein und der Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ (esistzulaut.org) fordert er die Herausgabe der Machbarkeitsstudie bis zum 21. April, andernfalls werde er sie unter Verweis auf das Umwelt-Informations-Gesetz „auf dem Klageweg erzwingen“. [Den Text des Schreibens kann man hier nachlesen](/assets/2024-04-07/Schreiben_2024-04-06_Herausgabe_MachbarkeitsStudie_Einschreiben.pdf).
+
+Wir sind gespannt, wie es weitergeht und bleiben bei unseren Forderungen:
 
 - keinerlei Ausbau der A5
 - verbesserter Lärmschutz entlang der A5 sofort (Tempolimit, bessere Lärmschutzwände,
