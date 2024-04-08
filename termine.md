@@ -27,7 +27,9 @@ Die Lärm- und Naturbelastung der Autobahnen in Frankfurt wahrnehmen!
 
 **Um Anmeldung wird gebeten!**
 
-## 16. Mai 2024 um 19:00 Uhr: Reguläres Treffen
+<div style="clear: both;"></div>
+
+## 16. Mai 2024 um 19:00 Uhr: Reguläres Treffen der BI "Es ist zu laut!"
 
 Der Ort wird noch bekannt gegeben.
 
