@@ -3,8 +3,6 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## 18. April 2024 Gespräch des Verkehrswendebündnisses mit der Linken im Römer
-
 ## 20. April 2024 14:00 nächstes "Brückentreffen"
 
 Jeder dritte Samstag im Monat findet ein lockeres Zusammentreffen auf der A5-Europabrücke (Rad-/Fußweg) statt. Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
