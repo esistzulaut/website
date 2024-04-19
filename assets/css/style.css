@@ -386,6 +386,10 @@ td {
     max-width: 40%;
   }
 
+  img.micro {
+    max-width: 100px;
+  }
+
   .post-teaser h2,
   .post-teaser .excerpt,
   .post-teaser .continue-read {
