@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 title: Sperrung der Omega Brücke und des S-Bahn-Verkehrs in Griesheim
 thumbnail: assets/img/2023-09-09-sperrung-omega-bruecke/IMG_6214.jpg
