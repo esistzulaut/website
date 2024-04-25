@@ -3,20 +3,12 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## 20. April 2024 14:00 nächstes "Brückentreffen"
-
-Jeder dritte Samstag im Monat findet ein lockeres Zusammentreffen auf der A5-Europabrücke (Rad-/Fußweg) statt. Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
-
-Nächstes Mal ist der 20. April 2024 14:00 auf der Goldsteiner Seite. Für alle nicht so Ortskundigen - das ist hier:
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2559.8371384544007!2d8.617371!3d50.089335999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDA1JzIxLjYiTiA4wrAzNycwMi41IkU!5e0!3m2!1sde!2sde!4v1710307283210!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## 20. April, 27. April, 11. Mai 2024 und 01. Juni 2024 Info-Radtouren des BUND entlang der A5
+## 27. April, 11. Mai 2024 und 01. Juni 2024 Info-Radtouren des BUND entlang der A5
 
 ![Radtouren des BUND](https://www.bund-frankfurt.de/fileadmin/_processed_/5/1/csm-BUND-A5-Inforadtouren-Etappe-1u2-grafik-rh-2-9b93a6aca2.jpg){:class="left small"}
 Die Lärm- und Naturbelastung der Autobahnen in Frankfurt wahrnehmen!
 
-- Etappe 1 / Süd: Von Goldstein, Straßburger Straße bis Rödelheim. 13 km. Am 20.04. und am 11.05.2024 jeweils 14:00 – ca. 16:30 Uhr mit Zwischenstopp an der Europabrücke
+- Etappe 1 / Süd: Von Goldstein, Straßburger Straße bis Rödelheim. 13 km. Am 11.05.2024 von 14:00 – ca. 16:30 Uhr mit Zwischenstopp an der Europabrücke
 - Etappe 2 / Nord: Von Rödelheim bis Nieder-Eschbach. 14 km. Am 27.04. und am 01.06.2024 jeweils 14:00 – ca. 16:30 Uhr
 
 [Weitere Infos dazu beim BUND](https://www.bund-frankfurt.de/service/meldungen/detail/news/radtouren-zur-info-ueber-die-spurerweiterung-der-a5/)
@@ -30,6 +22,14 @@ Die Lärm- und Naturbelastung der Autobahnen in Frankfurt wahrnehmen!
 ## 16. Mai 2024 um 19:00 Uhr: Reguläres Treffen der BI "Es ist zu laut!"
 
 Der Ort wird noch bekannt gegeben.
+
+## 18. Mai 2024 14:00 nächstes "Brückentreffen"
+
+Jeder dritte Samstag im Monat findet ein lockeres Zusammentreffen auf der A5-Europabrücke (Rad-/Fußweg) statt. Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
+
+Nächstes Mal ist der 18. Mai 2024 14:00 auf der Goldsteiner Seite. Für alle nicht so Ortskundigen - das ist hier:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2559.8371384544007!2d8.617371!3d50.089335999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDA1JzIxLjYiTiA4wrAzNycwMi41IkU!5e0!3m2!1sde!2sde!4v1710307283210!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!-- Das Treffen der Bürgerinitiative ist diesmal im 1. Stock des Evangelischen Gemeindehauses
 neben der Segenskirche in Griesheim -->
