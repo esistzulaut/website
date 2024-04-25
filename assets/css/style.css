@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0;
   margin: 0;
@@ -54,7 +55,7 @@ li {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    position:relative;
+    position: relative;
   }
 
   dl > label {
@@ -122,12 +123,13 @@ li {
     cursor: pointer;
   }
 
-  dl > label > dd, dl > label > dd > * {
+  dl > label > dd,
+  dl > label > dd > * {
     opacity: 0;
   }
 
   dl > label > input:checked + dt + dd {
-    transition: opacity,transform 1s;
+    transition: opacity, transform 1s;
     transform: scale(1);
     opacity: 1;
     z-index: 1;
@@ -172,14 +174,13 @@ video {
 
 header.top {
   display: grid;
-  grid-template-columns: 80px auto auto; 
-  gap: 5px 10px; 
+  grid-template-columns: 80px auto auto;
+  gap: 5px 10px;
   align-items: flex-start;
-  grid-template-areas: 
+  grid-template-areas:
     "logo menu socialmedia"
     "logo title title";
 }
-
 
 blockquote {
   display: flex;
@@ -210,7 +211,7 @@ blockquote p:first-of-type {
 
 footer {
   border-top: 1px solid grey;
-    padding: 1rem 0;
+  padding: 1rem 0;
 }
 
 iframe {
@@ -219,7 +220,7 @@ iframe {
 
 .mainpage header.top {
   padding-top: 2rem;
-  grid-template-columns: 1fr 2.93fr; 
+  grid-template-columns: 1fr 2.93fr;
   gap: 5px 5px;
   margin-right: -5px;
   align-items: end;
@@ -231,17 +232,17 @@ iframe {
 
 .mainpage header.top > div {
   display: grid;
-  grid-template-columns: 1fr 1fr; 
-  grid-template-rows: 2fr 1fr; 
-  gap: 5px 5px; 
-  grid-template-areas: 
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2fr 1fr;
+  gap: 5px 5px;
+  grid-template-areas:
     "left-img right-img"
     "subtitle subtitle";
   align-items: end;
 }
 
 header.top h1 {
-  grid-area: title; 
+  grid-area: title;
   margin: 0;
   align-self: end;
   font-size: 1.8rem;
@@ -251,8 +252,12 @@ h2 {
   font-size: 1.3rem;
 }
 
-.subtitle { grid-area: subtitle; }
-nav { grid-area: menu; }
+.subtitle {
+  grid-area: subtitle;
+}
+nav {
+  grid-area: menu;
+}
 
 nav {
   display: flex;
@@ -295,7 +300,8 @@ table {
   background: #eeeeee;
 }
 
-td, th {
+td,
+th {
   padding: 2px;
   white-space: nowrap;
 }
@@ -363,30 +369,35 @@ td {
   .post-teaser h2 {
     margin-top: 1rem;
   }
-      
-  img.left {
+
+  .left {
     max-width: 60%;
     float: left;
     margin: 0 15px 15px 0;
+    display: flex;
+    flex-direction: column;
   }
 
-  img.right {
+  .right {
     max-width: 60%;
     float: right;
     margin: 0 0 15px 15px;
+    display: flex;
+    flex-direction: column;
   }
 
-  img.left::before, img.right::before {
+  img.left::before,
+  img.right::before {
     content: "";
     clear: both;
     display: table;
   }
 
-  img.small {
+  .small {
     max-width: 40%;
   }
 
-  img.micro {
+  .micro {
     max-width: 100px;
   }
 
@@ -394,7 +405,7 @@ td {
   .post-teaser .excerpt,
   .post-teaser .continue-read {
     padding: 0 1rem;
-  }  
+  }
 }
 
 .mainpage nav {
@@ -411,7 +422,7 @@ td {
   nav {
     max-width: 640px;
   }
-  
+
   .mainpage nav {
     text-align: center;
   }
@@ -419,9 +430,9 @@ td {
 
 @media (max-width: 640px) {
   header.top {
-    grid-template-areas: 
-    "logo menu socialmedia"
-    "title title title";
+    grid-template-areas:
+      "logo menu socialmedia"
+      "title title title";
   }
 
   header.top h1 {
@@ -464,11 +475,16 @@ td {
 }
 
 @media print {
-  nav, .socialmedia {
+  nav,
+  .socialmedia {
     display: none;
   }
 
-  html, body, .page-wrapper, #argumente_page, section {
+  html,
+  body,
+  .page-wrapper,
+  #argumente_page,
+  section {
     height: auto;
   }
 

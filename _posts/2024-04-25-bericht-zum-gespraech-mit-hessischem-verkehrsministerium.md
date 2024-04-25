@@ -6,15 +6,19 @@ title: Gespräch im Hessischen Verkehrsministerium
 excerpt: Der zehnspurige Ausbau der A5 durch Frankfurt ist beschlossen und soll beschleunigt umgesetzt werden. Basta.
 ---
 
-![Der hessische Verkehrsminister Kaweh Mansoori (2021)](</assets/2024-04-25/640px-Kaweh_Mansoori_(2021).jpg>){:class="left small"}
+<em class="small left">
+![Der hessische Verkehrsminister Kaweh Mansoori (2021)](</assets/2024-04-25/640px-Kaweh_Mansoori_(2021).jpg>)
 Der hessische Verkehrsminister Kaweh Mansoori<br />
 <small>Bild von photothek.net, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons</small>
+</em>
 
 Drei Vertreter der BI „Es ist zu laut“ trafen sich am 24. April 2024 mit der Staatssekretärin im Hessischen Wirtschafts- und Verkehrsministerium, Prof. Dr. Messari-Becker, deren Referenten sowie den beiden Verantwortlichen für Straßenbau und für den Kontakt zu DEGES und Autobahn-GmbH.
 
 Einig waren sich alle Beteiligten nur in einem einzigen Punkt: dass die bislang der Öffentlichkeit unbekannte Machbarkeitsstudie des Bundesverkehrsministeriums zur zehnspurigen Erweiterung der Autobahn A5 von Friedberg bis zum Frankfurter Kreuz nun endlich veröffentlicht werden soll.
 
 Wir als BI bereiten eine aktuell Klage nach dem Umweltinformationsgesetz gegen das Bundesverkehrsministerium und die Autobahn GmbH vor, nachdem beide eine von uns gesetzte Frist zur Herausgabe der Machbarkeitsstudie haben verstreichen lassen. Unsere Frage, wieso das Ministerium nicht selbst auch klage, wurde mit dem Hinweis auf die übliche Langatmigkeit administrativer Vorgänge eher nicht beantwortet: das Ministerium wolle weiter abwarten.
+
+<br style="clear: both;" />
 
 Wir erläuterten der Staatssekretärin und ihren Mitarbeitern unsere drei Forderungen:
 
