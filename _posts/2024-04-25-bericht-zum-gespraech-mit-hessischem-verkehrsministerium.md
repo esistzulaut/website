@@ -31,5 +31,4 @@ Wir werden deshalb die Anwohnenden sowie die interessierte Öffentlichkeit aktiv
 
 Nur so haben wir eine Chance, die Erweiterung der A5 mitten durch schon jetzt vom Autobahnlärm belastete Wohngebiete, Gärten, ein Trinkwasserschutzgebiet, das Habitat mindestens einer geschützten Tierart und ein Europäisches Vogelschutzgebiet zu verhindern.
 
-BI „Es ist zu laut“\
-25. April 2024
+BI „Es ist zu laut“, 25. April 2024
