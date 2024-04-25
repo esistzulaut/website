@@ -7,7 +7,7 @@ excerpt: Der zehnspurige Ausbau der A5 durch Frankfurt ist beschlossen und soll 
 ---
 
 ![Der hessische Verkehrsminister Kaweh Mansoori (2021)](/assets/2024-04-25/640px-Kaweh_Mansoori_(2021).jpg){:class="left small"}
-<small>Von photothek.net - Auftragsarbeit/&lt;a rel=&quot;nofollow&quot; class=&quot;external free&quot; href=&quot;https://www.spdfraktion.de/abgeordnete&quot;&gt;https://www.spdfraktion.de/abgeordnete&lt;/a&gt;, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123726920">Link</a></small>
+<small>photothek.net, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons</small>
 
 Drei Vertreter der BI „Es ist zu laut“ trafen sich am 24. April 2024 mit der Staatssekretärin im Hessischen Wirtschafts- und Verkehrsministerium, Prof. Dr. Messari-Becker, deren Referenten sowie den beiden Verantwortlichen für Straßenbau und für den Kontakt zu DEGES und Autobahn-GmbH.
 
