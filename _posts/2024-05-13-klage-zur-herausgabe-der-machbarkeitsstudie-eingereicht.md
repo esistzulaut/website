@@ -20,4 +20,4 @@ Deshalb hat einer unserer Mitstreiter, Stefan Gegner, Mitglied der Siedlergemein
 
 Wir haben die Studie bis heute nicht.
 
-Darum hat Stefan Gegner heute unseren Rechtsanwalt Leonhard Stuber von der Kanzlei Philipp-Gerlach | Teßler beauftragt, gegen die Bundesrepublik Deutschland, vertreten durch das Bundesverkehrsministerium auf Herausgabe der Machbarkeitsstudie zu klagen.
+Darum hat Stefan Gegner heute unseren Rechtsanwalt Leonhard Stuber von der Kanzlei Philipp-Gerlach \| Teßler beauftragt, gegen die Bundesrepublik Deutschland, vertreten durch das Bundesverkehrsministerium auf Herausgabe der Machbarkeitsstudie zu klagen.
