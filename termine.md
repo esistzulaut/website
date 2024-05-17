@@ -14,6 +14,8 @@ Die Lärm- und Naturbelastung der Autobahnen in Frankfurt wahrnehmen!
 
 **Um Anmeldung wird gebeten!**
 
+<div style="clear: both;"></div>
+
 ## 15. Juni 2024 14:00 nächstes "Brückentreffen"
 
 Jeden dritten Samstag im Monat findet ein lockeres Zusammentreffen auf der A5-Europabrücke (Rad-/Fußweg) auf der Goldsteiner Seite statt. Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
@@ -21,6 +23,8 @@ Jeden dritten Samstag im Monat findet ein lockeres Zusammentreffen auf der A5-Eu
 Für alle nicht so Ortskundigen - das ist hier:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2559.8371384544007!2d8.617371!3d50.089335999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTDCsDA1JzIxLjYiTiA4wrAzNycwMi41IkU!5e0!3m2!1sde!2sde!4v1710307283210!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div style="clear: both;"></div>
 
 ## 04. Juli 2024 um 19:00 Uhr: Reguläres Treffen der BI "Es ist zu laut!"
 
@@ -41,5 +45,3 @@ neben der Segenskirche in Griesheim
 Das Treffen der Bürgerinitiative ist diesmal im Gemeindehaus der Dankeskirche in Goldstein
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.165859136906!2d8.60626057681389!3d50.08318147152423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd0bb2e041680d%3A0x32a09860ec50e2f7!2sEvangelische%20Dankeskirche%20Frankfurt%20-%20Evangelische%20Dankeskirchengemeinde%20Frankfurt%2FMain!5e0!3m2!1sde!2sde!4v1698586884383!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe-->
-
-<div style="clear: both;"></div>
