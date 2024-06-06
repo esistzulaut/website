@@ -2,20 +2,6 @@
 title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
-
-## 01. Juni 2024 Info-Radtour des BUND entlang der A5
-
-![Radtour des BUND](https://www.bund-frankfurt.de/fileadmin/_processed_/5/1/csm-BUND-A5-Inforadtouren-Etappe-1u2-grafik-rh-2-9b93a6aca2.jpg){:class="left small"}
-Die Lärm- und Naturbelastung der Autobahnen in Frankfurt wahrnehmen!
-
-- Etappe 2 / Nord: Von Rödelheim bis Nieder-Eschbach. 14 km. Am 27.04. und am 01.06.2024 jeweils 14:00 – ca. 16:30 Uhr
-
-[Weitere Infos dazu beim BUND](https://www.bund-frankfurt.de/service/meldungen/detail/news/radtouren-zur-info-ueber-die-spurerweiterung-der-a5/)
-
-**Um Anmeldung wird gebeten!**
-
-<div style="clear: both;"></div>
-
 ## 15. Juni 2024 14:00 nächstes "Brückentreffen"
 
 Jeden dritten Samstag im Monat findet ein lockeres Zusammentreffen auf der A5-Europabrücke (Rad-/Fußweg) auf der Goldsteiner Seite statt. Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
