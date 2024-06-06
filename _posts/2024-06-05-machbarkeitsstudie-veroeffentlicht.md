@@ -6,7 +6,10 @@ title: Machbarkeitsstudie zum zehnspurigen Ausbau der A5 veröffentlicht
 excerpt: Laut Machbarkeitsstudie des Bundsverkehrsministeriums zum zehnspurigen Ausbau der Autobahn A5 durch Frankfurt sollen 1,1 Milliarden zur anfeuerung der Klimakatastrophe und gegen die Menschen im Frankfurter Westen investiert werden
 ---
 
+<em class="small left">
 ![Frankfurter Kreuz - Von kallerna - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116174247](/assets/2024-06-05/640px-Interchange_near_Frankfurt_airport.jpg){:class="small left"}
+<small>Von kallerna - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116174247</small>
+</em>
 
 Machbarkeitsstudie des Bundsverkehrsministeriums zum zehnspurigen Ausbau der Autobahn A5 durch Frankfurt veröffentlicht
 
