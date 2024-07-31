@@ -2,12 +2,14 @@
 category: homepage
 layout: post
 thumbnail: https://www.hessenschau.de/tv-sendung/240729_1930_a5_ausbau-100~_t-1722268419673_v-16to9__retina.jpg
-title: Hessenschau Bericht mit kleinen Fehlern
+title: Hessenschau Bericht mit Fehler
 excerpt: "Leider eine Falschinformation: der Hessische Rundfunk berichtet unzutreffend über die Ausbaupläne zur Autobahn A5"
 ---
 
 <em class="small left">
 ![hessenschau vom 29.07.2024](https://www.hessenschau.de/tv-sendung/240729_1930_a5_ausbau-100~_t-1722268419673_v-16to9__retina.jpg)
+<small>Bild © hr, https://www.hessenschau.de/tv-sendung/a5--geplanter-ausbau-auf-zehn-spuren,video-199896.html</small>
+</em>
 
 Leider eine Falschinformation: der Hessische Rundfunk [berichtet unzutreffend über die Ausbaupläne zur Autobahn A5](https://www.hessenschau.de/tv-sendung/a5--geplanter-ausbau-auf-zehn-spuren,video-199896.html){:target="_blank"}
 
