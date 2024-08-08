@@ -2,7 +2,7 @@
 category: homepage
 layout: post
 thumbnail: /assets/2024-04-07/MKr32663_Volker_Wissing.jpg
-title: PM zu den Plänen von Verkehrsminsiter Wissing
+title: PM zu den Plänen von Verkehrsminister Wissing
 excerpt: Die BI "Es ist zu laut" weist die umweltpolitische Verantwortungslosigkeit von Volker Wissing empört zurück.
 ---
 
