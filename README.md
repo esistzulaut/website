@@ -17,7 +17,34 @@ Ein Teil unserer Arbeit ist diese Website. Im Weiteren geht es hier darum, wie m
 
 ## Website inhaltlich bearbeiten
 
-Sollen nur inhaltliche Änderungen an der Website gemacht werden, kann man direkt die Dateien in diesem Repository anpassen. GitHub Pages sorgt dafür, dass die Änderungen nach kurzer Zeit (ca. 1-2 Minuten) auf der Website zu sehen sind.
+Sollen nur inhaltliche Änderungen an der Website gemacht werden, kann man direkt die Dateien in diesem Repository anpassen.
+GitHub Pages sorgt dafür, dass die Änderungen nach kurzer Zeit (ca. 1-2 Minuten) auf der Website zu sehen sind.
+Häufigster Fall ist, dass die `termine.md` Seite angepasst werden muss.
+
+## Kartenausschnitte ergänzen
+
+Wir verwenden insbesondere auf der Terminseite Kartenausschnitte von [OpenStreetMap](https://www.openstreetmap.org).
+Um einen neue Stelle zu markieren, suchst du sie dort heraus und klickst rechts im Menü auf den "Teilen" Link.
+Dann klickst du "Kartenmarker setzen" an und wählst "HTML" aus.
+Direkt darunter wird dann ein Code-Fragment angezeigt, das du unverändert in die Terminseite übertragen kannst.
+
+## Neuen Artikel ergänzen
+
+Im Verzeichnis `_posts` sind alle Artikel zu finden, die es auf der Seite zu lesen gibt.
+Um einen neuen Artikel zu ergänzen, bietet es sich an, einen vorhandenen zu kopieren und die Kopie anzupassen.
+Wichtig ist dabei, dass der Dateiname mit dem Datum beginnt und keine Leerzeichen oder Umlaute enthält, weil das mitunter zu Schwierigkeiten beim Teilen des Links geben kann.
+
+Jede Datei besteht aus zwei Teilen: einem "Header", in dem einige übergeordnete Informationen zu finden sind.
+Dazu gehören z.B. der Titel oder auch das Teaser-Bild, das auf der Hauptseite zu sehen sein soll.
+Das muss natürlich angepasst werden.
+Bilder legen wir normalerweise im `assets`-Verzeichnis ab, im Idealfall in einem Unterverzeichnis mit dem Datum des Artikels.
+Als Bildformate eignen sich JPEG oder PNG, Videos am besten als MP4.
+Bitte auf Bildrechte achten!
+
+Im zweiten Teil der Artikeldatei steht der Textinhalt.
+Dieser kann [Formatierungen im Markdown-Format](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) enthalten, das ist aber normalerweise nicht unbedingt nötig. Meist reicht einfacher Text aus.
+
+## Umfangreichere Änderungen
 
 Bei größeren inhaltlichen Änderungen, bei denen z.B. auch Bilder verändert werden oder mehrere Seiten gleichzeitig geändert werden sollen, ist es sinnvoll, einen sog. "Branch" anzulegen und die Änderungen darin vorzunehmen. Wenn alles Notwendige für die Änderung fertig vorbereitet ist, wird der Branch "gemergt", die Änderungen werden gleichzeitig aktiv.
 
