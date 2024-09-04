@@ -5,7 +5,9 @@ layout: default
 
 ## 14. September 2024 Vorstellung unserer Analyse der Machbarkeitsstudie
 
-Details zum Ort und zur genauen Uhrzeit folgen noch.
+Die Veranstaltung findet in der Evangelischen Pfingstkirche, Jägerallee 28, 65933 Griesheim statt und wird etwa von 15:30 bis 18 Uhr dauern.
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.58537554740906%2C50.099268935120016%2C8.597477674484255%2C50.1053316929706&amp;layer=mapnik&amp;marker=50.102300409960975%2C8.591426610946655" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.102300&amp;mlon=8.591427#map=17/50.102300/8.591427">Größere Karte anzeigen</a></small>
 
 ## 21. September 2024 Parking Day und nächstes Brückentreffen
 
