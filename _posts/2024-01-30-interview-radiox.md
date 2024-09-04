@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/2024-01-30/radiowinnie.jpg
 title: Interview beim "Gallusfenster" in Radio X

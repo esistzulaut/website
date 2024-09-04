@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/2023-10-07/2023-10-07-191344_008.jpeg
 title: Bericht vom Spaziergang durch den Stadtwald
