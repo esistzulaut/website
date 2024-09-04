@@ -38,5 +38,5 @@ Das hätte mehrere Folgen:
 
 Wir werden uns nun intensiv mit der jetzt endlich vorliegenden Studie beschäftigen und danach detailliert veröffentlichen, was wir dazu im Einzelnen zu sagen haben.
 
-BI Es ist zu laut \
+BI Es ist zu laut,
 5.6.2024

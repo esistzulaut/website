@@ -19,5 +19,5 @@ Das ist falsch. Landesverkehrsminister Mansoori (SPD) hat am 9.2.2024 in einem S
 
 Im Herbst werden die Pläne zum Ausbau von Autobahnen in ganz Deutschland vor dem Bundestag diskutiert. Wir gehen davon aus, dass Wissing spätestens dann versuchen wird, den zehnspurigen Ausbau erneut in die Reihe der bundesweiten Ausbauprojekte aufzunehmen, die "beschleunigt", das heißt: mit weniger Einspruchsrechten für die betroffenen Bürger:innen, realisiert werden sollen. Dagegen mobilisieren wir. Ein erster Schritt dazu ist, Fehlinformationen entgegenzutreten, wie sie diesmal leider von der hessenschau kamen.
 
-BI Es ist zu laut \
+BI Es ist zu laut,
 30.7.2024

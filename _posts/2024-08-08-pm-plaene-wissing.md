@@ -30,5 +30,5 @@ Zudem werden wir uns am 29.9. an einer grossen Fahrrad-Demonstration auf der A5 
 
 Wir rufen alle Betroffenen der angekündigten Erweiterung der A5 dazu auf, jetzt aktiv zu werden und dem Spuk eines solchen aus der Welt gefallenen Projekts ein Ende zu bereiten.
 
-BI „Es ist zu laut“ \
+BI „Es ist zu laut“,
 8.8.2024
