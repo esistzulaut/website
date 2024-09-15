@@ -412,9 +412,27 @@ td {
   margin-top: 0.1rem;
 }
 
+#download_page #main-content ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+#download_page #main-content li {
+  text-align: center;
+}
+
+#download_page #main-content img {
+  width: 200px;
+}
+
 @media (min-width: 1024px) {
   .posts {
     grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  #download_page #main-content ul {
+    grid-template-columns: auto auto auto;
   }
 }
 
@@ -456,18 +474,6 @@ td {
   .socialmedia {
     width: 20px;
   }
-}
-
-#download_page #main-content a {
-  display: flex;
-}
-
-#download_page #main-content img {
-  width: 200px;
-}
-
-#download_page #main-content em {
-  margin: 1rem;
 }
 
 #argumente_page {
