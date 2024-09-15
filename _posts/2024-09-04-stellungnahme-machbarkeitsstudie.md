@@ -26,3 +26,5 @@ BI „Es ist zu laut“,
 04. September 2024
 
 <a href="/assets/2024-09-04/BI Flugi 14.9.2024_final.pdf" target="_blank">Download Flugblatt mit der Einladung</a>
+
+<p>Die Zusammenfassung der Machbarkeitsstudie und unsere Stellungnahme finden sich <a href="/downloads.html">in unserem Download-Bereich</a></p>
