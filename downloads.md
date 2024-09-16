@@ -9,7 +9,7 @@ id: download
 
 - [![Flyer zur Fahrraddemo am 29.09.2024](/assets/img/fyler-fahrrad-demo.jpeg) _Flyer zur Fahrraddemo am 29.09.2024_](/assets/img/fyler-fahrrad-demo.jpeg){:target="\_blank"}
 
-- [![Zusammenfassung der Machbarkeitsstudie](/assets/img/2024_Zusammenfassung-Machbarkeitsstudie.png) _Zusammenfassung der Machbarkeitsstudie_](/assets/files/2024_Zusammenfassung-Machbarkeitsstudie.pdf){:target="\_blank"}
+- [![Zusammenfassung unserer Stellungnahme zur Machbarkeitsstudie](/assets/img/2024_Zusammenfassung-Machbarkeitsstudie.png) _Zusammenfassung der Machbarkeitsstudie_](/assets/files/2024_Zusammenfassung-Machbarkeitsstudie.pdf){:target="\_blank"}
 
 - [![Stellungnahme zur Machbarkeitsstudie der Autobahn GmbH](/assets/img/Stellungnahme-BI-BUND-AUA.png) _Stellungnahme zur Machbarkeitsstudie zum Ausbau der BAB A 5 vom 16.5.2022_](/assets/files/2024_BI-BUND-Machbarkeitsstudie.pdf){:target="\_blank"}
 
