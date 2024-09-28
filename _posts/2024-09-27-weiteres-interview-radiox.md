@@ -1,4 +1,5 @@
 ---
+category: homepage
 layout: post
 thumbnail: assets/radioX.png
 title: Interview im Radio X Umweltmagazin
