@@ -3,40 +3,19 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## 14. September 2024 Vorstellung unserer Analyse der Machbarkeitsstudie
+## Donnerstag, 08.10.2024 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
-Die Veranstaltung findet in der Evangelischen Pfingstkirche, Jägerallee 28, 65933 Griesheim statt und wird etwa von 15:30 bis 18 Uhr dauern.
+Das Treffen der Bürgerinitiative ist auch diesmal im 1. Stock des Evangelischen Gemeindehauses
+neben der Segenskirche in Griesheim, Alte Falterstraße 6
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.58537554740906%2C50.099268935120016%2C8.597477674484255%2C50.1053316929706&amp;layer=mapnik&amp;marker=50.102300409960975%2C8.591426610946655" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.102300&amp;mlon=8.591427#map=17/50.102300/8.591427">Größere Karte anzeigen</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.590943813323976%2C50.08483497046578%2C8.622658252716066%2C50.09773419934845&amp;layer=mapnik&amp;marker=50.0912850189243%2C8.60680103302002#map=16/50.0913/8.6068" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=50.0913&amp;mlon=8.6068#map=16/50.0913/8.6068">Größere Karte anzeigen</a></small>
 
-## 21. September 2024 Parking Day und nächstes Brückentreffen
+## Samstag, 19.10.2024 14:00 Brückentreffen
 
-Zwischen 10:00 － 17:00 ist der [Stand des ADFC in der Kurfürstenstr. 1-2 in Bockenheim](https://www.adfc-frankfurt.de/aktuelle-aktionen/) zu finden. Aber auch an anderen Stellen in der Stadt sind diverse Aktionen von Informationsständen bis zu Live-Musik zu finden, wo sonst nur Autos geparkt werden.
+Wie an jedem dritten Samstag im Monat gibt es auch diesen Monat wieder unser monatliches Brückentreffen, ein lockeres Zusammensein auf der A5-Europabrücke (Rad-/Fußweg) auf der Goldsteiner Seite.
 
-Wie an jedem dritten Samstag im Monat gibt es am gleichen Tag auch wieder unser monatliches Brückentreffen, ein lockeres Zusammentreffen auf der A5-Europabrücke (Rad-/Fußweg) auf der Goldsteiner Seite.
-
-Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachte genießen und Ideen zur Frage des Autobahnausbaus, der Verkehrswende und aller Fragen drumherum austauschen.
+Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachtes genießen und Ideen zur Frage des Autobahnausbaus, der Mobilitätswende und aller Fragen drumherum austauschen.
 
 Für alle nicht so Ortskundigen - das ist hier:
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.611232042312624%2C50.084449454487164%2C8.62333416938782%2C50.09089955482507&amp;layer=mapnik&amp;marker=50.08767915505196%2C8.61728310585022" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=50.08768&amp;mlon=8.61728#map=17/50.08767/8.61728">Größere Karte anzeigen</a></small>
-
-## 29. September 2024 Fahrrad-Demo auf der A5
-
-- Start: 14 Uhr ab Eiserner Steg am Mainkai
-- 15.10 Uhr: Zwischenkundgebung am Schwanheimer Ufer, an der Autobahn-Auffahrt Niederrad (Fahrtrichtung Norden)
-- ca. 15.30 Uhr: Auffahrt auf die A5 in Richtung Norden
-- ca. 16 Uhr: Abschlusskundgebung am Campus Bockenheim
-
-Weitere Infos finden sich auf <https://www.stoppa5ausbau.de/>
-
-## Donnerstag, 08.10.2024 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
-
-Der genaue Ort wird noch bekannt gegeben.
-
-<!-- Das Treffen der Bürgerinitiative ist diesmal im 1. Stock des Evangelischen Gemeindehauses
-neben der Segenskirche in Griesheim, Alte Falterstraße 6 -->
-
-<!-- <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.590943813323976%2C50.08483497046578%2C8.622658252716066%2C50.09773419934845&amp;layer=mapnik&amp;marker=50.0912850189243%2C8.60680103302002#map=16/50.0913/8.6068" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=50.0913&amp;mlon=8.6068#map=16/50.0913/8.6068">Größere Karte anzeigen</a></small>
-
-<div style="clear: both;"></div> -->
