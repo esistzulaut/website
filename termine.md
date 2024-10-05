@@ -3,7 +3,7 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 08.10.2024 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Dienstag, 08.10.2024 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 Das Treffen der Bürgerinitiative ist auch diesmal im 1. Stock des Evangelischen Gemeindehauses
 neben der Segenskirche in Griesheim, Alte Falterstraße 6
