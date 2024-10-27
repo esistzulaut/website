@@ -9,9 +9,13 @@
           <img src="{{ '/assets/img/Logo_BI_00.gif' }}" />
         </a>
 
-        <div>
-          <img src="/assets/img/IMG_4574.jpg" alt="Bürger:innen der Initiative bei der Ortsbegehung" />
-          <img src="/assets/img/IMG_4550.jpg" alt="Die Häuser direkt neben der Autobahn A5" />  
+        <div class="header-content">
+          <!-- Slideshow Container -->
+          <div class="slideshow-container" style="display: flex; gap: 10px;">
+            <img class="slideshow-image" src="/assets/img/IMG_4574.jpg" alt="Bürger:innen der Initiative bei der Ortsbegehung" style="display: block; flex: 1;" />
+            <img class="slideshow-image" src="/assets/img/IMG_4550.jpg" alt="Die Häuser direkt neben der Autobahn A5" style="display: block; flex: 1;" />
+          </div>
+          
           <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative" />
         </div>
       </header>
@@ -32,5 +36,34 @@
 
       {% include footer.html %}
     </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        const images = document.querySelectorAll(".slideshow-image");
+        const totalImages = images.length;
+
+        function showRandomImages() {
+          // Hide all images initially
+          images.forEach(image => {
+            image.style.display = "none";
+          });
+
+          // Select two random, distinct images
+          let firstIndex = Math.floor(Math.random() * totalImages);
+          let secondIndex;
+          do {
+            secondIndex = Math.floor(Math.random() * totalImages);
+          } while (secondIndex === firstIndex);
+
+          // Display the selected images side by side
+          images[firstIndex].style.display = "block";
+          images[secondIndex].style.display = "block";
+        }
+
+        // Set interval for slideshow
+        showRandomImages(); // Initial call to display images immediately
+        setInterval(showRandomImages, 3000);
+      });
+    </script>
   </body>
 </html>
