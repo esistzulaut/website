@@ -230,15 +230,33 @@ iframe {
   line-height: 0;
 }
 
-.mainpage header.top > div {
+.header-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 2fr 1fr;
   gap: 5px 5px;
   grid-template-areas:
-    "left-img right-img"
+    "slideshow slideshow"
     "subtitle subtitle";
   align-items: end;
+  position: relative;
+  overflow: auto;
+  height: 100%;
+}
+
+.slideshow-container {
+  grid-area: slideshow;
+  display: flex;
+  gap: 5px;
+  height: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.slideshow-container > div[data-src] {
+  min-width: 50%;
+  height: 100%;
+  background-size: cover;
 }
 
 header.top h1 {
@@ -254,6 +272,7 @@ h2 {
 
 .subtitle {
   grid-area: subtitle;
+  height: 100%;
 }
 nav {
   grid-area: menu;
