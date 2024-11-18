@@ -11,7 +11,14 @@
 
         <div class="header-content">
           <!-- Slideshow Container -->
-          <div class="slideshow-container" style="display: flex; gap: 10px; height: 300px; overflow: hidden;"></div>
+          <div class="slideshow-container">
+            {% assign slideshow_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/slideshow'" %}
+            {% for file in slideshow_files %}
+              {% if file.extname == ".jpg" or file.extname == ".jpeg" or file.extname == ".png" or file.extname == ".gif" %}
+                <div style="background-image: url('{{ file.path }}')" alt="{{ file.name }}"></div>
+              {% endif %}
+            {% endfor %}
+          </div>
           
           <!-- Static Banner -->
           <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative" />
@@ -38,47 +45,16 @@
     <script>
       document.addEventListener("DOMContentLoaded", async function() {
         const container = document.querySelector(".slideshow-container");
-        try {
-          const response = await fetch('/assets/img/slideshow');
-          if (!response.ok) throw new Error('Network response was not ok');
-          const text = await response.text();
-          const parser = new DOMParser();
-          const htmlDocument = parser.parseFromString(text, "text/html");
-          const links = Array.from(htmlDocument.querySelectorAll("a"));
-          const imageFiles = links
-            .map(link => link.getAttribute("href"))
-            .filter(href => href && (href.endsWith(".jpg") || href.endsWith(".jpeg") || href.endsWith(".png") || href.endsWith(".gif")));
-
-          imageFiles.forEach(file => {
-            const img = document.createElement("img");
-            img.src = `/assets/img/slideshow/${file}`;
-            img.alt = "Slideshow Image";
-            img.className = "slideshow-image";
-            img.style = "flex: 1; object-fit: contain; width: 100%; height: 100%;";
-            container.appendChild(img);
-          });
-
-          const images = container.querySelectorAll(".slideshow-image");
-          const totalImages = images.length;
-
-          if (totalImages > 1) {
-            let currentIndex = 0;
-
-            function showNextImage() {
-              images.forEach(img => img.style.display = "none");
-              const nextIndex1 = currentIndex % totalImages;
-              const nextIndex2 = (currentIndex + 1) % totalImages;
-              images[nextIndex1].style.display = "block";
-              images[nextIndex2].style.display = "block";
-              currentIndex = (currentIndex + 2) % totalImages;
+        if (container.childElementCount > 1) {
+          const width = container.offsetWidth / 2 + 5
+          let pos = 0
+          setInterval(() => {
+            pos = pos + width
+            if (pos + width > container.scrollWidth) {
+              pos = 0
             }
-
-            // Initially display two images
-            showNextImage();
-            setInterval(showNextImage, 3000);
-          }
-        } catch (error) {
-          console.error('There was a problem with the fetch operation:', error);
+            container.scrollTo(pos, 0)
+          }, 3000);
         }
       });
     </script>
