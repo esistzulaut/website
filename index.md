@@ -16,6 +16,11 @@ Häuser und Gärten haben teilweise weniger als 30 m Abstand zur Autobahn. Schla
 
 ---
 
+
+Unser Spendenkonto bei der Siedlergemeinschaft Goldstein: DE04 5019 0000 4202 1790 59, Bitte Stichwort „BI A5“ angeben!
+
+---
+
 <!-- <div class="posts" style="grid-template-columns: 1fr 1fr;">
   <img src="/assets/img/2023-11-25-Kaweh-Mansoori-2.png" alt="Kaweh Mansoori: &quot;Beschleunigter Ausbau der A5 gestoppt&quot;">
   <img src="/assets/img/2023-11-25-Kaweh-Mansoori.png" alt="Kaweh Mansoori: &quot;Die Pläne für den 10spurigen Ausbau der A5 sind völlig aus er Zeit gefallen&quot;">
