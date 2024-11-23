@@ -9,9 +9,18 @@
           <img src="{{ '/assets/img/Logo_BI_00.gif' }}" />
         </a>
 
-        <div>
-          <img src="/assets/img/IMG_4574.jpg" alt="Bürger:innen der Initiative bei der Ortsbegehung" />
-          <img src="/assets/img/IMG_4550.jpg" alt="Die Häuser direkt neben der Autobahn A5" />  
+        <div class="header-content">
+          <!-- Slideshow Container -->
+          <div class="slideshow-container">
+            {% assign slideshow_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/slideshow'" %}
+            {% for file in slideshow_files %}
+              {% if file.extname == ".jpg" or file.extname == ".jpeg" or file.extname == ".png" or file.extname == ".gif" %}
+                <div style="background-image: url('{{ file.path }}')" alt="{{ file.name }}"></div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          
+          <!-- Static Banner -->
           <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative" />
         </div>
       </header>
@@ -32,5 +41,22 @@
 
       {% include footer.html %}
     </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", async function() {
+        const container = document.querySelector(".slideshow-container");
+        if (container.childElementCount > 1) {
+          const width = container.offsetWidth / 2 + 5
+          let pos = 0
+          setInterval(() => {
+            pos = pos + width
+            if (pos + width > container.scrollWidth) {
+              pos = 0
+            }
+            container.scrollTo(pos, 0)
+          }, 3000);
+        }
+      });
+    </script>
   </body>
 </html>
