@@ -28,6 +28,8 @@
   <meta property="og:type" content="article" />  
   {% if page.thumbnail %}
     <meta property="og:image" content="{{ page.thumbnail | absolute_url }}" />
+    <meta property="og:image:alt" content="Titelbild für den Artikel '{{ page.title | escape }}'" />
   {% else %}
     <meta property="og:image" content="{{ "/assets/img/BI-Logo-mit-social-media-logos.jpeg" | absolute_url }}" />
+    <meta property="og:image:alt" content="Platzhalter-Bild für den Artikel '{{ page.title | escape }}'" />
   {% endif %}</head>
