@@ -25,7 +25,6 @@ Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachtes genieße
 
 ### Geplante Termine
 
-- 18.1.2025
 - 15.2.2025
 - 15.3.2025
 
