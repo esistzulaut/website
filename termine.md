@@ -3,7 +3,7 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Dienstag, 18.03.2025 19 Uhr Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Donnerstag, 10.04.2025 19 Uhr Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 Das Treffen der Bürgerinitiative findet statt im 1. Stock des Evangelischen Gemeindehauses neben der Segenskirche in Griesheim, Alte Falterstraße 6
 
@@ -15,8 +15,9 @@ An (fast) jedem dritten Samstag im Monat um 14:00 Uhr findet unser monatliches B
 
 Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachtes genießen und Ideen zur Frage des Autobahnausbaus, der Mobilitätswende und aller Fragen drumherum austauschen.
 
-### Geplante Termine
+<!--### Geplante Termine
 
 - 15.3.2025
+-->
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.611232042312624%2C50.084449454487164%2C8.62333416938782%2C50.09089955482507&amp;layer=mapnik&amp;marker=50.08767915505196%2C8.61728310585022" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=50.08768&amp;mlon=8.61728#map=17/50.08767/8.61728">Größere Karte anzeigen</a></small>
