@@ -2,7 +2,7 @@
 category: homepage
 layout: post
 thumbnail: assets/2025-04-09/aufruf-18-mai-2025.jpeg
-title: Aufruf zur Demonstration gegen den Ausbau der A5 am 18.05.2 11 - 15 Uhr
+title: Aufruf zur Demonstration gegen den Ausbau der A5 am 18.05.25 11 - 15 Uhr
 excerpt: Es gibt Details zur Demo am 18. Mai 2025 mit dem Motto "Musizieren statt Betonieren" - hier der detaillierte Ablauf
 ---
 ### Bündnis Stopp A5 Ausbau 
