@@ -7,7 +7,7 @@ excerpt: Es gibt Details zur Demo am 18. Mai 2025 mit dem Motto "Musizieren stat
 ---
 ### Bündnis Stopp A5 Ausbau 
 ### Kein Ausbau der Autobahn A5 auf 10 Spuren! 
-#### Demo auf der Europabrücke in Frankfurt am 18. Mai 2025, 11-15 Uhr
+#### Demo in Frankfurt am 18. Mai 2025, 11-15 Uhr, Start Konstablerwache
 
 **Wir fordern:**
 
