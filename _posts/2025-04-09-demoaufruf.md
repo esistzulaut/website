@@ -2,12 +2,12 @@
 category: homepage
 layout: post
 thumbnail: assets/2025-04-09/aufruf-18-mai-2025.jpeg
-title: Aufruf zur Demonstration gegen den Ausbau der A5 am 18.05.25 11 - 15 Uhr
+title: Aufruf zur Kundgebung gegen den Ausbau der A5 am 18.05.25 12:30 Uhr
 excerpt: Es gibt Details zur Demo am 18. Mai 2025 mit dem Motto "Musizieren statt Betonieren" - hier der detaillierte Ablauf
 ---
 ### Bündnis Stopp A5 Ausbau 
 ### Kein Ausbau der Autobahn A5 auf 10 Spuren! 
-#### Demo in Frankfurt am 18. Mai 2025, 11-15 Uhr, Start Konstablerwache
+#### Kundgebung in Frankfurt am 18. Mai 2025 ab 12:30 Uhr, Start Konstablerwache
 
 **Wir fordern:**
 
@@ -20,20 +20,7 @@ excerpt: Es gibt Details zur Demo am 18. Mai 2025 mit dem Motto "Musizieren stat
 
 #### Ablauf
 
-11:00 Uhr - Sammeln und Start der Demos an zwei Orten
-
--	S-Bahnhof Griesheim 
--	S-Bahnhof Niederrad
-
-Demonstrationszüge aus beiden Richtungen zum Ort des „Markierungssteins 1. Spatenstich Reichsautobahn Frankfurt-Darmstadt von 1933“ (siehe unten), Südseite Europabrücke: https://osm.org/go/0D0NUhHs--?layers=TN&m=
-
-11:50 Uhr - Auftaktkundgebung
-
-Anschließend Demonstrationszug auf die A5 über die Auffahrt Niederrad
-
-Kundgebung auf der Europabrücke: Redebeiträge, Musik und Kultur 
-
-14:30 Uhr - Rückweg auf der A5 über die Abfahrt Westhafen nach Griesheim 
+ab 12:30 Uhr Kundgebung & Musik an der Konstablerwache
 
 **MUSIZIEREN STATT BETONIEREN!!**
 
