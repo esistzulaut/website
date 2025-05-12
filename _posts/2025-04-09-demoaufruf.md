@@ -1,7 +1,7 @@
 ---
 category: homepage
 layout: post
-thumbnail: assets/2025-04-09/aufruf-18-mai-2025.jpeg
+thumbnail: assets/img/BI_Liegestuhl.jpg
 title: Aufruf zur Kundgebung gegen den Ausbau der A5 am 18.05.25 12:30 Uhr
 excerpt: Es gibt Details zur Demo am 18. Mai 2025 mit dem Motto "Musizieren statt Betonieren" - hier der detaillierte Ablauf
 ---
