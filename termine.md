@@ -3,10 +3,6 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Demo am 18.05.2025 12:30 an der Konstablerwache in Frankfurt
-
-![Aufruf zur Demo an der Konstablerwache](assets/Stopp_A5-Ausbau_Demo-18May2025_NEU.jpg)
-
 ## Donnerstag, 12.6.2025, 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 Restaurant Mainglück im Ruderclub Griesheim
