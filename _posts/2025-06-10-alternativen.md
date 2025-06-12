@@ -3,7 +3,7 @@ category: homepage
 layout: post
 thumbnail: assets/2025-06-10/Alternativen.jpg
 title: Alternativen zum Autobahnausbau
-excerpt: Der Ausbau der A5 ist nicht alternativlos: so kommen Pendler künftig besser und sicherer in die Stadt
+excerpt: Der Ausbau der A5 ist nicht alternativlos - so kommen Pendler künftig besser und sicherer in die Stadt
 ---
 
 ![Dokument zu Alterantiven zum Autobahnausbau](/assets/2025-07-10/Alternativen.jpg){:class="left small"}
