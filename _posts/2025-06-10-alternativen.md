@@ -6,7 +6,7 @@ title: Alternativen zum Autobahnausbau
 excerpt: Der Ausbau der A5 ist nicht alternativlos - so kommen Pendler künftig besser und sicherer in die Stadt
 ---
 
-![Dokument zu Alterantiven zum Autobahnausbau](/assets/2025-07-10/Alternativen.jpg){:class="left small"}
+![Dokument zu Alterantiven zum Autobahnausbau](/assets/2025-06-10/Alternativen.jpg){:class="left small"}
 
 Das [Bündnis von über 60 Organisationen](https://stoppa5ausbau.de), die sich gegen den Ausbau der A5 aussprechen, belässt es nicht bei seiner Kritik, sondern legt mit konstruktiven Vorschlägen nach.
 Denn der Autobahnausbau bringt nicht weniger Stau, es staut sich nur auf mehr Spuren.
