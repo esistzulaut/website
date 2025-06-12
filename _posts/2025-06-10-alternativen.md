@@ -17,3 +17,5 @@ Unter Mitwirkung der BI "Es ist zu laut!" und vieler Sachkundiger ist ein Dokume
 Denn jeder und jede, die statt des Autos auf anderen Wegen pendeln, machen Raum für diejenigen, die auf das Auto angewiesen sind.
 
 Sowohl [das vollständige Dokument](https://ifey2z.justso.de) mit fast 40 Seiten als auch [die fünfseitige Kurzfassung](https://srvkxw.justso.de) stehen ab sofort zum Download und Nachlesen bereit.
+
+Vorgestellt werden die Alternativen auch bei einer [Veranstaltung am 4. Juli 2025 um 20:00 im Frankfurter Haus am Dom](https://hausamdom-frankfurt.de/programm/stopp-a-5-ausbau-zeit-fuer-alternativen).
