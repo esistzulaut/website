@@ -3,11 +3,11 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 26.6.2025, 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Donnerstag, 30.7.2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
-Der Ort wird noch bekannt gegeben.
-<!--
-Restaurant Mainglück im Ruderclub Griesheim
+Der genaue Ort wird noch bekannt gegeben.
+
+<!-- Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.6063289642334%2C50.08747842507769%2C8.618216514587404%2C50.0937904599946&amp;layer=mapnik&amp;marker=50.090634546458325%2C8.6122727394104" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.090635&amp;mlon=8.612273#map=17/50.090635/8.612273">Größere Karte anzeigen</a></small>
 -->
@@ -37,9 +37,9 @@ An (fast) jedem dritten Samstag im Monat um 14:00 Uhr findet unser monatliches B
 
 Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachtes genießen und Ideen zur Frage des Autobahnausbaus, der Mobilitätswende und aller Fragen drumherum austauschen.
 
-<!--### Geplante Termine
+### Geplante Termine
 
-- 15.3.2025
--->
+- 19.7.2025
+
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=8.611232042312624%2C50.084449454487164%2C8.62333416938782%2C50.09089955482507&amp;layer=mapnik&amp;marker=50.08767915505196%2C8.61728310585022" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=50.08768&amp;mlon=8.61728#map=17/50.08767/8.61728">Größere Karte anzeigen</a></small>

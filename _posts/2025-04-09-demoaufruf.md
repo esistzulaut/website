@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/img/BI_Liegestuhl.JPG
 title: Aufruf zur Kundgebung gegen den Ausbau der A5 am 18.05.25 12:30 Uhr

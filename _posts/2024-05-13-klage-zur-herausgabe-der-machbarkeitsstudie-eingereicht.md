@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: assets/2024-05-13/klageschrift-ist-unterschrieben.jpeg
 title: Klage zur Herausgabe der Machbarkeitsstudie ist eingereicht

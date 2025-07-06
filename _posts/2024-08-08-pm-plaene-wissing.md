@@ -1,5 +1,4 @@
 ---
-category: homepage
 layout: post
 thumbnail: /assets/2024-04-07/MKr32663_Volker_Wissing.jpg
 title: PM zu den Plänen von Verkehrsminister Wissing
