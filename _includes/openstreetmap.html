@@ -1,0 +1,17 @@
+{% comment %}
+OpenStreetMap Include für Jekyll
+Parameter:
+- lat: Breitengrad (erforderlich)
+- lon: Längengrad (erforderlich)
+- zoom: Zoom-Level (optional, Standard: 17)
+- width: Breite des iframes (optional, Standard: 425)
+- height: Höhe des iframes (optional, Standard: 350)
+- address: Adresse für den Link-Text (optional)
+{% endcomment %}
+
+{% assign zoom = include.zoom | default: 17 %}
+{% assign width = include.width | default: 425 %}
+{% assign height = include.height | default: 350 %}
+
+<iframe width="{{ width }}" height="{{ height }}" src="https://www.openstreetmap.org/export/embed.html?bbox={{ include.lon | minus: 0.006 }}%2C{{ include.lat | minus: 0.003 }}%2C{{ include.lon | plus: 0.006 }}%2C{{ include.lat | plus: 0.003 }}&amp;layer=mapnik&amp;marker={{ include.lat }}%2C{{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}" style="border: 1px solid black"></iframe>
+<br><small><a href="https://www.openstreetmap.org/?mlat={{ include.lat }}&amp;mlon={{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}">Größere Karte anzeigen{% if include.address %}: {{ include.address }}{% endif %}</a></small>
