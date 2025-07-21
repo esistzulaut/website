@@ -23,8 +23,14 @@ An (fast) jedem dritten Samstag im Monat um 14:00 Uhr findet unser monatliches B
 
 Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachtes genießen und Ideen zur Frage des Autobahnausbaus, der Mobilitätswende und aller Fragen drumherum austauschen.
 
+<!--
 ### Geplante Termine
 
 - 19.7.2025
+-->
 
 {% include openstreetmap.html lat=50.08768 lon=8.61728 address="A5-Europabrücke (Rad-/Fußweg), Goldsteiner Seite" %}
+
+## Samstag, 30. August 2025 ab 12:00, 34. Griesheimer Mainuferfest
+
+Siehe auch [Unser Blog-Beitrag](http://0.0.0.0:4000/homepage/2025/07/06/ank%C3%BCndigung-mainuferfest.html)
