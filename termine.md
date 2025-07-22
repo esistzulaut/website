@@ -3,7 +3,7 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 30.7.2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Mittwoch, 30.7.2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 Der genaue Ort wird noch bekannt gegeben.
 
