@@ -1,7 +1,7 @@
 ---
 category: homepage
 layout: post
-thumbnail: assets/2025-08-16/hr-sommerinterview.png
+thumbnail: assets/2025-08-16/HR-Sommerinterview.png
 title: HR Sommerinterview
 excerpt: Die Fraktionsvorsitzende der FDP, Wiebke Knell, kann sich ein begrenztes Tempolimit auf der A5 vorstellen.
 ---
@@ -13,4 +13,4 @@ Als Befürworterin des Ausbaus kann sie sich vorstellen, sich für ein begrenzte
 
 Wir werden weitere Gespräche mit ihr vor Ort führen, damit sie sich ein Bild von der aktuellen Lage machen kann.
 
-<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/482029/eb616f16-dd96-41a7-9595-fc8e0452e67e?autoplay=true&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/482029/eb616f16-dd96-41a7-9595-fc8e0452e67e?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
