@@ -3,7 +3,7 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 4. September 2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Donnerstag, 16. Oktober 2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 <!--Der genaue Ort wird noch bekannt gegeben.-->
 
@@ -27,9 +27,3 @@ Zum kennenlernen, miteinander reden, Kaffee und sonstiges Mitgebrachtes genieße
 
 - 19.7.2025
 -->
-
-{% include openstreetmap.html lat=50.08768 lon=8.61728 address="A5-Europabrücke (Rad-/Fußweg), Goldsteiner Seite" %}
-
-## Samstag, 30. August 2025 ab 12:00, 34. Griesheimer Mainuferfest
-
-Siehe auch [Unser Blog-Beitrag](http://0.0.0.0:4000/homepage/2025/07/06/ank%C3%BCndigung-mainuferfest.html)
