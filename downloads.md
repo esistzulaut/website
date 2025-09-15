@@ -13,9 +13,9 @@ id: download
 
 - [![Forderungen des Aktionsbündnisses gegen den A5-Ausbau](/assets/img/2024_Forderungen-Bündnis-screen.png) _Forderungen des Aktionsbündnisses gegen den A5-Ausbau_](/assets/files/2024_Forderungen-Bündnis.pdf){:target="\_blank"}
 
-- [![Zusammenfassung unserer Stellungnahme zur Machbarkeitsstudie](/assets/img/2024_Zusammenfassung-Machbarkeitsstudie.png) _Zusammenfassung unserer Stellungnahme zur Machbarkeitsstudie_](/assets/files/2024_Zusammenfassung-Machbarkeitsstudie.pdf){:target="\_blank"}
+- [![Zusammenfassung unserer Stellungnahme zur Machbarkeitsstudie](/assets/img/2024_Zusammenfassung-Machbarkeitsstudie.png) _Zusammenfassung unserer Stellungnahme zur Machbarkeitsstudie_](https://go.justso.de/R484nz){:target="\_blank"}
 
-- [![Stellungnahme zur Machbarkeitsstudie der Autobahn GmbH](/assets/img/Stellungnahme-BI-BUND-AUA.png) _Stellungnahme zur Machbarkeitsstudie zum Ausbau der BAB A 5 vom 16.5.2022_](/assets/files/2024_BI-BUND-Machbarkeitsstudie.pdf){:target="\_blank"}
+- [![Stellungnahme zur Machbarkeitsstudie der Autobahn GmbH](/assets/img/Stellungnahme-BI-BUND-AUA.png) _Stellungnahme zur Machbarkeitsstudie zum Ausbau der BAB A 5 vom 16.5.2022_](https://go.justso.de/TE2XMA){:target="\_blank"}
 
 - [![Logo der BI-ES IST ZU LAUT](/assets/img/Logo_BI_00.gif) _BI-Logo, 300 dpi Druckqualität (Klick aufs Bild!)_](/assets/img/Logo_BI_300dpi.jpg){:target="\_blank"}
 
