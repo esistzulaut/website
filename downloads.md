@@ -7,6 +7,10 @@ id: download
 
 ## Hier findest Du aktuelle Flyer der BI als PDF und das Logo zum Kopieren und selbst Ausdrucken.
 
+- [![Flyer zur Filmreihe](/assets/img/Autobahn-Filme.jpeg) _Flyer zur Filmreihe rund um die Autobahn im Frankfurter Westen_](/assets/files/2025_Flyer-Film.pdf){:target="\_blank"}
+
+- [![Aktionszeitung](/assets/img/2025_Aktionszeitung.jpg) _Aktionszeitung_](/assets/files/2025_Aktionszeitung.pdf){:target="\_blank"}
+
 - [![Flyer zur Demo am 08.02.2025](/assets/img/BI_Flyer_01_2025_screen.png) _Flyer zur Demo am 08.02.2025_](/assets/img/BI_Flyer_01_2025_screen.pdf){:target="\_blank"}
 
 - [![Flyer zur Fahrraddemo am 29.09.2024](/assets/img/fyler-fahrrad-demo.jpeg) _Flyer zur Fahrraddemo am 29.09.2024_](/assets/img/fyler-fahrrad-demo.jpeg){:target="\_blank"}
