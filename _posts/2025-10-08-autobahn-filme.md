@@ -2,7 +2,7 @@
 category: homepage
 layout: post
 thumbnail: assets/2025-10-08/Autobahn-Filme.png
-title: Filmreihe: Autobahn im Frankfurter Westen
+title: Filmreihe "Autobahn im Frankfurter Westen"
 excerpt: Unsere Filmreihe im Herbst und Winter zeigt interessante Aspekte zur Autobahn, ihrer Geschichte, aber auch, wie es weitergehen sollte.
 ---
 
