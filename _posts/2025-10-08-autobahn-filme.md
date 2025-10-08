@@ -54,10 +54,10 @@ Unsere Stellungnahme zur Machbarkeitsstudie, die Alternativvorschläge und noch 
 mehr Infos zu unserer Arbeit und zum geplanten Ausbau der AS finden Sie hier: 
 <https//www.esistzulaut.org>
 
-> Spendenkonto der BI „Es ist zu laut" bei der Siedlergemeinschaft Goldstein:
-> 
-> DE04 5019 0000 4202 1790 59
-> 
-> **Bitte Stichwort „BI A5" angeben. Danke :-)** 
+> Spendenkonto der BI „Es ist zu laut" bei der Siedlergemeinschaft Goldstein:\
+  \
+  DE04 5019 0000 4202 1790 59\
+  \
+  **Bitte Stichwort „BI A5" angeben. Danke :-)** 
 
 V.i.S.d.P.: Hans Christoph Stoodt 
