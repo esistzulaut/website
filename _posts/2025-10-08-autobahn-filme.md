@@ -35,7 +35,6 @@ ob und wie wir uns gegen einen Ausbau wehren können.
 - **Reichsautobahn**
   Donnerstag, 30. Oktober 2025 19 Uhr St. Hedwig, Elsterstraße 16, Griesheim-Nord
   Wer hat die Autobahn gebaut und warum ist sie „heilig"?
-  Mit Sascha Mahl (Experte für Griesheimer Geschichte)
 
 - **Verkehrswendestadt Wolfsburg**
   Donnerstag, 27. November 2025 19 Uhr, Segenskirche, Alte Falterstraße 6, Griesheim-Süd
