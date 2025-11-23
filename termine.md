@@ -3,7 +3,12 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 16. Oktober 2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Donnerstag, 27. November, 19:00 Uhr zweiter Filmabend
+An diesem Tag findet im Foyer zwischen Segenskirche Griesheim (Alte Falter - Straße 6) und dem Gemeindehaus der zweite Abend unserer Filmreihe statt, die wir in diesem Herbst anbieten.
+
+Wir zeigen den Film "VW - Verkehrswendestadt Wolfsburg", in dem Aktive aus Verkehrswende- und Klimaschutzbewegung gemeinsam mit Kolleginnen und Kollegen des VW-Konzerns Alternativen zum Bau von Autos und einem Mobilitätskonzept mit weniger Autos diskutiert haben. Einer von ihnen, Stephan Krull, wird anwesend sein.
+
+## Donnerstag, 11. Dezember 2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 <!--Der genaue Ort wird noch bekannt gegeben.-->
 
