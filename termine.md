@@ -3,16 +3,11 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 27. November, 19:00 Uhr zweiter Filmabend
-An diesem Tag findet im Foyer zwischen Segenskirche Griesheim (Alte Falter - Straße 6) und dem Gemeindehaus der zweite Abend unserer Filmreihe statt, die wir in diesem Herbst anbieten.
-
-Wir zeigen den Film "VW - Verkehrswendestadt Wolfsburg", in dem Aktive aus Verkehrswende- und Klimaschutzbewegung gemeinsam mit Kolleginnen und Kollegen des VW-Konzerns Alternativen zum Bau von Autos und einem Mobilitätskonzept mit weniger Autos diskutiert haben. Einer von ihnen, Stephan Krull, wird anwesend sein.
-
-## Donnerstag, 11. Dezember 2025 19:00 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+## Donnerstag, 11. Dezember 2025 19:30 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
 <!--Der genaue Ort wird noch bekannt gegeben.-->
 
-Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim
+Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim.
 
 {% include openstreetmap.html lat=50.090635 lon=8.612273 address="Restaurant Mainglück im Ruderclub Griesheim" %}
 
@@ -20,6 +15,19 @@ Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruder
 
 {% include openstreetmap.html lat=50.0913 lon=8.6068 zoom=16 address="Evangelisches Gemeindehaus, Alte Falterstraße 6, Griesheim" %}
 -->
+
+## Donnerstag, 29.1.2026, 19:00, Ev. Schöpfungsgemeinde, Am Goldsteinpark I a, Goldstein, 3. Filmabend
+
+Unter dem Titel "System Change" zeigen wir den 3. Film unserer Reihe "Autobahn im Frankfurter Westen".
+
+Die Menschheit verbraucht ihre natürlichen Ressourcen jährlich in sechs Monaten.
+Im Rest des Jahres steigt das ökologische Defizit.
+Wie weiter?
+
+Mit Helmut Weick (Klima-Aktivist und Autobahnkritiker)
+
+{% include openstreetmap.html lat=50.08329 lon=8.60942 address="Ev. Schöpfungsgemeinde, Am Goldsteinpark I a, Goldstein" %}
+
 
 ## Nächste Brückentreffen
 
