@@ -1,12 +1,12 @@
 ---
 category: homepage
 layout: post
-thumbnail: assets/2026-01-19/SystemChange_A_Story_Of_Growing_Resistance.png
+thumbnail: assets/2026-01-19/SystemChange_A_Story_Of_Growing_Resistance_small.png
 title: Film „System Change, not Climate Change!“
 excerpt: Filmabend mit der Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ gegen den geplanten zehnspurigen Ausbau der Autobahn A5 durch den Frankfurter Westen
 ---
 
-![Titel des Films](assets/2026-01-19/SystemChange_A_Story_Of_Growing_Resistance.png)
+![Titel des Films „System Change, not Climate Change!“](/assets/2026-01-19/SystemChange_A_Story_Of_Growing_Resistance.png)
 
 am 29. 1. 2026, 19:00 Uhr, Evangelische Schöpfungsgemeinde
 Am Goldsteinpark 1a, 60528 Frankfurt-Goldstein <Schoepfungsgemeinde.frankfurt@ekhn.de>
