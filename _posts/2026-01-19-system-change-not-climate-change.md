@@ -1,7 +1,7 @@
 ---
 category: homepage
 layout: post
-thumbnail: assets/2026-01-19/SystemChange_A_Story_Of_Growing_Resistance_small.png
+thumbnail: assets/2026-01-19/SystemChange_A_Story_Of_Growing_Resistance_small.jpg
 title: Film „System Change, not Climate Change!“
 excerpt: Filmabend mit der Bürgerinnen- und Bürger-Initiative „Es ist zu laut“ gegen den geplanten zehnspurigen Ausbau der Autobahn A5 durch den Frankfurter Westen
 ---
