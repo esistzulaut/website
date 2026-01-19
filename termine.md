@@ -3,13 +3,14 @@ title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
 
-## Donnerstag, 11. Dezember 2025 19:30 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+<!--## Donnerstag, 11. Dezember 2025 19:30 Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"-->
 
 <!--Der genaue Ort wird noch bekannt gegeben.-->
 
-Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim.
+<!--Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim.
 
 {% include openstreetmap.html lat=50.090635 lon=8.612273 address="Restaurant Mainglück im Ruderclub Griesheim" %}
+-->
 
 <!--Das Treffen der Bürgerinitiative findet statt im 1. Stock des Evangelischen Gemeindehauses neben der Segenskirche in Griesheim, Alte Falterstraße 6
 
