@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "Linke Frankfurt - Wahlprüfsteine"
 ---
 
 ## Linke Frankfurt

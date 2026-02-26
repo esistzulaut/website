@@ -1,5 +1,8 @@
 ---
+layout: default
+title: "Grüne Frankfurt - Wahlprüfsteine"
 ---
+
 ## Grüne Frankfurt
 
 **Betrachten Sie den Ausbau der A5 als Problem oder halten Sie den Ausbau für notwendig?**
@@ -8,8 +11,8 @@
 
 **Wie bewerten Sie die Auswirkungen des A5-Ausbaus (mehr Lärm, Abgase, Hitze), wenn durch den Ausbau, wie in der Machbarkeitsstudie berechnet, noch 15% mehr Kraftverkehr die Autobahn nutzen wird und der Großteil des Kraftverkehrs auf dem Frankfurter Abschnitt der A5 regionaler Verkehr ist? Halten Sie diese Zahlen für realistisch? Was werden Sie als Partei tun, um in Frankfurt Verhältnisse wie in Berlin an der A100 zu verhindern?**
 
-> Straßenausbau erzeugt neuen Verkehr, das war bisher immer so. Damit entstehen mehr Lärm, mehr Abgase, der zusätzliche Asphalt erzeugt auch mehr Hitze. Für Frankfurt ist es besonders problematisch, dass zusätzlicher Autoverkehr auch in der Stadt die Folge ist. Frankfurt ist eine wachsende Stadt von der Zahl der Einwohner*innen und von der Zahl der Arbeitsplätze her. Die Straßen wachsen aber nicht mit. Zusätzlicher Autoverkehr kann nicht aufgenommen werden und würde zum Verkehrschaos führen. Wir halten den prognostizierten Anteil an regionalem Verkehr für realistisch.
->
+> Straßenausbau erzeugt neuen Verkehr, das war bisher immer so. Damit entstehen mehr Lärm, mehr Abgase, der zusätzliche Asphalt erzeugt auch mehr Hitze. Für Frankfurt ist es besonders problematisch, dass zusätzlicher Autoverkehr auch in der Stadt die Folge ist. Frankfurt ist eine wachsende Stadt von der Zahl der Einwohner\*innen und von der Zahl der Arbeitsplätze her. Die Straßen wachsen aber nicht mit. Zusätzlicher Autoverkehr kann nicht aufgenommen werden und würde zum Verkehrschaos führen. Wir halten den prognostizierten Anteil an regionalem Verkehr für realistisch.
+
 > Die städtebaulichen Folgen und die Auswirkungen auf die Menschen, die in den betroffenen Stadtteilen leben, wo die Trasse der A5 nochmals verbreitert würde und auch Wohnbebauung weichen müsste, lehnen wir ab und sind solidarisch mit den Menschen in den betroffenen Gebieten. Die Stadt Frankfurt muss im Rahmen ihrer Möglichkeiten durch Stellungnahmen, Verhandlungen, Gespräche alles dafür tun, damit der Bund von diesen Plänen abrückt. Dafür werden wir uns weiter einsetzen.
 
 **Wie stehen Sie zu einem beschleunigten Ausbau der Main-Weser-Bahn als eine der Alternativmaßnahmen zum A5-Ausbau?**

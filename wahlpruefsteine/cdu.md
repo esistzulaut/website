@@ -1,14 +1,15 @@
 ---
+layout: default
+title: "CDU Frankfurt - Wahlprüfsteine"
 ---
+
 ## CDU Frankfurt
 
 **Betrachten Sie den Ausbau der A5 als Problem oder halten Sie den Ausbau für notwendig?**
 
-
 > Wir befürworten den Ausbau der A 5. Als Wirtschaftsmotor der Region muss Frankfurt gut erreichbar sein, auch über die Autobahnen. Der Ausbau der A5 ist für uns kein Selbstzweck. Wir sehen zugleich, dass die A5 als zentrale Lebensader der Region bereits heute regelmäßig überlastet ist. Die Folgen sind Stau und Ausweichverkehr durch Wohngebiete mit hoher Belastung für Anwohner. Bei einem Ausbau wollen wir gleichzeitig: konsequenten Lärmschutz, eine moderne Verkehrssteuerung sowie eine deutliche Stärkung der Alternativen (Schiene/ÖPNV/P+R) erreichen.
 
 **Wie bewerten Sie die Auswirkungen des A5-Ausbaus (mehr Lärm, Abgase, Hitze), wenn durch den Ausbau, wie in der Machbarkeitsstudie berechnet, noch 15% mehr Kraftverkehr die Autobahn nutzen wird und der Großteil des Kraftverkehrs auf dem Frankfurter Abschnitt der A5 regionaler Verkehr ist? Halten Sie diese Zahlen für realistisch? Was werden Sie als Partei tun, um in Frankfurt Verhältnisse wie in Berlin an der A100 zu verhindern?**
-
 
 > Auch ohne Ausbau sagen die Prognosen einen Anstieg der Verkehrsmenge voraus. Wir halten es aber für sinnvoll, die Prognosen mit aktuellen Daten (Pendlerströme, Güterverkehr, Verlagerungspotenziale) zu plausibilisieren und transparent offenzulegen. Für Frankfurt muss gelten: kein „A100-Effekt“ mit dauerhaft überhöhter Belastung – sondern ein Paket aus Verkehrsmanagement (z. B. intelligente Zuflusssteuerung, Baustellenmanagement), konsequentem Lärmschutz, mehr ÖPNV-Angebot und einer realen Verlagerungsstrategie, damit der Ausbau nicht zu „mehr Verkehr um jeden Preis“ führt.
 

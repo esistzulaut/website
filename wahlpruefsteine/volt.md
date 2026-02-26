@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "Volt Frankfurt - Wahlprüfsteine"
 ---
 
 ## Volt Frankfurt
