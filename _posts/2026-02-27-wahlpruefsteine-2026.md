@@ -10,8 +10,8 @@ Das Bündnis Stopp A5-Ausbau hat anlässlich der Kommunalwahl am 15.3.2026 die F
 
 Wir dokumentieren hier die Fragen und Antworten:
 
-- [CDU Frankfurt](/wahlpruefsteine/cdu.md)
-- [Grüne Frankfurt](/wahlpruefsteine/gruene.md)
-- [Volt Frankfurt](/wahlpruefsteine/volt.md)
-- [FDP Frankfurt](/wahlpruefsteine/fdp.md)
-- [Linke Frankfurt](/wahlpruefsteine/linke.md)
+- [CDU Frankfurt](/wahlpruefsteine/cdu.html)
+- [Grüne Frankfurt](/wahlpruefsteine/gruene.html)
+- [Volt Frankfurt](/wahlpruefsteine/volt.html)
+- [FDP Frankfurt](/wahlpruefsteine/fdp.html)
+- [Linke Frankfurt](/wahlpruefsteine/linke.html)
