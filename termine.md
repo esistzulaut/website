@@ -5,7 +5,7 @@ layout: default
 
 ## Dienstag, 10. Februar 2025 19 Uhr Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
 
-Der genaue Ort wird noch bekannt gegeben.
+Dieses Treffen findet online statt. Wer teilnehmen möchte, kann sich unter [es.ist.zu.laut@gmx.de](mailto:es.ist.zu.laut@gmx.de) anmelden.
 
 <!--Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim.
 
