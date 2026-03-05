@@ -15,4 +15,4 @@ Wir dokumentieren hier die Fragen und Antworten:
 - [Volt Frankfurt](/wahlpruefsteine/volt.html)
 - [FDP Frankfurt](/wahlpruefsteine/fdp.html)
 - [Linke Frankfurt](/wahlpruefsteine/linke.html)
-- SPD Frankfurt - Leider keine Antwort
+- [SPD Frankfurt](/wahlpruefsteine/spd.html)
