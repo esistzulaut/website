@@ -2,15 +2,20 @@
 title: Termine der Bürgerinitiative ES IST ZU LAUT
 layout: default
 ---
+## 28.4. um 17 Uhr: AG-Treffen online
 
-## Dienstag, 10. Februar 2025 19 Uhr Reguläres Treffen der Bürgerinitiative "Es ist zu laut!"
+Bitte [mailto:hcstoodt@gmx.de](meldet euch bei Hans Christoph). Dann bekommt ihr den Link
 
-Dieses Treffen findet online statt. Wer teilnehmen möchte, kann sich unter [es.ist.zu.laut@gmx.de](mailto:es.ist.zu.laut@gmx.de) anmelden.
+## 30.4. um 19 Uhr BI Treffen der Bürgerinitiative "Es ist zu laut!"
 
-<!--Das Treffen der Bürgerinitiative findet statt im Restaurant Mainglück im Ruderclub Griesheim.
+Das Treffen findet statt im Restaurant Mainglück im Ruderclub Griesheim (Nebenraum).
 
 {% include openstreetmap.html lat=50.090635 lon=8.612273 address="Restaurant Mainglück im Ruderclub Griesheim" %}
--->
+
+## 10.5. Aktionstag „Stopp A5 Ausbau“:
+  14 bis 16 h Raddemo ab Operplatz (über die Autobahnen A648 und A66)
+  16 h Kundgebung und Musik am Opernplatz, Podiumsdiskussion mit Katja Diehl und Prof. Dr. Martin Lanzendorf
+
 
 <!--Das Treffen der Bürgerinitiative findet statt im 1. Stock des Evangelischen Gemeindehauses neben der Segenskirche in Griesheim, Alte Falterstraße 6
 
