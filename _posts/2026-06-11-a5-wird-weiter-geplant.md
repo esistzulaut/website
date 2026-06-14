@@ -30,8 +30,8 @@ Ausdrücklich wird die sogenannte Machbarkeitsstudie „C38 FFM. BAB A 5 10-stre
 
 Die Veröffentlichung der Machbarkeitsstudie hatte die BI „Es ist zu laut“ im April 2024 durch Drohung mit einer Klage nach dem Umweltinformationsfreiheitsgesetz erreicht und im September 2024 eine ausführliche Stellungnahme dazu vorgestellt
 
-- Stellungnahme hier: https://go.justso.de/TE2XMA
-- Kurzversion hier: https://go.justso.de/R484nz
+- Stellungnahme hier: <https://go.justso.de/TE2XMA>
+- Kurzversion hier: <https://go.justso.de/R484nz>
 
 #### Was tun?
 
