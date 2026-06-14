@@ -9,6 +9,10 @@ layout: default
 - Sa, 20.6. ab 14:00 und
 - So, 21.6. ab 13:00 Goldsteinpark (Fest zu 60 Jahren Vereinsring Goldstein), Zelt der Siedlergemeinschaft Goldstein
 - Di, 23.6. ab 17:00 Uhr: Spaziergang und Infos ab Supermarkt REWE (Alte Falter-Straße) zur A5 (Griesheim-Süd)
+- So., 17.07. 11-16 Uhr Siedlerfest der SGG, Heimathaus, Goldsteinstraße 300
+- So., 26.07. 14-17 Uhr, Morgenzeile 1/Ecke Frankenfurt
+- Sa., 15.08. 10-14 Uhr, Boseweg 7
+- Sa., 29.07. 10-14 Uhr, Am Wiesenhof 9
 
 <!--## 28.4. um 17 Uhr: AG-Treffen online
 
