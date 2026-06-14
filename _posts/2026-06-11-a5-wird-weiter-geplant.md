@@ -1,8 +1,8 @@
 ---
 category: homepage
 layout: post
-thumbnail: assets/2026-06-11/Infokampagne.jpg
-title: Es geht weiter: Planungsunterlagen vorgelegt
+thumbnail: assets/2026-06-11/Infokampagne.jpeg
+title: "Es geht weiter: Planungsunterlagen vorgelegt"
 excerpt: "Die Planungsunterlagen für die Erweiterung der Autobahn A5 im Bereich des Westkreuz wurden vorgelegt – ausdrücklich im Zusammenhang mit dem zehnspurigen Ausbau der A5"
 ---
 
