@@ -23,7 +23,7 @@ Bitte [mailto:hcstoodt@gmx.de](meldet euch bei Hans Christoph). Dann bekommt ihr
 
 Das Treffen findet statt im Bürgerhaus Goldstein, Goldsteinstraße 314.
 
-{% include openstreetmap.html lat=50.08384 lon=8.60869 zoom=15 address="Bürgerhaus Goldstein, Goldsteinstraße 314" %}
+{% include openstreetmap.html lat=50.082193 lon=8.609676 zoom=15 address="Bürgerhaus Goldstein, Goldsteinstraße 314" %}
 
 <!--Das Treffen findet statt im Restaurant Mainglück im Ruderclub Griesheim (Nebenraum).
 
