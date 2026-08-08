@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="de">
   {% include html-head.html %}
-
+  
   <body class="mainpage">
     <div class="page-wrapper">
       <header class="top">
         <a href="{{ '/' | absolute_url }}">
-          <img src="{{ '/assets/img/Logo_BI_00.gif' }}" />
+          <img src="{{ '/assets/img/Logo_BI_00.gif' }}" title="Logo der Bürgerinitiative">
         </a>
 
         <div class="header-content">
@@ -21,7 +21,7 @@
           </div>
           
           <!-- Static Banner -->
-          <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative" />
+          <img src="/assets/img/TextLogo.gif" class="subtitle" alt="Schriftzug der Bürgerinitiative">
         </div>
       </header>
 
@@ -47,16 +47,38 @@
         const container = document.querySelector(".slideshow-container");
         if (container.childElementCount > 1) {
           const width = container.offsetWidth / 2 + 5
+          const scrollDuration = 1200
           let pos = 0
+
+          function scrollTo(target) {
+            const start = container.scrollLeft
+            const startTime = performance.now()
+
+            function animate(currentTime) {
+              const progress = Math.min((currentTime - startTime) / scrollDuration, 1)
+              const easedProgress = progress < 0.5
+                ? 2 * progress * progress
+                : 1 - Math.pow(-2 * progress + 2, 2) / 2
+
+              container.scrollLeft = start + (target - start) * easedProgress
+              if (progress < 1) {
+                requestAnimationFrame(animate)
+              }
+            }
+
+            requestAnimationFrame(animate)
+          }
+
           setInterval(() => {
             pos = pos + width
             if (pos + width > container.scrollWidth) {
               pos = 0
             }
-            container.scrollTo(pos, 0)
+            scrollTo(pos)
           }, 3000);
         }
       });
     </script>
   </body>
 </html>
+  
