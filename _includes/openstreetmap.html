@@ -1,6 +1,9 @@
 {% comment %}
 OpenStreetMap Include für Jekyll
 Parameter:
+- date: Datum (optional)
+- title: Titel für den Link (optional)
+- description: Beschreibung des Termins (optional)
 - lat: Breitengrad (erforderlich)
 - lon: Längengrad (erforderlich)
 - zoom: Zoom-Level (optional, Standard: 17)
@@ -13,5 +16,13 @@ Parameter:
 {% assign width = include.width | default: 425 %}
 {% assign height = include.height | default: 350 %}
 
-<iframe width="{{ width }}" height="{{ height }}" src="https://www.openstreetmap.org/export/embed.html?bbox={{ include.lon | minus: 0.006 }}%2C{{ include.lat | minus: 0.003 }}%2C{{ include.lon | plus: 0.006 }}%2C{{ include.lat | plus: 0.003 }}&amp;layer=mapnik&amp;marker={{ include.lat }}%2C{{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}" style="border: 1px solid black"></iframe>
+## {{include.date | default: "Datum nicht angegeben"}} {{include.time | default: "Uhrzeit wird noch bekannt gegeben"}} {% if include.title %} - {{ include.title }}{% endif %}
+
+{% if include.description %}{{ include.description }}{% endif %}
+
+{% if include.address %} Das Treffen findet an folgender Adresse statt: {{ include.address }}{% endif %}
+
+{% if include.lat and include.lon %}
+<iframe title="Ort der Veranstaltung auf der OSM-Karte" width="{{ width }}" height="{{ height }}" src="https://www.openstreetmap.org/export/embed.html?bbox={{ include.lon | minus: 0.006 }}%2C{{ include.lat | minus: 0.003 }}%2C{{ include.lon | plus: 0.006 }}%2C{{ include.lat | plus: 0.003 }}&amp;layer=mapnik&amp;marker={{ include.lat }}%2C{{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}"></iframe>
 <br><small><a href="https://www.openstreetmap.org/?mlat={{ include.lat }}&amp;mlon={{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}">Größere Karte anzeigen{% if include.address %}: {{ include.address }}{% endif %}</a></small>
+{% endif %}
