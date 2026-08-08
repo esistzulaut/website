@@ -3,6 +3,10 @@ layout: mainpage
 markdown: kramdown
 ---
 
+### Save the Date: 19.09.2026
+
+[Unsere Info-Veranstaltung zur diesjährigen Lärmmessung in Griesheim und Goldstein](/termine#samstag-den-19092026-1400----informationsveranstaltung-zu-lärm--feinstaub--tempolimit-und-verkehrschaos)
+
 # Wir fordern: Keine Erweiterung der Autobahn A5!
 
 Seit vielen Jahren fordern Griesheimer und Goldsteiner Bürgerinnen und Bürger von den zuständigen Behörden wirksame Maßnahmen gegen die Lärmbelästigung durch die Autobahn, wie Tempolimit, bessere Lärmschutzwände und schallvermindernden Straßenbelag. Bis heute, ohne Erfolg.

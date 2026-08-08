@@ -13,4 +13,4 @@ Neben dem ehemaligen Verkehrsminister Volker Wissing kommen auch Stefan Gegner u
 
 Die vollständige Sendung kann in der [Deutschlandfunk-Mediathek](https://www.deutschlandfunkkultur.de/lange-nacht-zum-strassenverkehr-in-deutschland-freie-fahrt-fuer-freie-buerger-100.html) gehört werden.
 
-Sie ist sehr hörenswert, aber mit zweieinhalb Stunden auch sehr lang, daher aben wir eine auf den Teil [gekürzte Fassung](https://player.mediadelivery.net/play/643172/b23b386c-d0bd-4ffc-a99d-6204c565e286), der sich mit dem Ausbau der A5 beschäftigtbereitgestellt.
+Sie ist sehr hörenswert, aber mit zweieinhalb Stunden auch sehr lang, daher haben wir eine auf den Teil [gekürzte Fassung](https://player.mediadelivery.net/play/643172/b23b386c-d0bd-4ffc-a99d-6204c565e286), der sich mit dem Ausbau der A5 beschäftigt bereitgestellt.
