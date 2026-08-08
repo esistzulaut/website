@@ -7,12 +7,28 @@ Parameter:
 - lat: Breitengrad (erforderlich)
 - lon: Längengrad (erforderlich)
 - zoom: Zoom-Level (optional, Standard: 17)
+- geoURI: Geo-URI mit Koordinaten und optionalem Zoom-Level (alternativ zu lat/lon/zoom)
 - width: Breite des iframes (optional, Standard: 425)
 - height: Höhe des iframes (optional, Standard: 350)
 - address: Adresse für den Link-Text (optional)
 {% endcomment %}
 
+{% assign lat = include.lat %}
+{% assign lon = include.lon %}
 {% assign zoom = include.zoom | default: 17 %}
+{% if include.geoURI %}
+{% assign geo_uri_parts = include.geoURI | remove_first: 'geo:' | split: '?' %}
+{% assign geo_coordinates = geo_uri_parts[0] | split: ',' %}
+{% assign lat = geo_coordinates[0] %}
+{% assign lon = geo_coordinates[1] %}
+{% if geo_uri_parts[1] %}
+{% assign geo_parameters = geo_uri_parts[1] | split: '&' %}
+{% for geo_parameter in geo_parameters %}
+{% assign geo_parameter_parts = geo_parameter | split: '=' %}
+{% if geo_parameter_parts[0] == 'z' %}{% assign zoom = geo_parameter_parts[1] %}{% endif %}
+{% endfor %}
+{% endif %}
+{% endif %}
 {% assign width = include.width | default: 425 %}
 {% assign height = include.height | default: 350 %}
 
@@ -22,7 +38,7 @@ Parameter:
 
 {% if include.address %} Das Treffen findet an folgender Adresse statt: {{ include.address }}{% endif %}
 
-{% if include.lat and include.lon %}
-<iframe title="Ort der Veranstaltung auf der OSM-Karte" width="{{ width }}" height="{{ height }}" src="https://www.openstreetmap.org/export/embed.html?bbox={{ include.lon | minus: 0.006 }}%2C{{ include.lat | minus: 0.003 }}%2C{{ include.lon | plus: 0.006 }}%2C{{ include.lat | plus: 0.003 }}&amp;layer=mapnik&amp;marker={{ include.lat }}%2C{{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}"></iframe>
-<br><small><a href="https://www.openstreetmap.org/?mlat={{ include.lat }}&amp;mlon={{ include.lon }}#map={{ zoom }}/{{ include.lat }}/{{ include.lon }}">Größere Karte anzeigen{% if include.address %}: {{ include.address }}{% endif %}</a></small>
+{% if lat and lon %}
+<iframe title="Ort der Veranstaltung auf der OSM-Karte" width="{{ width }}" height="{{ height }}" src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon | minus: 0.006 }}%2C{{ lat | minus: 0.003 }}%2C{{ lon | plus: 0.006 }}%2C{{ lat | plus: 0.003 }}&amp;layer=mapnik&amp;marker={{ lat }}%2C{{ lon }}#map={{ zoom }}/{{ lat }}/{{ lon }}"></iframe>
+<br><small><a href="https://www.openstreetmap.org/?mlat={{ lat }}&amp;mlon={{ lon }}#map={{ zoom }}/{{ lat }}/{{ lon }}">Größere Karte anzeigen{% if include.address %}: {{ include.address }}{% endif %}</a></small>
 {% endif %}

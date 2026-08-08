@@ -28,41 +28,36 @@ layout: default
     title='Treffen der Bürgerinitiative "Es ist zu laut!"'
     description='Es ist das reguläre Treffen der Bürgerinitive zum Austausch von Informationen und zur weiteren Abstimmung von Aktionen.'
 
-    address='Restaurant Mainglück im Ruderclub Griesheim'
-    lat=50.090635 lon=8.612273 zoom=16
+    address='Restaurant Mainglück im Ruderclub Griesheim' geoURI='geo:50.090635,8.612273?z=16'
 %}
 
 <!--
-    address='Restaurant Mainglück im Ruderclub Griesheim'
-    lat=50.090635 lon=8.612273 zoom=16
+    Die folgenden Abschnitte können nach oben kopiert werden, wenn eine andere Location benötigt wird:
 
-    address='Bürgerhaus Goldstein, Goldsteinstraße 314'
-    lat=50.082193 lon=8.609676 zoom=15
+    address='Restaurant Mainglück im Ruderclub Griesheim' geoURI='geo:50.090635,8.612273?z=16'
 
-    address='1. Stock des Evangelischen Gemeindehauses neben der Segenskirche in Griesheim, Alte Falterstraße 6'
-    lat=50.0913 lon=8.6068 zoom=16
+    address='Bürgerhaus Goldstein, Goldsteinstraße 314' geoURI='geo:50.082193,8.609676?z=15'
 
-    address='Ev. Schöpfungsgemeinde, Am Goldsteinpark Ia, Goldstein'
-    lat=50.08329 lon=8.60942 zoom=16
+    address='1. Stock des Evangelischen Gemeindehauses neben der Segenskirche in Griesheim, Alte Falterstraße 6' geoURI='geo:50.0913,8.6068?z=16'
+
+    address='Ev. Schöpfungsgemeinde, Am Goldsteinpark Ia, Goldstein' geoURI='geo:50.08329,8.60942?z=16'
+
+    Natürlich kann man auch weitere Orte hinzufügen, muss sich dann nur die geoURI von https://openstreetmap.org heraus suchen (rechts auf der Seite)
 -->
-
 
 {% include openstreetmap.html
     date='Samstag, den 19.09.2026' time='14:00'
     title='Informationsveranstaltung zu Lärm – Feinstaub – Tempolimit und Verkehrschaos'
     description='Lockeres Ankommen ab 12:00. Ab 14 Uhr stellen wir die Ergebnisse unserer Lärmmessungen der letzten Monate vor. Anschließend gibt es Kaffee und selbstgemachte Kuchen / Muffins etc. Kuchen- und Geldspenden sind willkommen!'
-    address='Einbaumstraße'
-    lat=50.09083 lon=8.61961 zoom=17
+    address='Einbaumstraße' geoURI='geo:50.09083,8.61961?z=17'
 %}
 
 ![Einbaumstraße](/assets/locations/Einbaumstraße-1.jpg){:class="left small"}
 ![Einbaumstraße](/assets/locations/Einbaumstraße-2.jpg){:class="small"}
 
-
 Neu asphaltierte Fläche – beidseitig zu diesem Zeitpunkt noch nicht für den allgemeinen Straßenverkehr freigegeben.
 Durchfahrt aufgrund von aufgestellten Barrieren nicht möglich.
 Über die neu gepflasterten Gehwege für uns gut zugänglich.
-
 
 <!--
 ## Nächste Brückentreffen
