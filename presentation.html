@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A5-Lärmmessung - Stoppt den Autobahnausbau!</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/theme/night.css">
+    <style>
+        :root {
+            --primary: #e74c3c;
+            --secondary: #3498db;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --dark: #2c3e50;
+        }
+        
+        .reveal {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-size: 32px;
+        }
+        
+        .reveal h1, .reveal h2, .reveal h3 {
+            text-transform: none;
+            font-weight: bold;
+        }
+        
+        .reveal .slides section {
+            text-align: left;
+        }
+        
+        .reveal .slides section,
+        .reveal .slides section>section {
+            line-height: 1.3;
+            font-weight: inherit;
+        }
+        
+        .reveal .title-slide {
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+        }
+        
+        .reveal .title-slide h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 20px;
+        }
+        
+        .hero-number {
+            font-size: 3.5em;
+            font-weight: bold;
+            color: var(--primary);
+            text-align: center;
+            margin: 15px 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .impact-box {
+            background: rgba(231, 76, 60, 0.15);
+            border-left: 5px solid var(--primary);
+            padding: 12px;
+            margin: 12px 0;
+            border-radius: 5px;
+        }
+        
+        .info-box {
+            background: rgba(52, 152, 219, 0.15);
+            border-left: 5px solid var(--secondary);
+            padding: 12px;
+            margin: 12px 0;
+            border-radius: 5px;
+        }
+        
+        .action-box {
+            background: rgba(39, 174, 96, 0.15);
+            border-left: 5px solid var(--success);
+            padding: 12px;
+            margin: 12px 0;
+            border-radius: 5px;
+            font-size: 0.95em;
+        }
+        
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .stat-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 12px;
+            border-radius: 10px;
+            text-align: center;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .stat-card .number {
+            font-size: 2em;
+            font-weight: bold;
+            color: var(--warning);
+            display: block;
+        }
+        
+        .stat-card .label {
+            font-size: 0.9em;
+            opacity: 0.8;
+            margin-top: 10px;
+        }
+        
+        .comparison {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            margin: 30px 0;
+        }
+        
+        .comparison-item {
+            text-align: center;
+            flex: 1;
+        }
+        
+        .comparison-bar {
+            height: 40px;
+            background: var(--primary);
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        
+        .comparison-bar.exceeded {
+            background: linear-gradient(90deg, var(--warning) 0%, var(--primary) 100%);
+        }
+        
+        .highlight-red {
+            color: var(--primary);
+            font-weight: bold;
+        }
+        
+        .highlight-blue {
+            color: var(--secondary);
+            font-weight: bold;
+        }
+        
+        .big-quote {
+            font-size: 1.8em;
+            font-style: italic;
+            text-align: center;
+            margin: 40px 0;
+            padding: 30px;
+            border-left: 5px solid var(--primary);
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .icon-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .icon-list li {
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 1.1em;
+        }
+        
+        .icon-list li:before {
+            content: "⚠️ ";
+            margin-right: 10px;
+        }
+        
+        .cta-button {
+            background: var(--success);
+            color: white;
+            padding: 20px 40px;
+            border-radius: 10px;
+            font-size: 1.3em;
+            font-weight: bold;
+            display: inline-block;
+            margin: 20px 0;
+            text-decoration: none;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        }
+        
+        .environmental-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .env-card {
+            background: rgba(231, 76, 60, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid var(--primary);
+        }
+        
+        .env-card h3 {
+            margin-top: 0;
+            font-size: 1.2em;
+        }
+        
+        .small-text {
+            font-size: 0.7em;
+            opacity: 0.7;
+            margin-top: 20px;
+        }
+        
+        /* Slide Overview Mode - Force smaller scaling */
+        .reveal.overview .slides {
+            perspective: 700px !important;
+        }
+        
+        .reveal.overview .slides section {
+            min-height: 0 !important;
+            min-width: 0 !important;
+            cursor: pointer;
+            transform: scale(0.15) !important;
+            margin: 20px !important;
+        }
+        
+        .reveal.overview .slides section.present {
+            border: 3px solid #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            
+            <!-- Titel -->
+            <section class="title-slide">
+                <div style="margin-bottom: 15px;">
+                    <img src="https://www.esistzulaut.org/assets/img/Logo_BI_00.gif" alt="Es ist zu laut!" style="max-width: 220px; max-height: 130px;">
+                </div>
+                <h1 style="font-size: 2.3em; margin: 15px 0;">Es ist zu laut!!</h1>
+                <h2 style="font-size: 1.2em; margin: 12px 0;">Bürgermessungen zeigen: Der Lärm ist unerträglich</h2>
+                <p style="margin-top: 25px; font-size: 0.95em;">
+                    5.254 Messungen · 50 Bürger · Juni-September 2026
+                </p>
+            </section>
+
+            <!-- Was ist das hier? -->
+            <section>
+                <h2>Was steckt hinter diesen Daten?</h2>
+                <div class="info-box fragment">
+                    <h3 style="margin: 0 0 10px 0; font-size: 1.1em;">Bürgerinitiative "Es ist zu laut!"</h3>
+                    <p style="margin: 0;">Mit einer einfachen Web-App haben <strong>50 Bürger</strong> den Lärm entlang der A5 gemessen.</p>
+                </div>
+                <div class="info-box fragment">
+                    <p style="margin: 0;"><strong>Kein wissenschaftliches Labor. Keine teuren Geräte.</strong><br>
+                    Nur besorgte Anwohner mit ihren Smartphones.</p>
+                </div>
+                <div class="info-box fragment">
+                    <p style="margin: 0;">Diese Messungen sind <strong>Anhaltspunkte</strong> - aber sie zeigen:</p>
+                    <p style="font-size: 1.2em; margin: 10px 0 0 0;">
+                        <span class="highlight-red">Die Lärmbelastung ist dramatisch.</span>
+                    </p>
+                </div>
+            </section>
+
+            <!-- Die Zahlen -->
+            <section>
+                <h2>Die Fakten auf einen Blick</h2>
+                <div class="stat-grid">
+                    <div class="stat-card fragment">
+                        <span class="number">50</span>
+                        <span class="label">Teilnehmende Bürger</span>
+                    </div>
+                    <div class="stat-card fragment">
+                        <span class="number">5.254</span>
+                        <span class="label">Lärmmessungen</span>
+                    </div>
+                    <div class="stat-card fragment">
+                        <span class="number">110</span>
+                        <span class="label">Messorte</span>
+                    </div>
+                </div>
+                <div class="hero-number fragment">70,4 dB(A)</div>
+                <p class="fragment" style="text-align: center; font-size: 1.2em; margin-top: 10px;">
+                    Median-Lärmpegel im 200m-Korridor der A5
+                </p>
+            </section>
+
+            <!-- Was bedeutet das? -->
+            <section>
+                <h2>70 dB - wie laut ist das?</h2>
+                <div class="comparison">
+                    <div class="comparison-item">
+                        <div>🗣️</div>
+                        <div>Normale Unterhaltung</div>
+                        <div style="font-size: 1.5em; margin-top: 10px;">60 dB</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div style="font-size: 3em;">→</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div>🚗</div>
+                        <div><strong>A5-Lärm</strong></div>
+                        <div style="font-size: 1.8em; margin-top: 10px; color: var(--primary);">70 dB</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div style="font-size: 3em;">→</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div>🔨</div>
+                        <div>Presslufthammer</div>
+                        <div style="font-size: 1.5em; margin-top: 10px;">90 dB</div>
+                    </div>
+                </div>
+                <div class="impact-box">
+                    <p style="font-size: 1.2em; text-align: center;">
+                        <strong>Wie laut ist ein Staubsauger?</strong> 70 dB.<br>
+                        So laut ist es <span class="highlight-red">ständig</span> für Anwohner der A5.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Verteilung der Messwerte -->
+            <section>
+                <h2>Verteilung der Lärmpegel</h2>
+                <canvas id="distributionChart" width="900" height="500" style="margin: 20px auto; display: block;"></canvas>
+                <div class="small-text" style="text-align: center; margin-top: 10px;">
+                    Gepunktete Linien = Gesetzliche Grenzwerte (BImSchV)
+                </div>
+            </section>
+
+            <!-- Grenzwerte -->
+            <section>
+                <h2>Gesetzliche Grenzwerte</h2>
+                <div class="fragment" style="display: flex; gap: 30px; margin: 20px 0;">
+                    <div style="flex: 1; text-align: center;">
+                        <div style="font-size: 2.8em; color: var(--secondary);">59 dB</div>
+                        <div>Grenzwert Tags<br><span class="small-text">(6-22 Uhr)</span></div>
+                    </div>
+                    <div style="flex: 1; text-align: center;">
+                        <div style="font-size: 2.8em; color: var(--secondary);">49 dB</div>
+                        <div>Grenzwert Nachts<br><span class="small-text">(22-6 Uhr)</span></div>
+                    </div>
+                </div>
+                <div class="hero-number fragment" style="font-size: 4em; margin: 20px 0;">59,8%</div>
+                <p class="fragment" style="text-align: center; font-size: 1.2em;">
+                    der Tagmessungen <span class="highlight-red">übersteigen</span> den Grenzwert
+                </p>
+                <div class="fragment small-text" style="text-align: center; margin-top: 15px;">
+                    WHO-Empfehlungen (53 dB tags): sogar 66% Überschreitung
+                </div>
+            </section>
+
+            <!-- Gesundheit -->
+            <section>
+                <h2>Was macht Lärm mit uns?</h2>
+                <ul class="icon-list fragment" style="font-size: 0.95em;">
+                    <li><strong>Schlafstörungen</strong> - Erholung unmöglich</li>
+                    <li><strong>Chronischer Stress</strong> - dauerhaft erhöhte Werte</li>
+                    <li><strong>Herz-Kreislauf-Erkrankungen</strong> - erhöhtes Risiko</li>
+                    <li><strong>Konzentrationsprobleme</strong> - Lernprobleme bei Kindern</li>
+                </ul>
+                <div class="impact-box fragment" style="margin-top: 25px;">
+                    <p style="font-size: 1.1em; text-align: center;">
+                        <strong>Die WHO warnt:</strong> Lärm über 53 dB tags ist gesundheitsgefährdend.
+                    </p>
+                    <p style="font-size: 1.4em; text-align: center; margin-top: 15px;">
+                        Wir liegen bei <span class="highlight-red">70,4 dB</span>.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Umfrage: Betroffenheit -->
+            <section>
+                <h2>Was sagen die Betroffenen?</h2>
+                <div class="info-box fragment">
+                    <p style="margin: 0; text-align: center;"><strong>52 Menschen haben geantwortet</strong></p>
+                </div>
+                <div class="stat-grid" style="margin-top: 20px;">
+                    <div class="stat-card fragment">
+                        <span class="number">8,4</span>
+                        <span class="label">Durchschnittliche Belastung<br>(Skala 1-10)</span>
+                    </div>
+                    <div class="stat-card fragment">
+                        <span class="number">9</span>
+                        <span class="label">Median der Belastung</span>
+                    </div>
+                    <div class="stat-card fragment">
+                        <span class="number">73%</span>
+                        <span class="label">Spüren deutliche oder extreme Gesundheitsfolgen</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Umfrage: Wann stört es? -->
+            <section>
+                <h2>Wann stört der Lärm am meisten?</h2>
+                <div class="comparison" style="flex-direction: column; align-items: stretch;">
+                    <div class="fragment">
+                        <div class="comparison-bar exceeded" style="width: 46.2%;">
+                            Nachts: 46%
+                        </div>
+                    </div>
+                    <div class="fragment">
+                        <div class="comparison-bar exceeded" style="width: 38.5%;">
+                            Abends: 39%
+                        </div>
+                    </div>
+                    <div class="fragment">
+                        <div class="comparison-bar" style="width: 9.6%; background: var(--warning);">
+                            Morgens: 10%
+                        </div>
+                    </div>
+                    <div class="fragment">
+                        <div class="comparison-bar" style="width: 1.9%; background: var(--secondary); min-width: 100px;">
+                            Mittags: 2%
+                        </div>
+                    </div>
+                </div>
+                <div class="impact-box fragment" style="margin-top: 20px;">
+                    <p style="text-align: center; margin: 0;">
+                        <strong>Fast die Hälfte leidet nachts</strong> - wenn Ruhe am wichtigsten wäre
+                    </p>
+                </div>
+            </section>
+
+            <!-- Umfrage: Gesundheit -->
+            <section>
+                <h2>Gesundheitliche Auswirkungen</h2>
+                <div class="environmental-grid">
+                    <div class="env-card fragment" style="border-color: var(--primary); background: rgba(231, 76, 60, 0.25);">
+                        <h3 style="font-size: 1.8em; margin-bottom: 10px;">15%</h3>
+                        <p style="margin: 0;"><strong>Extrem</strong> belastet</p>
+                    </div>
+                    <div class="env-card fragment" style="border-color: var(--warning); background: rgba(243, 156, 18, 0.2);">
+                        <h3 style="font-size: 1.8em; margin-bottom: 10px;">58%</h3>
+                        <p style="margin: 0;"><strong>Deutliche</strong> Auswirkungen</p>
+                    </div>
+                    <div class="env-card fragment" style="border-color: var(--secondary); background: rgba(52, 152, 219, 0.2);">
+                        <h3 style="font-size: 1.8em; margin-bottom: 10px;">19%</h3>
+                        <p style="margin: 0;"><strong>Wenig</strong> betroffen</p>
+                    </div>
+                    <div class="env-card fragment" style="border-color: var(--success); background: rgba(39, 174, 96, 0.2);">
+                        <h3 style="font-size: 1.8em; margin-bottom: 10px;">8%</h3>
+                        <p style="margin: 0;"><strong>Gar nicht</strong> betroffen</p>
+                    </div>
+                </div>
+                <div class="hero-number fragment" style="font-size: 3em; margin-top: 20px;">73%</div>
+                <p class="fragment" style="text-align: center; font-size: 1.1em;">
+                    leiden unter <span class="highlight-red">deutlichen oder extremen</span> Gesundheitsfolgen
+                </p>
+            </section>
+
+            <!-- Aber es geht um mehr -->
+            <section>
+                <h2>Lärm ist nur die Spitze des Eisbergs</h2>
+                <div class="environmental-grid">
+                    <div class="env-card fragment">
+                        <h3>🫁 Feinstaub & Abgase</h3>
+                        <p>Mehr Verkehr = mehr Schadstoffe in der Luft, die wir atmen</p>
+                    </div>
+                    <div class="env-card fragment">
+                        <h3>🌡️ Klimakrise</h3>
+                        <p>Mehr Autobahn = mehr CO₂ = beschleunigte Erderwärmung</p>
+                    </div>
+                    <div class="env-card fragment">
+                        <h3>🏞️ Flächenversiegelung</h3>
+                        <p>Wertvolle Natur wird für immer unter Asphalt begraben</p>
+                    </div>
+                    <div class="env-card fragment">
+                        <h3>🦋 Artenverlust</h3>
+                        <p>Lebensräume für Tiere und Pflanzen werden zerstört</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Die Frage -->
+            <section>
+                <div class="big-quote">
+                    "Wollen wir wirklich noch MEHR Autobahn?<br><br>
+                    Noch mehr Lärm?<br>
+                    Noch mehr Gift in der Luft?<br>
+                    Noch mehr zerstörte Natur?"
+                </div>
+            </section>
+
+            <!-- Was können wir tun? -->
+            <section>
+                <h2>Was wir JETZT brauchen</h2>
+                <div class="action-box fragment" style="padding: 15px;">
+                    <h3 style="margin: 0 0 10px 0; font-size: 1.1em;">Sofortige Lärmschutzmaßnahmen:</h3>
+                    <ul style="margin: 10px 0; font-size: 0.95em;">
+                        <li>Lärmschutzwände entlang der A5</li>
+                        <li>Geschwindigkeitsbegrenzungen</li>
+                        <li>Flüsterasphalt</li>
+                        <li>Lärmschutzfenster für Anwohner</li>
+                    </ul>
+                </div>
+                <div class="impact-box fragment" style="margin-top: 15px; padding: 15px;">
+                    <h3 style="margin: 0 0 10px 0; font-size: 1.1em;">Und vor allem:</h3>
+                    <p style="font-size: 1.2em; margin: 0;">
+                        <strong>STOPP des Autobahnausbaus!</strong>
+                    </p>
+                </div>
+            </section>
+
+            <!-- Call to Action -->
+            <section class="title-slide">
+                <h2>Jetzt aktiv werden!</h2>
+                <div style="margin: 40px 0; font-size: 1.1em; line-height: 1.8;">
+                    <p>✊ Unterschreibe Petitionen gegen den A5-Ausbau</p>
+                    <p>📧 Schreibe an Politiker und Behörden</p>
+                    <p>📢 Teile diese Daten in sozialen Medien</p>
+                    <p>🤝 Unterstütze "Es ist zu laut!"</p>
+                    <p>🗣️ Rede mit Nachbarn, Familie, Freunden</p>
+                </div>
+                <div style="margin-top: 50px; font-size: 1.3em; font-weight: bold;">
+                    Die Zeit zu handeln ist JETZT!
+                </div>
+
+                
+            </section>
+
+            <!-- Schlussbild -->
+            <section class="title-slide">
+                <h1>Gemeinsam für eine<br>lebenswerte Zukunft</h1>
+                <p style="margin-top: 50px; font-size: 1.2em;">
+                    Weniger Lärm · Saubere Luft · Intakte Natur
+                </p>
+                <div style="margin-top: 60px; font-size: 0.9em; opacity: 0.8;">
+                    Daten: Juni-September 2026 | 50 Bürger | 5.254 Messungen
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/zoom/zoom.js"></script>
+    <script>
+        // Load distribution data and draw chart
+        fetch('./data/distribution.json')
+            .then(response => response.json())
+            .then(data => {
+                const canvas = document.getElementById('distributionChart');
+                const ctx = canvas.getContext('2d');
+                
+                // Chart dimensions
+                const width = canvas.width;
+                const height = canvas.height;
+                const margin = { top: 40, right: 40, bottom: 60, left: 60 };
+                const chartWidth = width - margin.left - margin.right;
+                const chartHeight = height - margin.top - margin.bottom;
+                
+                // Prepare data
+                const dbValues = Object.keys(data.dayBuckets).map(Number).sort((a, b) => a - b);
+                const dayValues = dbValues.map(db => data.dayBuckets[db]);
+                const nightValues = dbValues.map(db => data.nightBuckets[db]);
+                
+                // Find max value for scaling
+                const maxCount = Math.max(...dayValues, ...nightValues);
+                
+                // Clear canvas and set background
+                ctx.fillStyle = '#191919';
+                ctx.fillRect(0, 0, width, height);
+                
+                // Draw axes
+                ctx.strokeStyle = '#fff';
+                ctx.lineWidth = 2;
+                ctx.beginPath();
+                ctx.moveTo(margin.left, margin.top);
+                ctx.lineTo(margin.left, height - margin.bottom);
+                ctx.lineTo(width - margin.right, height - margin.bottom);
+                ctx.stroke();
+                
+                // Draw limit lines (gepunktet)
+                const dayLimit = 59;
+                const nightLimit = 49;
+                
+                const dbToX = (db) => margin.left + ((db - dbValues[0]) / (dbValues[dbValues.length - 1] - dbValues[0])) * chartWidth;
+                
+                // Day limit line
+                ctx.strokeStyle = '#3498db';
+                ctx.lineWidth = 2;
+                ctx.setLineDash([5, 5]);
+                const dayLimitX = dbToX(dayLimit);
+                ctx.beginPath();
+                ctx.moveTo(dayLimitX, margin.top);
+                ctx.lineTo(dayLimitX, height - margin.bottom);
+                ctx.stroke();
+                
+                // Night limit line
+                ctx.strokeStyle = '#9b59b6';
+                const nightLimitX = dbToX(nightLimit);
+                ctx.beginPath();
+                ctx.moveTo(nightLimitX, margin.top);
+                ctx.lineTo(nightLimitX, height - margin.bottom);
+                ctx.stroke();
+                
+                ctx.setLineDash([]);
+                
+                // Draw bars
+                const barWidth = chartWidth / dbValues.length * 0.8;
+                
+                dbValues.forEach((db, i) => {
+                    const x = margin.left + (i / dbValues.length) * chartWidth;
+                    const dayHeight = (dayValues[i] / maxCount) * chartHeight;
+                    const nightHeight = (nightValues[i] / maxCount) * chartHeight;
+                    
+                    // Day bar (orange/yellow)
+                    ctx.fillStyle = 'rgba(241, 196, 15, 0.7)';
+                    ctx.fillRect(x, height - margin.bottom - dayHeight, barWidth / 2, dayHeight);
+                    
+                    // Night bar (purple)
+                    ctx.fillStyle = 'rgba(155, 89, 182, 0.7)';
+                    ctx.fillRect(x + barWidth / 2, height - margin.bottom - nightHeight, barWidth / 2, nightHeight);
+                });
+                
+                // Labels
+                ctx.fillStyle = '#fff';
+                ctx.font = 'bold 16px Arial';
+                ctx.textAlign = 'center';
+                
+                // X-axis label
+                ctx.fillText('Lärmpegel [dB(A)]', width / 2, height - 15);
+                
+                // Y-axis label
+                ctx.save();
+                ctx.translate(15, height / 2);
+                ctx.rotate(-Math.PI / 2);
+                ctx.fillText('Anzahl Messungen', 0, 0);
+                ctx.restore();
+                
+                // X-axis ticks
+                ctx.font = '14px Arial';
+                for (let i = 0; i < dbValues.length; i += 5) {
+                    const x = margin.left + (i / dbValues.length) * chartWidth;
+                    ctx.fillText(dbValues[i], x, height - margin.bottom + 25);
+                }
+                
+                // Y-axis ticks
+                ctx.textAlign = 'right';
+                for (let i = 0; i <= 5; i++) {
+                    const y = height - margin.bottom - (i / 5) * chartHeight;
+                    const value = Math.round((i / 5) * maxCount);
+                    ctx.fillText(value, margin.left - 10, y + 5);
+                }
+                
+                // Legend
+                ctx.textAlign = 'left';
+                ctx.font = '16px Arial';
+                
+                ctx.fillStyle = 'rgba(241, 196, 15, 0.7)';
+                ctx.fillRect(width - 200, margin.top, 20, 20);
+                ctx.fillStyle = '#fff';
+                ctx.fillText('Tag (6-22 Uhr)', width - 175, margin.top + 15);
+                
+                ctx.fillStyle = 'rgba(155, 89, 182, 0.7)';
+                ctx.fillRect(width - 200, margin.top + 30, 20, 20);
+                ctx.fillStyle = '#fff';
+                ctx.fillText('Nacht (22-6 Uhr)', width - 175, margin.top + 45);
+                
+                // Limit labels
+                ctx.fillStyle = '#3498db';
+                ctx.fillText('59 dB Limit Tag', dayLimitX + 5, margin.top + 20);
+                
+                ctx.fillStyle = '#9b59b6';
+                ctx.fillText('49 dB Limit Nacht', nightLimitX + 5, margin.top + 40);
+            })
+            .catch(err => console.error('Error loading distribution data:', err));
+        
+        Reveal.initialize({
+            hash: true,
+            transition: 'slide',
+            width: 1280,
+            height: 720,
+            margin: 0.04,
+            controls: true,
+            progress: true,
+            center: false,
+            slideNumber: true,
+            backgroundTransition: 'fade',
+            overview: true,
+            minScale: 0.1,
+            maxScale: 2.0,
+            plugins: [ RevealZoom ],
+            disableLayout: false
+        }).then(() => {
+            // Override overview layout
+            Reveal.on('overviewshown', () => {
+                console.log('Overview mode activated');
+                const slides = document.querySelectorAll('.reveal .slides section');
+                const slideCount = slides.length;
+                const cols = Math.ceil(Math.sqrt(slideCount));
+                const rows = Math.ceil(slideCount / cols);
+                const scale = 0.15;
+                
+                slides.forEach((slide, index) => {
+                    const col = index % cols;
+                    const row = Math.floor(index / cols);
+                    const x = (col - (cols - 1) / 2) * 300;
+                    const y = (row - (rows - 1) / 2) * 200;
+                    
+                    slide.style.transform = `translate(${x}px, ${y}px) scale(${scale})`;
+                    slide.style.position = 'absolute';
+                    slide.style.left = '50%';
+                    slide.style.top = '50%';
+                });
+            });
+            
+            Reveal.on('overviewhidden', () => {
+                console.log('Overview mode deactivated');
+            });
+        });
+    </script>
+</body>
+</html>

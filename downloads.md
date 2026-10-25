@@ -7,6 +7,8 @@ id: download
 
 ## Hier findest Du aktuelle Flyer der BI als PDF und das Logo zum Kopieren und selbst Ausdrucken.
 
+- [📊 _Präsentation: Bürgermessungen zeigen - Es ist zu laut!_](/presentation.html){:target="\_blank"}
+
 - [![Flyer zur Filmreihe](/assets/img/Autobahn-Filme.jpeg) _Flyer zur Filmreihe rund um die Autobahn im Frankfurter Westen_](/assets/files/2025_Flyer-Film.pdf){:target="\_blank"}
 
 - [![Aktionszeitung](/assets/img/2025_Aktionszeitung.jpg) _Aktionszeitung_](/assets/files/2025_Aktionszeitung.pdf){:target="\_blank"}
